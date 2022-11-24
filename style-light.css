@@ -2,6 +2,11 @@ body{
     color:black;
     background-color: white;
 }
+.atr-550{
+    background-color: transparent;
+    border: 0px;
+
+}
 .bodyoscuro{
     background-color: black;
 }
@@ -86,8 +91,7 @@ a{
     background-size: 800%;
     border-radius: 10px;
     filter: blur(8px);
-    animation: glowing 20s linear infinite;
-}
+    animation: glowing 20s linear infinite;}
 
 @keyframes glowing{
     0%{
@@ -107,4 +111,78 @@ a{
 .nav-item2{
     color: white;
     font-size: 20px;
+}
+.titulo-redes{
+    color: rgb(172, 165, 165);
+}
+.nether{
+    height: 40px;
+    width: 40px;
+    margin: 0px;
+}
+.a1{animation-name: nether;
+    animation-duration: 1s;}
+.a2{animation-name: nether;
+    animation-duration: 1,2s;}
+.a3{animation-name: nether;
+    animation-duration: 1,4s;}
+.a4{animation-name: nether;
+    animation-duration: 1,6s;}
+.a5{animation-name: nether;
+    animation-duration: 1,8s;}
+.a6{animation-name: nether;
+    animation-duration: 2s;}
+.a7{animation-name: nether;
+    animation-duration: 2,2s;}
+.a8{animation-name: nether;
+    animation-duration: 2,4s;}
+.a9{animation-name: nether;
+    animation-duration: 2,6s;}
+.a10{animation-name: nether;
+    animation-duration: 2,8s;}
+.a11{animation-name: nether;
+    animation-duration: 3s;}
+.a12{animation-name: nether;
+    animation-duration: 3,2s;}
+.a13{animation-name: nether;
+    animation-duration: 3,4s;}
+.a14{animation-name: nether;
+    animation-duration: 3,6s;}
+.a15{animation-name: nether;
+    animation-duration: 3,8s;}
+.a16{animation-name: nether;
+    animation-duration: 4s;}
+.a17{animation-name: nether;
+    animation-duration: 4,2s;}
+.a18{animation-name: nether;
+    animation-duration: 4,4s;}
+.a19{animation-name: nether;
+    animation-duration: 4,6s;}
+.a20{animation-name: nether;
+    animation-duration: 4,8s;}
+
+     @keyframes nether{
+        0%{
+            filter: opacity(0%);
+        }
+        100%{
+            filter: opacity(100%);
+        }
+     }
+
+
+
+
+
+
+
+
+
+
+
+.margen-0{
+    margin: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
