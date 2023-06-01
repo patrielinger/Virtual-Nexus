@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Nexus</title>
+    <link rel="website icon" type="png" href="/img/icono.jpeg">
+    <link rel="stylesheet" href="/css/style1200px.css">
+    <link rel="stylesheet" href="/css/style900px.css">
+    <link rel="stylesheet" href="/css/style400px.css">
+    <link rel="stylesheet" href="/css/search.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="/js/juegos.js"></script>
+    <script src="/js/meta.js"></script>
+</head>
+<body>
+<nav>
+    <img src="/img/icono.jpeg" alt="">
+    <h1>Virtual Nexus</h1>
+    <ul>    
+        <li><a href="/index.html">Inicio</a></li>    
+        <li><a href="/dinero/">Gana Dinero</a></li>   
+        <li><a href="/tutorial/">Tutoriales</a></li>    
+        <li ><a href="#">Redes</a></li>
+    </ul>
+</nav>
+<div class="asidee">
+    <aside>
+        <b>Categorias</b>
+        <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+            <li><a href="/" class="categoria">inicio</a></li>
+            <li><a href="/roms/" class="categoria">Roms</a></li>
+            <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
+            <li><a href="/pc/" class="categoria">PC</a></li>
+            <li><a href="/android/" class="categoria">Android</a></li>
+            <li><a href="/dinero/" class="categoria">Gana Dinero</a></li>
+        <b>Tutoriales</b>
+        <li><button class="categoria" onclick="mostrarCartel()">Instalacion</button></li>
+        <li><button class="categoria" onclick="mostrarCartel2()">Datos OBB</button></li>
+        <li><button class="categoria" onclick="mostrarCartel3()">Archivos APKs</button></li>
+        <li><button class="categoria" onclick="mostrarCartel4()">Archivos XAPK</button></li>
+        <li><button class="categoria" onclick="mostrarCartel5()">Dispositivo Root</button></li>
+    </aside>
+
+
+    <div id="miCartel" class="cartel cartel11">
+        <h1>Instalacion de Juegos</h1>
+        <p>Para descargar un juego o app en otra plataforma de que no sea Google play se descargan archivos APK los cuales <br>
+            para poder descargarlos hay que buscar fuentes confiables ya que pueden venir con virus pero en este server está totalmente libre de ellos <br>
+            Ya para poder descargarlos es simple, solo hay que activar la opción de fuentes desconocidas y listo <br>
+            Ya puedes disfrutar de tu app</p>
+
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+    </div>
+
+    <div id="miCartel1" class=" cartel cartel11">
+        <h1>Datos OBB</h1>
+        <p>Para descargar juegos que incluyan archivos OBB siempre hay que extraer el archivo .zip o .rar en el caso en el que esté comprimido. <br>
+            Luego nos va a dar 2 archivos .apk y una carpeta de nombre inicial com. el APK lo descargamos y la carpeta com. lo movemos a la siguiente <br>
+            carpeta con algún explorador de archivos <br><br>
+            
+            Android>obb <br> <br>
+            
+            Y listo! Ya podremos jugar a nuestro juego</p>
+            <a class="video" href="https://youtube.com/shorts/AHtOJh9t44o?feature=share">Toca Aqui para ver un video explicando el proceso</a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+    </div>
+
+    <div id="miCartel2" class="cartel cartel11">
+        <h1>Descargar juegos APKS</h1>
+        <p>para descargar archivos .apks es necesario descargar la aplicación de SAI de la play store para poder instalarlos. <br>
+            Luego es tan solo entrar a la aplicación y seleccionar donde dice instalar APKs y seleccionar el archivo</p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
+    </div>
+
+        <div id="miCartel3" class="cartel cartel11">
+        <h1>Descargar juegos XAPK</h1>
+        <p>para descargar archivos .xapk es tan solo entrar a un explorador de archivos como tal y renombrar el .xapk a un .zip o a un .rar y <br>
+            descomprimir el archivo, ciertamente da igual si es .rar o .zip con cualquiera funciona. <br>
+            después de descomprimir el archivo le dejara los datos y el archivo apk</p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
+    </div>
+
+    <div id="miCartel4" class="cartel cartel11">
+        <h1>Dispositivos Rooteados</h1>
+        <p>Cuando nosotros roteamos nuestro dispositivo lo que estamos haciendo es dejarlo como código en código abierto y dejando que cualquier aplicación <br>
+            o usuario modifique el código de este, aquí hay que tener cuidado ya que el mas mínimo virus puede dejar nuestro dispositivo como un pisa papeles <br>
+             ya que los troyanos o malwars modifican el código de este y dejándolo inútil, por eso se sugiere un gran cuidado si tienes tu dispositivo ruteado. <br>
+   <br>
+           Aclaración: Ningún dispositivo viene roteado de fabrica, esto se obtiene a base de modificar los archivos del sistema a través de una pc con tales programas</p>
+           <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
+        </div>
+
+
+
+    <div class="android">
+
+        <h1>Android</h1>
+
+        <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+        <ul class="listaArticulos">
+
+            <button class="juego">
+                <a href="#">
+                    <img src="/img/icono.jpeg" class="img-juego">
+                    <b>Minecraft</b>
+                    <br>
+                    <p>524MB</p>
+                </a>
+            </button>
+
+        </ul>
+
+    </div>
+</div>
+</body>
+</html>
