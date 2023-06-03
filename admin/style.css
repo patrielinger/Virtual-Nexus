@@ -7,12 +7,13 @@ body{
     background-color: #494949;
     color: white;
     text-align: center;
-    width: 50%;
+    width: 90%;
     margin: 10px;
     padding: 10px;
 }
 .recuadro p{
     display: inline;
+    font-size: 2rem;
 }
 .text{
     color: white;
