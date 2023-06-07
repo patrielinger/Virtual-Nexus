@@ -2,7 +2,7 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-@media(min-width:1200px){
+@media(min-width:150px){
     body{
         background-color: #303030;
     }
@@ -16,27 +16,20 @@
         border-radius: 10px;
         /* position: relative; */
         display: flex; 
+        text-align: end;
     }
     nav ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
         text-align: end;
-    
     }
     nav li {  
         display: inline-block;  
-        margin-right: 10px;
+        margin-left: 10px;
     }
     nav li a{
         text-decoration: none;
         color: rgb(188, 186, 186);
         font-size: 1.2rem;
-        float: right;
-        position: relative;
         display: flex;
-        left: 590px;
-        top: 10px; 
     }
     nav li a:hover{
         color: white;
@@ -318,5 +311,47 @@ display: inline-block;
 }
 .star-num{
     color: #ffc02c;
+}
+.cartel a{
+    text-decoration: none;
+    color: white;
+}
+.cartel a button{
+    background-color: #292929;
+    animation-name: redes;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0;
+    animation: infinite;
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    border: 2px solid #3aa8fd;
+}
+@keyframes redes {
+    0%{
+        border-radius: 2px solid #3aa8fd;
+    }
+    25%{
+        border-radius: 2px solid #ff2ec4;
+    }
+    50%{
+        border-radius: 2px solid rgb(252, 233, 20);
+    }
+    75%{
+        border-radius: 2px solid rgb(255, 0, 0);
+    }
+    100%{
+        border-radius: 2px solid rgb(124, 51, 170);
+    }
+}
+.cartel a button h2{
+    color: white;
+}
+.cartel a button img{
+    height: 200px;
+    border-radius: 22px;
+    box-shadow: 10px 10px 10px 0 #292929;
+    background-color: transparent;
 }
 }

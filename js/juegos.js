@@ -61,3 +61,4 @@ copyButton.addEventListener('click', function() {
   // Cambiar el texto del botón copiado
   copyButton.innerText = '¡Copiado!';
 });
+

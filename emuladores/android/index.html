@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Nexus</title>
+    <link rel="website icon" type="png" href="/img/icono.jpeg">
+    <link rel="stylesheet" href="/css/style1200px.css">
+    <link rel="stylesheet" href="/css/style900px.css">
+    <link rel="stylesheet" href="/css/style400px.css">
+    <link rel="stylesheet" href="/css/search.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="/js/juegos.js"></script>
+    <script src="/js/meta.js"></script>
+</head>
+<body>
+<nav>
+    <img src="/img/icono.jpeg" alt="">
+    <h1>Virtual Nexus</h1>
+</nav>
+<div class="asidee">
+    <aside>
+        <b>Categorias</b>
+        <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+            <li><a href="/" class="categoria">inicio</a></li>
+            <li><a href="/roms/" class="categoria">Roms</a></li>
+            <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
+            <li><a href="/pc/" class="categoria">PC</a></li>
+            <li><a href="/android/" class="categoria">Android</a></li>
+            <li><a href="/dinero/" class="categoria">Gana Dinero</a></li>
+        <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
+    </aside>
+
+    
+    <div id="miCartel520" class="cartel">
+        <h3>Visita Nuestras redes para conocernos mejor</h3>
+        <a href="https://www.tiktok.com/@apk_boss">
+            <button>
+                <img src="/img/tik tok.png" alt="">
+                <h2>Tik Tok</h2>
+            </button>
+        </a>
+
+        <a href="https://discord.gg/3kxp2BRRj3">
+            <button>
+                <img src="/img/ds.png" alt="">
+                <h2>Discord</h2>
+            </button>
+        </a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+    <div class="android">
+
+        <h1>Emuladores</h1>
+
+        <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+        <ul class="listaArticulos">
+
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.mediafire.com/file/a5lunxeakwmrksf/Free_NES_Emulator_v4.0.apk/file"> 
+                <img src="/img/nes.webp" class="img-juego">
+                <b>NES</b> 
+                <p>11,9MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">9</b> 
+                </div> 
+
+                </button>
+            <button class="juego" target="_BLANK"> 
+                <a href=""> 
+                <img src="/img/snes.png" class="img-juego">
+                <b>SNES</b> 
+                <p>1,32MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">10
+                </b> 
+                </div> 
+                </button>
+
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.mediafire.com/file/d2uhp6xj9t3pfu8/N64_Emulator_Pro_v23_apkpure.com.apk/file"> 
+                <img src="/img/n64.svg" class="img-juego">
+                <b>N64</b> 
+                <p>17,4MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">8</b> 
+                </div> 
+                </button>
+    
+            <button class="juego" target="_BLANK"> 
+                <a href="https://play.google.com/store/apps/details?id=com.fastemulator.gbafree&pli=1"> 
+                <img src="/img/gm.png" class="img-juego">
+                <b>GameBoy</b> 
+                <p>5MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">9</b> 
+                </div> 
+                </button>
+    
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.mediafire.com/file/b3okc0ki5cxqry9/John_GBC_Full_3.93_%2528AndroidApkData.net%2529.apk/file"> 
+                <img src="/img/gmcolor.png" class="img-juego">
+                <b>GameBoy Color</b> 
+                <p>1,09MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">8</b> 
+                </div> 
+                </button>
+    
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.mediafire.com/file/7j2c97gkszvhvb7/my-boy-free-gba-emulator-1-8-0-1.apk/file"> 
+                <img src="/img/gmadvance.jpeg" class="img-juego">
+                <b>GameBoy Advance</b> 
+                <p>4,34MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">9</b> 
+                </div> 
+                </button>
+    
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.mediafire.com/file/wf53tw40opr2teu/com.supernds.free-7.0.1v.apk/file"> 
+                <img src="/img/nds.png" class="img-juego">
+                <b>Nintendo DS</b> 
+                <p>7,37MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">10</b> 
+                </div> 
+                </button>
+    
+            <button class="juego" target="_BLANK"> 
+                <a href="https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu"> 
+                <img src="/img/gamecube.jpg" class="img-juego">
+                <b>GameCube</b> 
+                <p>7,5MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">8</b> 
+                </div> 
+                </button>
+
+            <button class="juego" target="_BLANK"> 
+                <a href="https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu"> 
+                <img src="/img/wii.png" class="img-juego">
+                <b>Wii</b> 
+                <p>7,5MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">10</b> 
+                </div> 
+                </button>
+    
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.duckstation.org/"> 
+                <img src="/img/psx.jpg" class="img-juego">
+                <b>PlayStation</b> 
+                <p>17MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">9</b> 
+                </div> 
+                </button>
+
+            <button class="juego" target="_BLANK"> 
+                <a href="https://www.mediafire.com/file/n32h1qkl8nsj34w/ppsspp-gold-apk-1.12.2-apkmodget.com.apk/file"> 
+                <img src="/img/ppsspp.jpg" class="img-juego">
+                <b>PSP</b> 
+                <p>15MB</p> 
+                </a> 
+                <div class="puntuacion"> 
+                <img class="star" src="/img/estrella.png" alt=""> 
+                <b class="star-num">9</b> 
+                </div> 
+                </button>
+
+        </ul>
+
+    </div>
+</div>
+</body>
+</html>

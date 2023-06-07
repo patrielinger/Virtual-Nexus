@@ -37,6 +37,10 @@ document.addEventListener("keyup", e=>{
     var cartel5 = document.getElementById("miCartel5");
     cartel5.style.display = "block"; 
   }
+  function mostrarCartel520() {
+    var cartel5 = document.getElementById("miCartel520");
+    cartel5.style.display = "block"; 
+  }
 
 
   // cerrar
