@@ -2,7 +2,7 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-@media(min-width:1200px){
+@media(min-width:400px){
     body{
         background-color: #303030;
     }
@@ -16,27 +16,20 @@
         border-radius: 10px;
         /* position: relative; */
         display: flex; 
+        text-align: end;
     }
     nav ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
         text-align: end;
-    
     }
     nav li {  
         display: inline-block;  
-        margin-right: 10px;
+        margin-left: 10px;
     }
     nav li a{
         text-decoration: none;
         color: rgb(188, 186, 186);
         font-size: 1.2rem;
-        float: right;
-        position: relative;
         display: flex;
-        left: 590px;
-        top: 10px; 
     }
     nav li a:hover{
         color: white;
@@ -54,10 +47,9 @@
         border-radius: 50%;
     }
     aside{
-        width: 20%;
         height: 95%;
         text-align: center;
-        padding: 10px;
+        padding: 20px;
         background-color: #292929;
         position: relative;
         margin: 10px;
@@ -69,12 +61,12 @@
     aside b{
         color: white;
         text-align: center;
-        font-size: 30px;
+        font-size: 25px;
     }
     aside li{
         display: flex;
         position: relative;
-        left: 30px;
+        left: 20px;
         color: rgb(58, 168, 253);
         text-decoration: none;
     }
@@ -173,23 +165,22 @@ section{
     padding: 5px;
     margin-bottom: 10px;
     margin-left: 10px;
-    width: 300px;
+    width: 150px;
 
 }
 .juego a{
     text-decoration: none;
     color: beige;
-    display: flex;
 }
 .juego b{
     font-size: 1.4rem;
-    margin: 4px;
-    height: 20px;
     width: 80%;
     font-weight: 500;
 }
 .juego p{
     height: 10px;
+    display: inline;
+    font-size: 16px;
 }
 .img-juego{
         height: 100px;
@@ -197,79 +188,17 @@ section{
         border-radius: 10px;
 }
 .cartel {
-    display: none; /* El cartel estará oculto inicialmente */
+    display: none;
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #303030;
     border: 2px solid #3aa8fd;
+    width: 90%;
     color: white;
-    padding: 20px;
+    padding: 10px;
     z-index: 999;
-}
-.cartel1{
-        display: none; /* El cartel estará oculto inicialmente */
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background-color: #303030;
-        border: 2px solid rgba(71, 236, 236, 0.733);
-        color: white;
-        padding: 20px;
-        z-index: 999;
-}
-.cartel2{
-    display: none; /* El cartel estará oculto inicialmente */
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #303030;
-    border: 2px solid rgba(71, 236, 236, 0.733);
-    color: white;
-    padding: 20px;
-    z-index: 999;
-}
-.cartel3{
-    display: none; /* El cartel estará oculto inicialmente */
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #303030;
-    border: 2px solid rgba(71, 236, 236, 0.733);
-    color: white;
-    padding: 20px;
-    z-index: 999;
-}
-.cartel4{
-    display: none; /* El cartel estará oculto inicialmente */
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #303030;
-    border: 2px solid rgba(71, 236, 236, 0.733);
-    color: white;
-    padding: 20px;
-    z-index: 999;
-}
-.cartel5{
-    display: none; /* El cartel estará oculto inicialmente */
-    position: relative;
-    height: 80%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #303030;
-    border: 2px solid rgba(71, 236, 236, 0.733);
-    color: white;
-    padding: 20px;
-    z-index: 999;
-    font-size: 0.5rem;
-    overflow-y: scroll;
 }
 .cerrar{
     border: 1px solid rgba(72, 255, 255, 0.953);
@@ -299,6 +228,7 @@ section{
     height: 220px;
     padding: 10px;
     background-color: transparent;
+    margin: 10px;
 }
 .gamas button img{
     height: 170px;
@@ -318,5 +248,47 @@ display: inline-block;
 }
 .star-num{
     color: #ffc02c;
+}
+.cartel a{
+    text-decoration: none;
+    color: white;
+}
+.cartel a button{
+    background-color: #292929;
+    animation-name: redes;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0;
+    animation: infinite;
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    border: 2px solid #3aa8fd;
+}
+@keyframes redes {
+    0%{
+        border-radius: 2px solid #3aa8fd;
+    }
+    25%{
+        border-radius: 2px solid #ff2ec4;
+    }
+    50%{
+        border-radius: 2px solid rgb(252, 233, 20);
+    }
+    75%{
+        border-radius: 2px solid rgb(255, 0, 0);
+    }
+    100%{
+        border-radius: 2px solid rgb(124, 51, 170);
+    }
+}
+.cartel a button h2{
+    color: white;
+}
+.cartel a button img{
+    height: 200px;
+    border-radius: 22px;
+    box-shadow: 10px 10px 10px 0 #292929;
+    background-color: transparent;
 }
 }
