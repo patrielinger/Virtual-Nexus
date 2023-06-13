@@ -50,14 +50,14 @@
         color: white;
         border-radius: 50%;
         font-size: 1rem;
-        background-color: #303030;
+        background-color: transparent;
         padding: 3px;
         position: fixed;
         display: block;
         z-index: 900;
         height: 40px;
         width: 40px;
-        bottom: 80%;
+        top: 15%;
         left: 20px;
         animation-name: abrir;
         animation-duration: 5s;
@@ -83,11 +83,11 @@
     }
     aside{
         text-align: center;
-        padding: 20px;
+        padding: 40px;
         background-color: #292929;
         position: relative;
         margin: 10px;
-        border: 1px solid rgb(58, 168, 253);
+        border: 2px solid #fd3acc;
         border-radius: 10px;
         display: none;
         position: fixed;
