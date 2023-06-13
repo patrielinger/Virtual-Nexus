@@ -37,28 +37,3 @@ function modificarParte() {
   
     parteModificar.innerHTML = nuevoTexto;
   }
-  
-  const sourceButton = document.getElementById('sourceButton');
-const copyButton = document.getElementById('copyButton');
-
-copyButton.addEventListener('click', function() {
-  const textToCopy = sourceButton.innerText;
-  
-  // Crear un elemento de textarea temporal para copiar el texto
-  const tempTextArea = document.createElement('textarea');
-  tempTextArea.value = textToCopy;
-  
-  // Añadir el elemento textarea al DOM
-  document.body.appendChild(tempTextArea);
-  
-  // Seleccionar y copiar el texto
-  tempTextArea.select();
-  document.execCommand('copy');
-  
-  // Remover el elemento textarea temporal
-  document.body.removeChild(tempTextArea);
-  
-  // Cambiar el texto del botón copiado
-  copyButton.innerText = '¡Copiado!';
-});
-

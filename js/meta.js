@@ -13,6 +13,14 @@ document.addEventListener("keyup", e=>{
     }
   })
 
+  function abrir() {
+    var aside = document.getElementById("asideee");
+    if (aside.style.display === "none") {
+      aside.style.display = "inline-block";
+    } else {
+      aside.style.display = "none";
+    }
+  }
   function mostrarCartel() {
     var cartel = document.getElementById("miCartel");
     cartel.style.display = "block"; 

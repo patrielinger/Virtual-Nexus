@@ -1,0 +1,332 @@
+*{
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}        
+@media(max-width:589px){
+    body{
+        background-color: #303030;
+    }
+    nav{
+        height: 50px;
+        background-color: #292929;
+        color: white;
+        padding: 10px;
+        border: 1px solid #3aa8fd;
+        margin: 10px;
+        border-radius: 10px;
+        /* position: relative; */
+        display: flex; 
+        text-align: end;
+    }
+    nav ul {
+        text-align: end;
+    }
+    nav li {  
+        display: inline-block;  
+        margin-left: 10px;
+    }
+    nav li a{
+        text-decoration: none;
+        color: rgb(188, 186, 186);
+        font-size: 1.2rem;
+        display: flex;
+    }
+    nav li a:hover{
+        color: white;
+    }
+    nav h1{
+        position: relative;
+        bottom: 25px;
+        font-size: 2rem;
+        font-weight: 100;
+    }
+    nav img{
+        height: 50px;
+        position: relative;
+        margin-right: 10px;
+        border-radius: 50%;
+    }
+    .abrir{
+        color: white;
+        border-radius: 50%;
+        font-size: 1rem;
+        background-color: #303030;
+        padding: 3px;
+        position: fixed;
+        display: block;
+        z-index: 900;
+        height: 40px;
+        width: 40px;
+        bottom: 80%;
+        left: 20px;
+        animation-name: abrir;
+        animation-duration: 5s;
+        animation-direction: alternate-reverse;
+        animation-iteration-count: infinite;
+    }
+    @keyframes abrir {
+        0%{
+            border: 3px solid  #3aa8fd;
+        }
+        25%{
+            border: 3px solid #ff2ec4;
+        }
+        50%{
+            border: 3px solid #ffc02c;
+        }
+        75%{
+            border: 3px solid #fe0000
+        }
+        100%{
+            border: 3px solid #43ff26;
+        }
+    }
+    aside{
+        text-align: center;
+        padding: 20px;
+        background-color: #292929;
+        position: relative;
+        margin: 10px;
+        border: 1px solid rgb(58, 168, 253);
+        border-radius: 10px;
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 800;
+    }
+    aside b{
+        color: white;
+        text-align: center;
+        font-size: 25px;
+    }
+    aside li{
+        display: flex;
+        position: relative;
+        left: 20px;
+        color: rgb(58, 168, 253);
+        text-decoration: none;
+    }
+    aside li button{
+        background-color: transparent;
+        border: 0;
+        font-size: 1rem;
+    }
+    .categoria{
+        text-decoration: none;
+        color: rgb(188, 186, 186);
+        display: flex;
+        width: 90%;
+    }
+    .categoria:hover{
+        color: white;
+    }
+    #buscador{
+        background-color: #434343;
+        border-radius: 10px;
+        border: 2px solid #3aab;
+        height: 30px;
+        padding: 2px;
+        color:white;
+        width: 19rem;
+        position: relative;
+        bottom: 20px;
+    }
+    .notis{
+        /* padding-left: 50px; */
+        color: white;
+        position: relative;
+        /* text-align: center; */
+        flex: 1;
+    }
+    .asidee{
+        display: flex;
+    }
+    .articulo{
+        background-color: #414141;
+        border: 0;
+        border-radius: 10px;
+        display: flex;
+        padding: 10px;
+        color: white;
+        margin-bottom: 30px;
+    }
+    .articulo img{
+        height: 100px;
+        border-radius: 50%;
+    }
+    .articulo b{
+        position: relative;
+        top: 10px;
+    }
+    .articulo b a{
+        text-decoration: none;
+        color: rgb(246, 70, 255);
+    }
+    .articulo b a:hover{
+        color: rgb(234, 31, 160);
+    }
+    .articulo p{
+        position: relative;
+        top: 100px;
+    }
+    .android{
+        /* padding-left: 50px; */
+        color: white;
+        position: relative;
+        text-align: center;
+        flex: 1;
+    }
+    @import url('/css/search.css');
+section{
+    width: 250px;
+    height: 7100px;
+    display: flex;
+    flex-direction: initial;
+    align-items: initial;
+}
+#listaArticulos{
+    width: 100%;
+    margin: 10px;
+}
+
+.filtro{
+    display: none;
+}
+.juego{
+    color: white;
+    background-color: #3b3b3b;
+    border: 1px solid #3aa8fd;
+    border-radius: 10px;
+    /* height: 150px; */
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 150px;
+
+}
+.juego a{
+    text-decoration: none;
+    color: beige;
+}
+.juego b{
+    font-size: 1.4rem;
+    width: 80%;
+    font-weight: 500;
+}
+.juego p{
+    height: 10px;
+    display: inline;
+    font-size: 16px;
+}
+.img-juego{
+        height: 100px;
+        display: inline;
+        border-radius: 10px;
+}
+.cartel {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #303030;
+    border: 2px solid #3aa8fd;
+    width: 90%;
+    color: white;
+    padding: 10px;
+    z-index: 999;
+}
+.cerrar{
+    border: 1px solid rgba(72, 255, 255, 0.953);
+    border-radius: 25%;
+    font-size: 1rem;
+    padding: 4px;
+    background-color: transparent;
+    color: white;
+    position: relative;
+}
+.video{
+    /* text-decoration: none; */
+    color: rgb(216, 216, 216);
+    display: block;
+}
+.video:hover{
+    color: white;
+}
+.gamas{
+    text-decoration: none;
+    margin: 10px;
+    color: #fff;
+}
+.gamas button{
+    border: 1px solid #3aa8fd;
+    border-radius: 10px;
+    height: 220px;
+    padding: 10px;
+    background-color: transparent;
+    margin: 10px;
+}
+.gamas button img{
+    height: 170px;
+    border-radius: 10px;
+}
+.gamas button h1{
+    color: white;
+    position: relative;
+    bottom: 25px;
+}
+.star{
+    height: 20px;
+}
+.puntuacion{
+text-align: end;
+display: inline-block;
+}
+.star-num{
+    color: #ffc02c;
+}
+.cartel a{
+    text-decoration: none;
+    color: white;
+}
+.cartel a button{
+    background-color: #292929;
+    animation-name: redes;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0;
+    animation: infinite;
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    border: 2px solid #3aa8fd;
+}
+@keyframes redes {
+    0%{
+        border-radius: 2px solid #3aa8fd;
+    }
+    25%{
+        border-radius: 2px solid #ff2ec4;
+    }
+    50%{
+        border-radius: 2px solid rgb(252, 233, 20);
+    }
+    75%{
+        border-radius: 2px solid rgb(255, 0, 0);
+    }
+    100%{
+        border-radius: 2px solid rgb(124, 51, 170);
+    }
+}
+.cartel a button h2{
+    color: white;
+}
+.cartel a button img{
+    height: 200px;
+    border-radius: 22px;
+    box-shadow: 10px 10px 10px 0 #292929;
+    background-color: transparent;
+}
+}
