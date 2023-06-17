@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,97 +17,217 @@
     <script src="/js/juegos.js"></script>
     <script src="/js/meta.js"></script>
 </head>
-<body>
-<nav>
-    <img src="/img/icono.jpeg" alt="">
-    <h1>Virtual Nexus</h1>
-</nav>
-<button class="abrir" onclick="abrir()">&#9776;</button>
 
-<div class="asidee">
-    <aside id="asideee">
-        <b>Categorias</b>
-        <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+<body>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
+    <button class="abrir" onclick="abrir()">&#9776;</button>
+
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
             <li><a href="/" class="categoria">inicio</a></li>
             <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
             <li><a href="/pc/" class="categoria">PC</a></li>
             <li><a href="/android/" class="categoria">Android</a></li>
             <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
 
-        <b>Tutoriales</b>
-        <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
-        <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
-        <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
-    </aside>
+            <b>Tutoriales</b>
+            <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
+            <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
+            <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
+        </aside>
 
-    
-    <div id="miCartel520" class="cartel">
-        <h3>Visita Nuestras redes para conocernos mejor</h3>
-        <a href="https://www.tiktok.com/@apk_boss">
-            <button>
-                <img src="/img/tik tok.png" alt="">
-                <h2>Tik Tok</h2>
-            </button>
-        </a>
 
-        <a href="https://discord.gg/3kxp2BRRj3">
-            <button>
-                <img src="/img/ds.png" alt="">
-                <h2>Discord</h2>
-            </button>
-        </a>
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@apk_boss">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
+                </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
         </div>
-    <div id="miCartel" class="cartel cartel11">
-        <h1>Como sabe de que gama es mi PC</h1>
-        <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
-            <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
-            <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de los fabricantes.
-            <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama de tu PC.
-            <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la capacidad de refrigeración para evaluar el rendimiento global de tu PC.</p>
+        <div id="miCartel" class="cartel cartel11">
+            <h1>Como sabe de que gama es mi PC</h1>
+            <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
+                <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
+                <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de
+                los fabricantes.
+                <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama
+                de tu PC.
+                <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la
+                capacidad de refrigeración para evaluar el rendimiento global de tu PC.
+            </p>
 
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
         </div>
-    
-    <div id="miCartel1" class="cartel cartel11">
-        <h1>Como puedo descargar juegos .torrent?</h1>
-        <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
-        tiene la informacion del juego para descargar... <br> <br>
-        Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
-        Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
-        Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la descarga <br>
-        <br>
-        Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del juego <br>
-        Aparecera automaticamente en tu carpeta de descargas.</p>
-        <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la aplicaciónde Utorrent</a>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
+        <div id="miCartel1" class="cartel cartel11">
+            <h1>Como puedo descargar juegos .torrent?</h1>
+            <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
+                tiene la informacion del juego para descargar... <br> <br>
+                Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
+                Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
+                Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la
+                descarga <br>
+                <br>
+                Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del
+                juego <br>
+                Aparecera automaticamente en tu carpeta de descargas.
+            </p>
+            <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la
+                aplicaciónde Utorrent</a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div id="miCartel2" class="cartel cartel11">
+            <h1>Como descargar Juegos que vienen por Partes</h1>
+            <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del
+                juego <br>
+                las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
+                Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer
+                aqui" <br>
+                y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
+                Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div class="android">
+
+            <h1>Gama Baja</h1>
+
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos">
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/ABreobtI">
+                        <img src="https://forums.terraria.org/index.php?attachments/icon-png.280655/" class="img-juego">
+                        <b>Terraria</b>
+                        <p>580MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/UFgAJc2">
+                        <img src="https://d.newsweek.com/en/full/829304/stardew-valley.png?w=1600&h=1200&q=88&f=1067b2df47b5f1cff9d63e1659d0cd23"
+                            class="img-juego">
+                        <b>Stradew Valley</b>
+                        <p>630MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Aup3RICPKb">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Undertale.png" class="img-juego">
+                        <b>Undertale</b>
+                        <p>463MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/YNlVaoKeoF">
+                        <img src="https://e1.pngegg.com/pngimages/575/353/png-clipart-don-t-starve-icons-512-x-512-ico-3-thumbnail.png"
+                            class="img-juego">
+                        <b>Dont Starve</b>
+                        <p>1790MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/IeTo">
+                        <img src="https://fontmeme.com/images/binding-of-isaac-box-font.jpg" class="img-juego">
+                        <b>The Binding of Isaac</b>
+                        <p>1300MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/IlQzfk">
+                        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202104/3018/x0cMtPaOTtUWRymojmrEjT9f.png"
+                            class="img-juego">
+                        <b>Hotline Miami 2</b>
+                        <p>980MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/1t4e">
+                        <img style="width:60%;"
+                            src="https://1.bp.blogspot.com/-7z1I5j6rExM/U1WYo6acPmI/AAAAAAAAFqk/kFfANbDijWA/s400/ftlae.png"
+                            class="img-juego">
+                        <b>Faster Than Light<br>Advanced Edition</b>
+                        <p>400MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/DAXkAs7mY">
+                        <img src="https://res.cloudinary.com/teepublic/image/private/s--oZivaM7c--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1471646990/production/designs/641852_1.jpg"
+                            class="img-juego">
+                        <b>Limbo</b>
+                        <p>190MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/eKzGQDw2F">
+                        <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/4fe1b0d005bfe40bc9f223f71c6356c5.png"
+                            class="img-juego">
+                        <b>Braid</b>
+                        <p>120MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/ZAzg9ZtY0"> 
+                    <img src="https://techcrunch.com/wp-content/uploads/2022/08/papers-please.png?w=730&crop=1" class="img-juego">
+                    <b>Papers, Please</b> 
+                    <p>34MB</p> 
+                    </a> 
+                    </button>
+                    <button class="juego" target="_BLANK"> 
+                        <a href="https://cuty.io/MNy2x"> 
+                        <img src="https://catorrent.org/uploads/posts/2021-08/1629465977-catorrent-fez.jpg" class="img-juego">
+                        <b>Fez</b> 
+                        <p>461MB</p> 
+                        </a> 
+                        </button>
+                        <button class="juego" target="_BLANK"> 
+                            <a href="https://cuty.io/zikzbdkkR5hS"> 
+                            <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/SuperMeatBoy_cover.png" class="img-juego">
+                            <b>Super Meat Boy</b> 
+                            <p>160MB</p> 
+                            </a> 
+                            </button>     
+                            <button class="juego" target="_BLANK"> 
+                                <a href="https://cuty.io/UIubN6p"> 
+                                <img src="https://w7.pngwing.com/pngs/791/1023/png-transparent-to-the-moon-video-games-titanfall-2-moon-game-silhouette-moon-thumbnail.png" class="img-juego">
+                                <b>To the Moon</b> 
+                                <p>520MB</p> 
+                                </a> 
+                                </button>                        
+
+
+
+
+
+            </ul>
+
+        </div>
     </div>
-
-    <div id="miCartel2" class="cartel cartel11">
-        <h1>Como descargar Juegos que vienen por Partes</h1>
-        <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del juego <br>
-        las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
-        Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer aqui" <br>
-        y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
-        Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-    </div>
-
-    <div class="android">
-
-        <h1>Gama Baja</h1>
-
-        <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
-        <ul class="listaArticulos">
-
-
-
-
-
-
-        </ul>
-
-    </div>
-</div>
 </body>
+
 </html>
