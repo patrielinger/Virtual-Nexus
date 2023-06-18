@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,98 +17,127 @@
     <script src="/js/juegos.js"></script>
     <script src="/js/meta.js"></script>
 </head>
-<body>
-<nav>
-    <img src="/img/icono.jpeg" alt="">
-    <h1>Virtual Nexus</h1>
-</nav>
-<button class="abrir" onclick="abrir()">&#9776;</button>
 
-<div class="asidee">
-    <aside id="asideee">
-        <b>Categorias</b>
-        <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+<body>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
+    <button class="abrir" onclick="abrir()">&#9776;</button>
+
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
             <li><a href="/" class="categoria">inicio</a></li>
             <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
             <li><a href="/pc/" class="categoria">PC</a></li>
             <li><a href="/android/" class="categoria">Android</a></li>
             <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
 
-        <b>Tutoriales</b>
-        <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
-        <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
-        <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
-    </aside>
+            <b>Tutoriales</b>
+            <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
+            <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
+            <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
+        </aside>
 
-    
-    <div id="miCartel520" class="cartel">
-        <h3>Visita Nuestras redes para conocernos mejor</h3>
-        <a href="https://www.tiktok.com/@apk_boss">
-            <button>
-                <img src="/img/tik tok.png" alt="">
-                <h2>Tik Tok</h2>
-            </button>
-        </a>
 
-        <a href="https://discord.gg/3kxp2BRRj3">
-            <button>
-                <img src="/img/ds.png" alt="">
-                <h2>Discord</h2>
-            </button>
-        </a>
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@apk_boss">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
+                </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
         </div>
-    <div id="miCartel" class="cartel cartel11">
-        <h1>Como sabe de que gama es mi PC</h1>
-        <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
-            <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
-            <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de los fabricantes.
-            <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama de tu PC.
-            <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la capacidad de refrigeración para evaluar el rendimiento global de tu PC.</p>
+        <div id="miCartel" class="cartel cartel11">
+            <h1>Como sabe de que gama es mi PC</h1>
+            <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
+                <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
+                <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de
+                los fabricantes.
+                <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama
+                de tu PC.
+                <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la
+                capacidad de refrigeración para evaluar el rendimiento global de tu PC.
+            </p>
 
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
         </div>
-    
-    <div id="miCartel1" class="cartel cartel11">
-        <h1>Como puedo descargar juegos .torrent?</h1>
-        <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
-        tiene la informacion del juego para descargar... <br> <br>
-        Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
-        Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
-        Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la descarga <br>
-        <br>
-        Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del juego <br>
-        Aparecera automaticamente en tu carpeta de descargas.</p>
-        <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la aplicaciónde Utorrent</a>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
+        <div id="miCartel1" class="cartel cartel11">
+            <h1>Como puedo descargar juegos .torrent?</h1>
+            <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
+                tiene la informacion del juego para descargar... <br> <br>
+                Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
+                Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
+                Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la
+                descarga <br>
+                <br>
+                Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del
+                juego <br>
+                Aparecera automaticamente en tu carpeta de descargas.
+            </p>
+            <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la
+                aplicaciónde Utorrent</a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div id="miCartel2" class="cartel cartel11">
+            <h1>Como descargar Juegos que vienen por Partes</h1>
+            <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del
+                juego <br>
+                las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
+                Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer
+                aqui" <br>
+                y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
+                Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div class="android">
+
+            <h1>Gama Alta</h1>
+
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos">
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/SSSXWZYQT5K">
+                        <img src="https://i.pinimg.com/originals/19/70/38/197038cbfa205994608217b58bd45f01.jpg"
+                            class="img-juego">
+                        <b>God Of War 4</b>
+                        <p>28540MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/cNBzu">
+                        <img src="https://www.freepnglogos.com/uploads/fallout-4-logo/fallout-4-picture-logo-21.png"
+                            class="img-juego">
+                        <b>Fallout 4</b>
+                        <p>31690MB</p>
+                    </a>
+                </button>
+
+
+
+
+
+            </ul>
+
+        </div>
     </div>
-
-    <div id="miCartel2" class="cartel cartel11">
-        <h1>Como descargar Juegos que vienen por Partes</h1>
-        <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del juego <br>
-        las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
-        Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer aqui" <br>
-        y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
-        Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-    </div>
-
-    <div class="android">
-
-        <h1>Gama Alta</h1>
-
-        <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
-        <ul class="listaArticulos">
-
-
-
-
-
-
-
-        </ul>
-
-    </div>
-</div>
 </body>
+
 </html>

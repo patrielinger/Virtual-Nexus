@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,211 +17,338 @@
     <script src="/js/juegos.js"></script>
     <script src="/js/meta.js"></script>
 </head>
-<body>
-<nav>
-    <img src="/img/icono.jpeg" alt="">
-    <h1>Virtual Nexus</h1>
-</nav>
-<button class="abrir" onclick="abrir()">&#9776;</button>
 
-<div class="asidee">
-    <aside id="asideee">
-        <b>Categorias</b>
-        <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+<body>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
+    <button class="abrir" onclick="abrir()">&#9776;</button>
+
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
             <li><a href="/" class="categoria">inicio</a></li>
             <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
             <li><a href="/pc/" class="categoria">PC</a></li>
             <li><a href="/android/" class="categoria">Android</a></li>
             <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
-        <b>Tutoriales</b>
-        <li><button class="categoria" onclick="mostrarCartel()">Instalacion</button></li>
-        <li><button class="categoria" onclick="mostrarCartel2()">Datos OBB</button></li>
-        <li><button class="categoria" onclick="mostrarCartel3()">Archivos APKs</button></li>
-        <li><button class="categoria" onclick="mostrarCartel4()">Archivos XAPK</button></li>
-        <li><button class="categoria" onclick="mostrarCartel5()">Dispositivo Root</button></li>
-    </aside>
+            <b>Tutoriales</b>
+            <li><button class="categoria" onclick="mostrarCartel()">Instalacion</button></li>
+            <li><button class="categoria" onclick="mostrarCartel2()">Datos OBB</button></li>
+            <li><button class="categoria" onclick="mostrarCartel3()">Archivos APKs</button></li>
+            <li><button class="categoria" onclick="mostrarCartel4()">Archivos XAPK</button></li>
+            <li><button class="categoria" onclick="mostrarCartel5()">Dispositivo Root</button></li>
+        </aside>
 
-    
-    <div id="miCartel520" class="cartel">
-        <h3>Visita Nuestras redes para conocernos mejor</h3>
-        <a href="https://www.tiktok.com/@apk_boss">
-            <button>
-                <img src="/img/tik tok.png" alt="">
-                <h2>Tik Tok</h2>
-            </button>
-        </a>
 
-        <a href="https://discord.gg/3kxp2BRRj3">
-            <button>
-                <img src="/img/ds.png" alt="">
-                <h2>Discord</h2>
-            </button>
-        </a>
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@apk_boss">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
+                </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
         </div>
-    <div id="miCartel" class="cartel cartel11">
-        <h1>Instalacion de Juegos</h1>
-        <p>Para descargar un juego o app en otra plataforma de que no sea Google play se descargan archivos APK los cuales <br>
-            para poder descargarlos hay que buscar fuentes confiables ya que pueden venir con virus pero en este server está totalmente libre de ellos <br>
-            Ya para poder descargarlos es simple, solo hay que activar la opción de fuentes desconocidas y listo <br>
-            Ya puedes disfrutar de tu app</p>
+        <div id="miCartel" class="cartel cartel11">
+            <h1>Instalacion de Juegos</h1>
+            <p>Para descargar un juego o app en otra plataforma de que no sea Google play se descargan archivos APK los
+                cuales <br>
+                para poder descargarlos hay que buscar fuentes confiables ya que pueden venir con virus pero en este
+                server está totalmente libre de ellos <br>
+                Ya para poder descargarlos es simple, solo hay que activar la opción de fuentes desconocidas y listo
+                <br>
+                Ya puedes disfrutar de tu app
+            </p>
 
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-    </div>
+        </div>
 
-    <div id="miCartel1" class=" cartel cartel11">
-        <h1>Datos OBB</h1>
-        <p>Para descargar juegos que incluyan archivos OBB siempre hay que extraer el archivo .zip o .rar en el caso en el que esté comprimido. <br>
-            Luego nos va a dar 2 archivos .apk y una carpeta de nombre inicial com. el APK lo descargamos y la carpeta com. lo movemos a la siguiente <br>
-            carpeta con algún explorador de archivos <br><br>
-            
-            Android>obb <br> <br>
-            
-            Y listo! Ya podremos jugar a nuestro juego</p>
-            <a class="video" href="https://youtube.com/shorts/AHtOJh9t44o?feature=share">Toca Aqui para ver un video explicando el proceso</a>
+        <div id="miCartel1" class=" cartel cartel11">
+            <h1>Datos OBB</h1>
+            <p>Para descargar juegos que incluyan archivos OBB siempre hay que extraer el archivo .zip o .rar en el caso
+                en el que esté comprimido. <br>
+                Luego nos va a dar 2 archivos .apk y una carpeta de nombre inicial com. el APK lo descargamos y la
+                carpeta com. lo movemos a la siguiente <br>
+                carpeta con algún explorador de archivos <br><br>
+
+                Android>obb <br> <br>
+
+                Y listo! Ya podremos jugar a nuestro juego</p>
+            <a class="video" href="https://youtube.com/shorts/AHtOJh9t44o?feature=share">Toca Aqui para ver un video
+                explicando el proceso</a>
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-    </div>
+        </div>
 
-    <div id="miCartel2" class="cartel cartel11">
-        <h1>Descargar juegos APKS</h1>
-        <p>para descargar archivos .apks es necesario descargar la aplicación de SAI de la play store para poder instalarlos. <br>
-            Luego es tan solo entrar a la aplicación y seleccionar donde dice instalar APKs y seleccionar el archivo</p>
+        <div id="miCartel2" class="cartel cartel11">
+            <h1>Descargar juegos APKS</h1>
+            <p>para descargar archivos .apks es necesario descargar la aplicación de SAI de la play store para poder
+                instalarlos. <br>
+                Luego es tan solo entrar a la aplicación y seleccionar donde dice instalar APKs y seleccionar el archivo
+            </p>
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
 
-    </div>
+        </div>
 
         <div id="miCartel3" class="cartel cartel11">
-        <h1>Descargar juegos XAPK</h1>
-        <p>para descargar archivos .xapk es tan solo entrar a un explorador de archivos como tal y renombrar el .xapk a un .zip o a un .rar y <br>
-            descomprimir el archivo, ciertamente da igual si es .rar o .zip con cualquiera funciona. <br>
-            después de descomprimir el archivo le dejara los datos y el archivo apk</p>
+            <h1>Descargar juegos XAPK</h1>
+            <p>para descargar archivos .xapk es tan solo entrar a un explorador de archivos como tal y renombrar el
+                .xapk a un .zip o a un .rar y <br>
+                descomprimir el archivo, ciertamente da igual si es .rar o .zip con cualquiera funciona. <br>
+                después de descomprimir el archivo le dejara los datos y el archivo apk</p>
             <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
 
-    </div>
+        </div>
 
-    <div id="miCartel4" class="cartel cartel11">
-        <h1>Dispositivos Rooteados</h1>
-        <p>Cuando nosotros roteamos nuestro dispositivo lo que estamos haciendo es dejarlo como código en código abierto y dejando que cualquier aplicación <br>
-            o usuario modifique el código de este, aquí hay que tener cuidado ya que el mas mínimo virus puede dejar nuestro dispositivo como un pisa papeles <br>
-            ya que los troyanos o malwars modifican el código de este y dejándolo inútil, por eso se sugiere un gran cuidado si tienes tu dispositivo ruteado. <br>
-    <br>
-        Aclaración: Ningún dispositivo viene roteado de fabrica, esto se obtiene a base de modificar los archivos del sistema a través de una pc con tales programas</p>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        <div id="miCartel4" class="cartel cartel11">
+            <h1>Dispositivos Rooteados</h1>
+            <p>Cuando nosotros roteamos nuestro dispositivo lo que estamos haciendo es dejarlo como código en código
+                abierto y dejando que cualquier aplicación <br>
+                o usuario modifique el código de este, aquí hay que tener cuidado ya que el mas mínimo virus puede dejar
+                nuestro dispositivo como un pisa papeles <br>
+                ya que los troyanos o malwars modifican el código de este y dejándolo inútil, por eso se sugiere un gran
+                cuidado si tienes tu dispositivo ruteado. <br>
+                <br>
+                Aclaración: Ningún dispositivo viene roteado de fabrica, esto se obtiene a base de modificar los
+                archivos del sistema a través de una pc con tales programas
+            </p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
 
         </div>
 
 
 
-    <div class="android">
+        <div class="android">
 
-        <h1>Android</h1>
+            <h1>Android</h1>
 
-        <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
-        <ul class="listaArticulos">
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos">
 
 
-            <button class="juego" target="_BLANK"> 
-                <a href="https://cuty.io/NaoNJnQbU"> 
-                <img src="https://thumbs.dreamstime.com/b/logotipo-de-la-minecarter%C3%ADa-dise%C3%B1o-aislado-del-concepto-bloques-suciedad-juego-en-l%C3%ADnea-minecraft-186775550.jpg" class="img-juego">
-                <b>Minecraft 1.20</b> 
-                <p>678MB</p> 
-                </a> 
-            </button>
 
-            <button class="juego" target="_BLANK"> 
-                <a href="https://cuty.io/yTmaSxHhvKn"> 
-                <img src="https://forums.terraria.org/index.php?attachments/icon-png.280655/" class="img-juego">
-                <b>Terraria</b> 
-                <p>206MB</p> 
-                </a>
-                </button>
-            
                 <button class="juego" target="_BLANK"> 
-                    <a href="https://cuty.io/b1R7H1Lku"> 
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP28Ae0hK2R63zQKvfdRX5iYFnu822bRmPvA&usqp=CAU" class="img-juego">
-                    <b>Hollow Knight</b> 
-                    <p>931MB</p> 
+                    <a href="https://cuty.io/KwGPSvkut"> 
+                    <img src="https://img.utdstc.com/icon/2b1/742/2b1742b5237b994a388efaded8908868cda3d130c38d98b2934203ad5cdc08a3:200" class="img-juego">
+                    <b>Toolbox 1.19.73</b> 
+                    <p>7.7MB</p> 
                     </a> 
-                    
-                    
                     </button>
 
-                    <button class="juego" target="_BLANK"> 
-                        <a href="https://cuty.io/inYnFH"> 
-                        <img src="https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY" class="img-juego">
-                        <b>GTA SA</b> 
-                        <p>1200MB</p> 
-                        </a> 
-                        
-                        
-                        </button>
+                <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/vUzJffNX">
+                    <img src="https://dimensionalbranding.com/wp-content/uploads/2018/05/Talking_TOM_LOGO-1.png" class="img-juego">
+                    <b>Talking Tom Hack</b> 
+                    <p>105.18MB</p> 
+                    </a> 
+                    </button>
 
-                        <button class="juego" target="_BLANK"> 
-                            <a href="https://cuty.io/IkU5kqZ0p"> 
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg79OyM1nKo3lZjO5oyqDUMTqt1d2_imn3A&usqp=CAU" class="img-juego">
-                            <b>Angry Birds Space</b> 
-                            <p>46MB</p> 
-                            </a> 
-                            
-                            
-                            </button>
-
-                            <button class="juego" target="_BLANK"> 
-                                <a href="https://cuty.io/VEzmppjOJ"> 
-                                <img src="https://play-lh.googleusercontent.com/A9kng-j9BLaA2dhRGsPExmjy9E4vfG-GHefvmyywT0J67ZEPGONIsFYlIokL5EUNfiHF" class="img-juego">
-                                <b>Five Nights At Freddy´s 3</b> 
-                                <p>61MB</p> 
-                                </a> 
-                                
-                                
-                                </button>
-
-                                <button class="juego" target="_BLANK"> 
-                                    <a href="https://cuty.io/TEn4FAKFO"> 
-                                    <img src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag" class="img-juego">
-                                    <b>Five Nights At Freddy´s 2</b> 
-                                    <p>105MB</p> 
-                                    </a> 
-                                    
-                                    
-                                    </button>
-            
-                                    <button class="juego" target="_BLANK"> 
-                                        <a href="https://cuty.io/3apgG83d"> 
-                                        <img src="https://play-lh.googleusercontent.com/WUXuQ9MrEYeU-blZesAEqdIIQv03OknruPCrNQGOxXop1pFZai0BWT4kKUqaz_rcpRiB=w240-h480-rw" class="img-juego">
-                                        <b>Bad Piggies HD</b> 
-                                        <p>70MB</p> 
-                                        </a> 
-                                        
-                                        
-                                        </button>
-                                        <button class="juego" target="_BLANK"> 
-                                            <a href="https://cuty.io/upnU6iR1ekPo"> 
-                                            <img src="https://imgs.search.brave.com/_yqodxk2fB6Qq_A9d9gIpksjb3kC2Lfy9aPYk2tH2tQ/rs:fit:340:340:1/g:ce/aHR0cHM6Ly9pbWFn/ZS53aW51ZGYuY29t/L3YyL2ltYWdlMS9Z/Mjl0TG1aMloySm9k/R1p5WkdGdGJDNWxj/bVpuYUdKbmRtWXVZ/MmhoYUdSbGNsOXBZ/Mjl1WHpFMk16WTRP/VGs0T0RGZk1ETXkv/aWNvbi5wbmc_dz0z/NDAmZmFrZXVybD0x" class="img-juego">
-                                            <b>Poppy Play Time</b> 
-                                            <p>598MB</p> 
-                                            </a> 
-                                            
-                                            
-                                            </button>
-                                                                
-                        
-
-                        <button class="juego" target="_BLANK"> 
-                <a href="https://cuty.io/hj3g2ut"> 
-                <img src="https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=w240-h480-rw" class="img-juego">
-                <b>Dead Cells</b> 
-                <p>791MB</p> 
-                </a> 
-                
-                
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/ywvRmYYH34">
+                        <img src="https://static.gamehag.com/upload/vSeoLzYm2oB5jAomlPr4VRUNLFdTlx.png"
+                            class="img-juego">
+                        <b>Five Nights at Freddi´s</b>
+                        <p>105MB</p>
+                    </a>
                 </button>
-            
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/W5GpCsUp">
+                        <img src="https://steamuserimages-a.akamaihd.net/ugc/868481724755816929/1920AEDC59916A5F7943488CC32FE2C407299503/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+                            class="img-juego">
+                        <b>Five Nights at Freddi´s 4</b>
+                        <p>56MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/7t6ndti0bcg">
+                        <img src="https://i1.sndcdn.com/artworks-000187244493-z3np3r-t240x240.jpg"
+                            class="img-juego">
+                        <b>Five Nights at Freddi´s SL</b>
+                        <p>296MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/hsoPlYv2">
+                        <img src="https://www5.minijuegosgratis.com/v3/games/thumbnails/240344_7_sq.jpg"
+                            class="img-juego">
+                        <b>Five Nights at Freddi´s UCN</b>
+                        <p>151MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/dEo1">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpFcLzUheOw6H6Ie8iH9bKYmwB7UJDCpz8g&usqp=CAU"
+                            class="img-juego">
+                        <b>Angry Birds Star Wars</b>
+                        <p>51MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/1w0f">
+                        <img src="https://mb.cision.com/Public/5549/9468977/a771b8aa4b8ef4d9_400x400ar.png"
+                            class="img-juego">
+                        <b>Angry Birds Star Wars 2</b>
+                        <p>50MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/1w0f">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSZpCzVrSHvrE7aBrMa19e_ZsOODviSUNcw&usqp=CAU"
+                            class="img-juego">
+                        <b>Angry Birds Rio</b>
+                        <p>47MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/mLMzTeFqH">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/da296y5-693f61c8-a9c9-4993-8868-ee8eb1fce67a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjYzZDNjLWFlNjctNDY0Yy05YTM3LTY3MDgyOWIyYTE1N1wvZGEyOTZ5NS02OTNmNjFjOC1hOWM5LTQ5OTMtODg2OC1lZThlYjFmY2U2N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GVPISw5JyL13KdFYJG3suHwuYWFuwnRFf7nyveory1w"
+                            class="img-juego">
+                        <b>Doom</b>
+                        <p>244MB</p>
+                    </a>
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/q8DU23h6HTH">
+                        <img src="https://img.tapimg.net/market/icons/3984e7ce59eaff5af892db5b88c4e3ec_360.png?imageView2/2/w/1080/h/9999/q/80/format/jpg/interlace/1/ignore-error/1"
+                            class="img-juego">
+                        <b>Doom II</b>
+                        <p>209MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/d1ezQcyR">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWAlKxoYHZkpHksNCiyy_iu8lswyUVxUE5A&usqp=CAU"
+                            class="img-juego">
+                        <b>Doom III</b>
+                        <p>7.58MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/NaoNJnQbU">
+                        <img src="https://thumbs.dreamstime.com/b/logotipo-de-la-minecarter%C3%ADa-dise%C3%B1o-aislado-del-concepto-bloques-suciedad-juego-en-l%C3%ADnea-minecraft-186775550.jpg"
+                            class="img-juego">
+                        <b>Minecraft 1.20</b>
+                        <p>678MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/yTmaSxHhvKn">
+                        <img src="https://forums.terraria.org/index.php?attachments/icon-png.280655/" class="img-juego">
+                        <b>Terraria</b>
+                        <p>206MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/b1R7H1Lku">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP28Ae0hK2R63zQKvfdRX5iYFnu822bRmPvA&usqp=CAU"
+                            class="img-juego">
+                        <b>Hollow Knight</b>
+                        <p>931MB</p>
+                    </a>
 
 
-        </ul>
+                </button>
 
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/inYnFH">
+                        <img src="https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY"
+                            class="img-juego">
+                        <b>GTA SA</b>
+                        <p>1200MB</p>
+                    </a>
+
+
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/IkU5kqZ0p">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg79OyM1nKo3lZjO5oyqDUMTqt1d2_imn3A&usqp=CAU"
+                            class="img-juego">
+                        <b>Angry Birds Space</b>
+                        <p>46MB</p>
+                    </a>
+
+
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/VEzmppjOJ">
+                        <img src="https://play-lh.googleusercontent.com/A9kng-j9BLaA2dhRGsPExmjy9E4vfG-GHefvmyywT0J67ZEPGONIsFYlIokL5EUNfiHF"
+                            class="img-juego">
+                        <b>Five Nights At Freddy´s 3</b>
+                        <p>61MB</p>
+                    </a>
+
+
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/TEn4FAKFO">
+                        <img src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag"
+                            class="img-juego">
+                        <b>Five Nights At Freddy´s 2</b>
+                        <p>105MB</p>
+                    </a>
+
+
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/3apgG83d">
+                        <img src="https://play-lh.googleusercontent.com/WUXuQ9MrEYeU-blZesAEqdIIQv03OknruPCrNQGOxXop1pFZai0BWT4kKUqaz_rcpRiB=w240-h480-rw"
+                            class="img-juego">
+                        <b>Bad Piggies HD</b>
+                        <p>70MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/upnU6iR1ekPo">
+                        <img src="https://imgs.search.brave.com/_yqodxk2fB6Qq_A9d9gIpksjb3kC2Lfy9aPYk2tH2tQ/rs:fit:340:340:1/g:ce/aHR0cHM6Ly9pbWFn/ZS53aW51ZGYuY29t/L3YyL2ltYWdlMS9Z/Mjl0TG1aMloySm9k/R1p5WkdGdGJDNWxj/bVpuYUdKbmRtWXVZ/MmhoYUdSbGNsOXBZ/Mjl1WHpFMk16WTRP/VGs0T0RGZk1ETXkv/aWNvbi5wbmc_dz0z/NDAmZmFrZXVybD0x"
+                            class="img-juego">
+                        <b>Poppy Play Time</b>
+                        <p>598MB</p>
+                    </a>
+
+
+                </button>
+
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/hj3g2ut">
+                        <img src="https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=w240-h480-rw"
+                            class="img-juego">
+                        <b>Dead Cells</b>
+                        <p>791MB</p>
+                    </a>
+
+
+                </button>
+
+
+
+            </ul>
+
+        </div>
     </div>
-</div>
 </body>
+
 </html>

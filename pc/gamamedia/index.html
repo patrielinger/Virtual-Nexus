@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,165 +17,199 @@
     <script src="/js/juegos.js"></script>
     <script src="/js/meta.js"></script>
 </head>
+
 <body>
-<nav>
-    <img src="/img/icono.jpeg" alt="">
-    <h1>Virtual Nexus</h1>
-</nav>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
 
-<button class="abrir" onclick="abrir()">&#9776;</button>
+    <button class="abrir" onclick="abrir()">&#9776;</button>
 
-<div class="asidee">
-    <aside id="asideee">
-        <b>Categorias</b>
-        <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
             <li><a href="/" class="categoria">inicio</a></li>
             <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
             <li><a href="/pc/" class="categoria">PC</a></li>
             <li><a href="/android/" class="categoria">Android</a></li>
             <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
 
-        <b>Tutoriales</b>
-        <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
-        <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
-        <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
-    </aside>
-
-    
-    <div id="miCartel520" class="cartel">
-        <h3>Visita Nuestras redes para conocernos mejor</h3>
-        <a href="https://www.tiktok.com/@apk_boss">
-            <button>
-                <img src="/img/tik tok.png" alt="">
-                <h2>Tik Tok</h2>
-            </button>
-        </a>
-
-        <a href="https://discord.gg/3kxp2BRRj3">
-            <button>
-                <img src="/img/ds.png" alt="">
-                <h2>Discord</h2>
-            </button>
-        </a>
-            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-        </div>
-    <div id="miCartel" class="cartel cartel11">
-        <h1>Como sabe de que gama es mi PC</h1>
-        <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
-            <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
-            <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de los fabricantes.
-            <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama de tu PC.
-            <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la capacidad de refrigeración para evaluar el rendimiento global de tu PC.</p>
-
-            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-        </div>
-    
-    <div id="miCartel1" class="cartel cartel11">
-        <h1>Como puedo descargar juegos .torrent?</h1>
-        <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
-        tiene la informacion del juego para descargar... <br> <br>
-        Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
-        Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
-        Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la descarga <br>
-        <br>
-        Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del juego <br>
-        Aparecera automaticamente en tu carpeta de descargas.</p>
-        <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la aplicaciónde Utorrent</a>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-    </div>
-
-    <div id="miCartel2" class="cartel cartel11">
-        <h1>Como descargar Juegos que vienen por Partes</h1>
-        <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del juego <br>
-        las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
-        Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer aqui" <br>
-        y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
-        Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
-        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
-    </div>
+            <b>Tutoriales</b>
+            <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
+            <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
+            <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
+        </aside>
 
 
-
-
-    <div class="android">
-
-        <h1>Gama Media</h1>
-
-        <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
-        <ul class="listaArticulos">
-
-
-            <button class="juego" target="_BLANK"> 
-                <a href="https://cuty.io/mkhC7NLu"> 
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX8AfloM9HdF0WuGECS01r0MPMRsfCEkihA&usqp=CAU" class="img-juego">
-                <b>The Witcher 3 Wild Hunt <br> Complete Edition</b> 
-                <p>58000MB</p> 
-                </a> 
-                
-                
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@apk_boss">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
                 </button>
-                <button class="juego" target="_BLANK"> 
-                    <a href="https://cuty.io/HCRdiXYY5G9"> 
-                    <img src="https://i.pinimg.com/originals/6a/43/3c/6a433cdcb0aaf21cfc81bcc4532ded2d.jpg" class="img-juego">
-                    <b>Assassin's Creed <br> Odyssey</b> 
-                    <p>46200MB</p> 
-                    </a> 
-                    
-                    
-                    </button>
-                    <button class="juego" target="_BLANK"> 
-                        <a href="https://cuty.io/7Qjl"> 
-                        <img src="https://www.freepnglogos.com/uploads/fallout-4-logo/fallout-4-picture-logo-21.png" class="img-juego">
-                        <b>Fallout 4</b> 
-                        <p>32000MB</p> 
-                        </a> 
-                        
-                        
-                        </button>
-                        <button class="juego" target="_BLANK"> 
-                            <a href="https://cuty.io/5WNRkEe9uIAF"> 
-                            <img src="https://toppng.com/uploads/preview/borderlands-game-of-the-year-on-the-mac-app-store-borderlands-game-of-the-year-ico-11563216973v9l5h9gh9s.png" class="img-juego">
-                            <b>Borderlands 1</b> 
-                            <p>8000MB</p> 
-                            </a> 
-                            
-                            
-                            </button>
-                            <button class="juego" target="_BLANK"> 
-                                <a href="https://cuty.io/Enk7Kn9eJ"> 
-                                <img src="https://techgage.com/wp-content/uploads/2018/03/Far-Cry-5-Logo.jpg" class="img-juego">
-                                <b>Far Cry 5</b> 
-                                <p>52000MB</p> 
-                                </a> 
-                                
-                                
-                                </button>
-                                <button class="juego" target="_BLANK"> 
-                                    <a href="https://cuty.io/i7hZ"> 
-                                    <img src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/4/4/356de664-e2cd-4e7b-928c-dacb89981565.jpg" class="img-juego">
-                                    <b>Resident Evil 4 <br> Ultimte HD Edition</b> 
-                                    <p>6700MB</p> 
-                                    </a> 
-                                    
-                                    
-                                    </button>
-                                    
-                                    <button class="juego" target="_BLANK"> 
-                                        <a href="https://cuty.io/Lxk4L"> 
-                                        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202206/0608/Oxr3X0TU9BRhpgweQoq5AGgy.png" class="img-juego">
-                                        <b>Resident Evil 2 (2019)</b> 
-                                        <p>17000MB</p> 
-                                        </a> 
-                                        
-                                        
-                                        </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+        <div id="miCartel" class="cartel cartel11">
+            <h1>Como sabe de que gama es mi PC</h1>
+            <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
+                <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
+                <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de
+                los fabricantes.
+                <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama
+                de tu PC.
+                <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la
+                capacidad de refrigeración para evaluar el rendimiento global de tu PC.
+            </p>
+
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div id="miCartel1" class="cartel cartel11">
+            <h1>Como puedo descargar juegos .torrent?</h1>
+            <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
+                tiene la informacion del juego para descargar... <br> <br>
+                Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
+                Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
+                Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la
+                descarga <br>
+                <br>
+                Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del
+                juego <br>
+                Aparecera automaticamente en tu carpeta de descargas.
+            </p>
+            <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la
+                aplicaciónde Utorrent</a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div id="miCartel2" class="cartel cartel11">
+            <h1>Como descargar Juegos que vienen por Partes</h1>
+            <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del
+                juego <br>
+                las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
+                Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer
+                aqui" <br>
+                y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
+                Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
 
 
 
-        </ul>
 
+        <div class="android">
+
+            <h1>Gama Media</h1>
+
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos">
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/mkhC7NLu">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX8AfloM9HdF0WuGECS01r0MPMRsfCEkihA&usqp=CAU"
+                            class="img-juego">
+                        <b>The Witcher 3 Wild Hunt <br> Complete Edition</b>
+                        <p>58000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/HCRdiXYY5G9">
+                        <img src="https://i.pinimg.com/originals/6a/43/3c/6a433cdcb0aaf21cfc81bcc4532ded2d.jpg"
+                            class="img-juego">
+                        <b>Assassin's Creed <br> Odyssey</b>
+                        <p>46200MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/7Qjl">
+                        <img src="https://www.freepnglogos.com/uploads/fallout-4-logo/fallout-4-picture-logo-21.png"
+                            class="img-juego">
+                        <b>Fallout 4</b>
+                        <p>32000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/5WNRkEe9uIAF">
+                        <img src="https://toppng.com/uploads/preview/borderlands-game-of-the-year-on-the-mac-app-store-borderlands-game-of-the-year-ico-11563216973v9l5h9gh9s.png"
+                            class="img-juego">
+                        <b>Borderlands 1</b>
+                        <p>8000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Enk7Kn9eJ">
+                        <img src="https://techgage.com/wp-content/uploads/2018/03/Far-Cry-5-Logo.jpg" class="img-juego">
+                        <b>Far Cry 5</b>
+                        <p>52000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/i7hZ">
+                        <img src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/4/4/356de664-e2cd-4e7b-928c-dacb89981565.jpg"
+                            class="img-juego">
+                        <b>Resident Evil 4 <br> Ultimte HD Edition</b>
+                        <p>6700MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/xkRZF">
+                        <img src="https://w7.pngwing.com/pngs/302/742/png-transparent-grand-theft-auto-v-grand-theft-auto-san-andreas-grand-theft-auto-iv-xbox-360-grand-theft-auto-online-others-emblem-logo-video-game.png" class="img-juego">
+                        <b>GTA V</b>
+                        <p>59000MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Yh3rSfU19a">
+                        <img src="https://images5.fanpop.com/image/photos/30000000/fallout-3-fallout-3-30071200-200-200.jpg"
+                            class="img-juego">
+                        <b>Fallout 3</b>
+                        <p>990MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Lxk4L">
+                        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202206/0608/Oxr3X0TU9BRhpgweQoq5AGgy.png"
+                            class="img-juego">
+                        <b>Resident Evil 2 (2019)</b>
+                        <p>17000MB</p>
+                    </a>
+
+
+                </button>
+
+
+
+            </ul>
+
+        </div>
     </div>
-</div>
 
 </body>
+
 </html>
