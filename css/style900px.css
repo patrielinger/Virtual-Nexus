@@ -223,23 +223,35 @@ section{
     text-decoration: none;
     margin: 10px;
     color: #fff;
+    text-align: start;
 }
 .gamas button{
     border: 1px solid #3aa8fd;
     border-radius: 10px;
-    height: 220px;
-    padding: 10px;
+    /* height: 120px; */
+    /* width: 220px; */
+    padding: 5px;
+    text-align: start;
     background-color: transparent;
-    margin: 10px;
+    vertical-align: middle;
+    text-align: center;
 }
 .gamas button img{
-    height: 170px;
+    height: 70px;
     border-radius: 10px;
+    text-align: start;
 }
 .gamas button h1{
     color: white;
+    font-size: 1.3rem;
+    font-weight: 400;
+    display: inline;
+    vertical-align: top;
     position: relative;
-    bottom: 25px;
+    top: 20px;
+    /* text-align: center; */
+    /* position: relative; */
+    /* bottom: 35px; */
 }
 .star{
     height: 20px;
