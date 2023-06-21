@@ -25,6 +25,10 @@ document.addEventListener("keyup", e=>{
     var cartel = document.getElementById("miCartel");
     cartel.style.display = "block"; 
   }
+  function mostrarCartel10() {
+    var cartel = document.getElementById("miCartel0");
+    cartel.style.display = "block"; 
+  }
   function mostrarCartel2() {
     var cartel1 = document.getElementById("miCartel1");
     cartel1.style.display = "block"; 
