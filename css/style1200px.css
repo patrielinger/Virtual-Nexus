@@ -2,6 +2,15 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+.contra{
+    color: #62ff0d;
+}
+#part1{
+    color: #f437fa;
+}
+#part1:hover{
+    color: #dd2aaa;
+}
 @media(min-width:850px){
     body{
         background-color: #303030;
@@ -170,6 +179,11 @@ section{
     margin-left: 10px;
 }
 .juego a{
+    text-decoration: none;
+    color: beige;
+    display: flex;
+}
+.juego main{
     text-decoration: none;
     color: beige;
     display: flex;

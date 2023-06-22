@@ -24,64 +24,99 @@
     </button> -->
 
     <div class="text">
-        <h3>Link del juego</h3>
-            <input type="text" id="nuevo-texto">
-            <button class="btn123" onclick="modificarParte()">Agregar</button>
-        <h3>Imagen del Juego</h3>
-        <b>se pide por favor que sea una imagen cuadrada <br>
-        para que no se deforme a la hora de agregarlo a la pagina</b><br>
-            <input type="text" id="nuevo-texto1">
-            <button class="btn123" onclick="modificarParte1()">Agregar</button>
-        <h3>Nombre del juego</h3>
-            <input type="text" id="nuevo-texto2">
-            <button class="btn123" onclick="modificarParte2()">Agregar</button>
-        <h3>Tamaño del juego (MB)</h3>
-            <input type="text" id="nuevo-texto3">
-            <button class="btn123" onclick="modificarParte3()">Agregar</button>
-        <!-- <h3>Calificacion del Juego</h3>
-        <b>Para agregar la calificacion de los juegos puedes enrar en <a style="color: #ff3fdf;"target="_blank" href="https://vandal.elespanol.com/analisis/videojuegos">Vandal</a> <br>
-        Buscar su calificacionen <a target="_blank" style="color: #ff3fdf;" href="https://chat.openai.com/chat">ChatGPT</a> o buscando en la Playstore</b> <br>
-            <input type="text" id="nuevo-texto4">
-            <button class="btn123" onclick="modificarParte4()">Agregar</button>
-    </div> -->
+
+
+        <h2> Link del juego</h2>
+
+    <div id="milanesa_fuap">
+        <h3>Cuantos Links tiene el Juego?</h3>
+        <button id="unico" onclick="cambiarDisplay1()" style="border: 0; padding: 10px; background: #e01ee3; color: white; border-radius: 10px;">Un Link</button>
+        <button id="varios" onclick="cambiarDisplay()" style="border: 0; padding: 10px; background: #492ff4; color: white; border-radius: 10px;">Varios</button>
+    </div>
+
+        <div id="varios_links">
+
+        <button class="generador" onclick="generarCodigo()">Generar Código</button><br>
+        <b>Copia este codigo abajo:</b><b id="codigoDiv"></b><br> <br>
+
+        <input type="text" id="textoInput4" placeholder="Codigo (Obligatorio)">
+        <button class="btn123" onclick="imprimirEnAside4()">Agregar</button> <br>
+
+        <input type="text" id="textoInput6" placeholder="Link del juego">
+        <button class="btn123" onclick="imprimirEnAside6()">Agregar</button> <br>
+
+        <input type="text" id="textoInput7" placeholder="Link del juego (Opcional)">
+        <button class="btn123" onclick="imprimirEnAside7()">Agregar</button> <br>
+
+        <input type="text" id="textoInput8" placeholder="Link del juego(Opcional)">
+        <button class="btn123" onclick="imprimirEnAside8()">Agregar</button> <br>
+
+        <input type="text" id="textoInput9" placeholder="Link del juego(Opcional)">
+        <button class="btn123" onclick="imprimirEnAside9()">Agregar</button> <br>
+
+        <input type="text" id="textoInput10" placeholder="Contraseña">
+        <button class="btn123" onclick="imprimirEnAside10()">Agregar</button>
+
+        </div>
+
+        
+        <div id="link_propio">
+        <input type="text" id="textoInput200" placeholder="Link del juego">
+        <button class="btn123" onclick="imprimirEnAside200()">Agregar</button>
+        </div><br>
+
+        <h2>Imagen del juego</h2>
+        <input type="text" id="textoInput1" placeholder="URL de la imagen">
+        <button class="btn123" onclick="imprimirEnAside1()">Agregar</button> <br>
+        
+        <h2>Nombre del juego</h2>
+        <input type="text" id="textoInput2" placeholder="Nombre del juego">
+        <button class="btn123" onclick="imprimirEnAside2()">Agregar</button> <br>
+
+        <h2>Peso del juego (MB)</h2>
+        <input placeholder="Tamaño del juego (solo numeros)" type="text" id="textoInput3">
+        <button class="btn123" onclick="imprimirEnAside3()">Agregar</button> <br>
+
+        <div class="links">
+
+        </div>
 
 
 
 
-            <aside   class="recuadro" style="text-align:start">
-            <p id="mi-parrafo">
-<pre>&lt;button class="juego" target="_BLANK"&gt; 
-&lt;a href="<span id="parte-modificar"></span>"&gt; 
-&lt;img src="<span id="parte-modificar1"></span>" class="img-juego"&gt;
-&lt;b&gt;<span id="parte-modificar2"></span>&lt;/b&gt; 
-&lt;p&gt;<span id="parte-modificar3"></span>MB&lt;/p&gt; 
-&lt;/a&gt; 
-&lt;/button&gt;
-                <!-- &lt;script&gt; function <span id="parte-modificar2"></span>() {var <span id="parte-modificar2"></span> = document.getElementById("<span id="parte-modificar2"></span>");<span id="parte-modificar2"></span>.style.display = "block"; }&lt;/script&gt;
-                &lt;div style="display:none"&gt;
-                &lt;h1&gt; <span id="parte-modificar2"></span> &lt;/h1&gt;
-                <br>
-                &lt;/div&gt; -->
-                <!-- &lt;div class="puntuacion"&gt; 
-                &lt;img class="star" src="/img/estrella.png" alt=""&gt; 
-                &lt;b class="star-num"&gt;<span id="parte-modificar4"></span>&lt;/b&gt; 
-                &lt;/div&gt;  -->
+
+
+
+
+
+
+
+
+
+
+            <main id="mi-parrafo" class="recuadro">
+                <pre>&lt;button <div id="ghdf">onclick="<b id="elemento4"></b>()"</div> class="juego" target="_BLANK"&gt; 
+                <div class="bbb">&lt;main&gt;</div><div id="aaaaaa">&lt;a href="<b id="elemento200"></b>"&gt; </div>
+                &lt;img src="<b id="elemento1"></b>" class="img-juego"&gt;
+                &lt;b&gt;<b id="elemento2"></b>&lt;/b&gt; 
+                &lt;p&gt;<b id="elemento3"></b>MB&lt;/p&gt; 
+                <div class="bbb">&lt;/main&gt;</div><div class="aaaaaa">&lt;/a&gt;</div> 
+                &lt;/button&gt;
+                <div id="extencion">
+                &lt;style&gt; #<b id="elemento4"></b>{display:none} &lt;/style&gt;
+                &lt;script&gt; function <b id="elemento4"></b>() {var <b id="elemento4"></b> = document.getElementById("<b id="elemento4"></b>"); <b id="elemento4"></b>.style.display = "block"; }&lt;/script&gt;
+                &lt;div id="<b id="elemento4"></b>" class="cartel"&gt;
+                &lt;h1&gt;<b id="elemento2"></b>&lt;/h1&gt;
+                &lt;a id="part1" href="<b id="elemento6"></b>"&gt;<b id="elemento6"></b>&lt;/a&gt; &lt;br&gt;
+                &lt;a id="part1" href="<b id="elemento7"></b>"&gt;<b id="elemento7"></b>&lt;/a&gt;&lt;br&gt;
+                &lt;a id="part1" href="<b id="elemento8"></b>"&gt;<b id="elemento8"></b>&lt;/a&gt;&lt;br&gt;
+                &lt;a id="part1" href="<b id="elemento9"></b>"&gt;<b id="elemento9"></b>&lt;/a&gt;&lt;br&gt;
+                &lt;p class="contra"&gt;Contraseña:<b id="elemento10"> -No hay Contraseña-</b>&lt;/p&gt;&lt;br&gt;
+                &lt;button onclick="ocultarCartel()" class="cerrar"&gt;Cerrar&lt;/button&gt;
+                &lt;/div&gt;
+                </div>
                 
             </pre>
-            </p>
-        </aside>
-        <!-- <div class="recuadro2">
-            <button class="juego" target="_BLANK"> 
-                <a href=""> 
-                <img src="" class="img-juego">
-                <b></b> 
-                <p></p> 
-                </a> 
-                <div class="puntuacion"> 
-                <img class="star" src="/img/estrella.png" alt=""> 
-                <b class="star-num"></b> 
-                </div> 
-                </button>
-        </div> -->
+        </main>
 </body>
 </html>

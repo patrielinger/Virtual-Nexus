@@ -3,6 +3,48 @@ body{
     text-align: center;
     color: white;
 }
+input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+}
+button {
+    padding: 5px 10px;
+    font-size: 16px;
+}
+.generador{
+    border: 2px solid #3afd88;
+    border-radius: 10px;
+    color: white;
+    background-color: transparent;
+}
+#codigoDiv{
+    color: #28fe48;
+    display: inline;
+}
+#milanesa_fuap{
+    display: block;
+}
+#link_propio{
+    display: none;
+}
+#varios_links{
+    display: none;
+}
+#extencion{
+    display: none;
+}
+#ghdf{
+    display: none;
+}
+#bbb{
+    display: none;
+}
+.links{
+    display: none;
+}
+main{
+    text-align: start;
+}
 .recuadro{
     background-color: #494949;
     color: white;
@@ -27,9 +69,9 @@ body{
     background-color: #303030;
 }
 .btn123{
-    padding: 5px;
+    padding: 10px;
     color: white;
     background-color: #303030;
-    border: 2px solid #3aa8fd;
-    border-radius: 20px;
+    border: 2px solid #fd3ae3;
+    border-radius: 10px;
 }

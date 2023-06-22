@@ -1,7 +1,16 @@
 *{
     padding: 0;
     font-family: 'Poppins', sans-serif;
-}        
+}  
+.contra{
+    color: #62ff0d;
+}
+#part1{
+    color: #ff04b8;
+}
+#part1:hover{
+    color: #dd2aaa;
+}      
 @media(max-width:849px){
     body{
         background-color: #303030;
