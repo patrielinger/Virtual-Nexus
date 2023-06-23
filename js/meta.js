@@ -13,6 +13,9 @@ document.addEventListener("keyup", e=>{
     }
   })
 
+
+
+  
   function abrir() {
     var aside = document.getElementById("asideee");
     if (aside.style.display === "none") {
@@ -20,6 +23,10 @@ document.addEventListener("keyup", e=>{
     } else {
       aside.style.display = "none";
     }
+  }
+  function mostrarCartel111() {
+    var cartel = document.getElementById("miCartel111");
+    cartel.style.display = "block"; 
   }
   function mostrarCartel() {
     var cartel = document.getElementById("miCartel");
