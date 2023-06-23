@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Nexus</title>
+    <link rel="website icon" type="png" href="/img/icono.jpeg">
+    <link rel="stylesheet" href="/css/style1200px.css">
+    <link rel="stylesheet" href="/css/style900px.css">
+    <link rel="stylesheet" href="/css/style400px.css">
+    <link rel="stylesheet" href="/css/search.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="/js/juegos.js"></script>
+    <script src="/js/meta.js"></script>
+    <script type="text/javascript">
+        var cuty_token = '823ef2f74e1ce7ba9bbaed375';
+        var exclude_domains = ["tiktok.com","discord.gg","instagram.com","virtualnexus.netlify.app"];
+    </script>
+    <script src="https://cdn.cuty.io/fps.js"></script>
+</head>
+
+<body>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
+
+    <button class="abrir" onclick="abrir()">&#9776;</button>
+
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+            <li><a href="/" class="categoria">inicio</a></li>
+            <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
+            <li><a href="/pc/" class="categoria">PC</a></li>
+            <li><a href="/android/" class="categoria">Android</a></li>
+            <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
+
+            <b>Tutoriales</b>
+            <li><button class="categoria" onclick="mostrarCartel10()">Como descargo Juegos?</button></li>
+            <li><button class="categoria" onclick="mostrarCartel()">Que Gama soy?</button></li>
+            <li><button class="categoria" onclick="mostrarCartel2()">Juegos Torrent</button></li>
+            <li><button class="categoria" onclick="mostrarCartel3()">Juegos por Partes</button></li>
+        </aside>
+
+                <div id="miCartel0" class="cartel"  style="border: 2px solid #ff0059;">
+            <h3>Para Aprender a Descargar los juegos y saltar
+                <br>los acortadores puedes ver el siguiente tutorial</h3>
+                <a href="https://vm.tiktok.com/ZM2DVfD5J/" style="color: #ff00ee;">Video Tutorial (Tik Tok)</a>
+<br>
+                <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
+        </div>
+
+
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@virtual._nexus?_t=8dL6X32gxML&_r=1">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
+                </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+        <div id="miCartel" class="cartel cartel11">
+            <h1>Como sabe de que gama es mi PC</h1>
+            <p>1- Identifica tu procesador y busca en línea el modelo para conocer su generación.
+                <br>2- Verifica la tarjeta gráfica en el Administrador de dispositivos.
+                <br>3- Consulta las especificaciones técnicas de tu procesador y tarjeta gráfica en los sitios web de
+                los fabricantes.
+                <br>4- Compara las especificaciones con los modelos de gama alta, media y baja para determinar la gama
+                de tu PC.
+                <br>5- Considera también otros factores como la cantidad de RAM, el tipo de disco duro/SSD y la
+                capacidad de refrigeración para evaluar el rendimiento global de tu PC.
+            </p>
+
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div id="miCartel1" class="cartel cartel11">
+            <h1>Como puedo descargar juegos .torrent?</h1>
+            <p>Para descargar juegos torrent necesitas primero un archivo de formato .torrent el cual <br>
+                tiene la informacion del juego para descargar... <br> <br>
+                Paso 1: Descargar el programa de Utorrent (Enlace de descargaal final) <br>
+                Paso 2: Ejecutar y abrir el programa. Este abrira una pagina en tu buscador por defecto <br>
+                Paso 3: Abrir tu explorador de archivos y mover el archivo .torrent al sitio web y dar en aceptar la
+                descarga <br>
+                <br>
+                Al realizar todos los pasos el juego se empezara a descargar y cuando termine la descarga el archivo del
+                juego <br>
+                Aparecera automaticamente en tu carpeta de descargas.
+            </p>
+            <a class="video" href="https://www.utorrent.com/intl/es/downloads/win/">Toca Aqui para descargar la
+                aplicaciónde Utorrent</a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+        <div id="miCartel2" class="cartel cartel11">
+            <h1>Como descargar Juegos que vienen por Partes</h1>
+            <p>Para descargar juegos que vienen por partes es bastante facil, solo necesitas tener todas las partes del
+                juego <br>
+                las cuales por lo general vienen comprimidas en un archivo .zip o .rar <br>
+                Lo cual tendras que seleccionar todos las partes del juego y dar "Click Derecho" y luego en "Extraer
+                aqui" <br>
+                y te dejara una carpeta con todos los archivos del juego listo para ejecutar. <br>
+                Ya terminado este progreso puedes eliminar con tranquilidad los archivos por partes del juego</p>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+
+
+
+        <div class="android">
+
+            <h1>Gama Media</h1>
+
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos">
+
+                
+                <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/OdYs"> 
+                    <img src="https://assets-prd.ignimgs.com/2022/05/26/teardown-1653601933254.jpg" class="img-juego">
+                    <b>Teardown</b> 
+                    <p>2264MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/X8AzP"> 
+                    <img src="https://swapcloudgames.com/cdn/shop/products/victoria_3-5733531_1_6b015f90-df3e-46d4-8670-899a3dd9a7c4.jpg?v=1663096812" class="img-juego">
+                    <b>Victoria 3 <br> Grand Edition</b> 
+                    <p>4289MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/KONB4"> 
+                    <img src="https://styles.redditmedia.com/t5_2w3z8/styles/communityIcon_i8lb8wta1bo41.png" class="img-juego">
+                    <b>Crusader Kings III <br>Royal Edition </b> 
+                    <p>3188MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/ny4LpQ6uo"> 
+                    <img src="https://assets-prd.ignimgs.com/2022/05/12/starship-troopers-terran-command-button-2-1652397029814.jpg" class="img-juego">
+                    <b>Starship Troopers <br>Terran Command</b> 
+                    <p> 4970MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/BODgdkc5uq"> 
+                    <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Dead_cells_cover_art.png" class="img-juego">
+                    <b>Dead Cells</b> 
+                    <p>2421MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/6JR1lB6E"> 
+                    <img src="https://sm.ign.com/ign_es/cover/s/soulstice/soulstice_kge2.jpg" class="img-juego">
+                    <b>Soulstice Deluxe Edition </b> 
+                    <p>14219MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/i2FawdIk"> 
+                    <img src="https://assets-prd.ignimgs.com/2022/06/12/pentiment-button-fin-1655069953648.jpg" class="img-juego">
+                    <b>Pentiment </b> 
+                    <p>4704MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/wFBS"> 
+                    <img src="https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png" class="img-juego">
+                    <b>Farming Simulator 22</b> 
+                    <p>17107MB</p> 
+                    </a> 
+                    </button>
+                    
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/wUpa"> 
+                    <img src="https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-2sa1q.png" class="img-juego">
+                    <b>Amnesia The Bunker</b> 
+                    <p>6439MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/Z8Ec"> 
+                    <img src="https://assets-prd.ignimgs.com/2020/09/17/the-long-dark-button-1600382473667.jpg" class="img-juego">
+                    <b>The Long Dark</b> 
+                    <p> 7839MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/E47f7nVyQNfs"> 
+                    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202105/0411/L6AeZM046ZKczkKIR2En9lrx.png" class="img-juego">
+                    <b>Cooking Simulator </b> 
+                    <p> 8026MB</p> 
+                    </a> 
+                    </button>
+                    
+                    <button class="juego" target="_BLANK"> 
+                    <a href="https://cuty.io/tI3U"> 
+                    <img src="https://play-lh.googleusercontent.com/oWjbmGxISRrI337M9wig7dt95e23uUw4_tlHlFTfa6ZSgIWRixahphV9zdn5oihMJ9s" class="img-juego">
+                    <b>Talisman: Digital Edition </b> 
+                    <p>1125MB</p> 
+                    </a> 
+                    </button>
+                    
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/kBRTCYa">
+                        <img src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-22/256/Manhunt-2-1-icon.png"
+                            class="img-juego">
+                        <b>Manhunt 2</b>
+                        <p>3640MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/QDGhf">
+                        <img src="https://dl.apkawards.com/mode/dl28/games/com.CheesecakeDev.InternetCafeSimulator2/img/com.CheesecakeDev.InternetCafeSimulator2.png"
+                            class="img-juego">
+                        <b>Internet Cafe Simulator 2 </b>
+                        <p>2720MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/qfF7yighCXMx">
+                        <img src="https://play-lh.googleusercontent.com/aDX4QRdSBmlOTeWAsS5NbKcggupZ6_RSUzz7kLyIY91RChNDvEv26Czcqb-1rgt6FeE"
+                            class="img-juego">
+                        <b>Hello Neighbord</b>
+                        <p>1800MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/pvQhV">
+                        <img src="https://image.winudf.com/v2/image1/Y29tLmFtYW5kYS5nYW1lLkFEVkVOVFVSRV9pY29uXzE2NTE4MjU5MjVfMDQ2/icon.png?w=184&fakeurl=1"
+                            class="img-juego">
+                        <b>amanda the adventurer</b>
+                        <p>1190MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/3VXWBUpF">
+                        <img src="https://play-lh.googleusercontent.com/XGpIsGalp_wmbr9WUGF8Jef2iDWeOm2-A7wSY9K7hK3SGLWJ39pcAUZ1Q6qzapV9nBEk"
+                            class="img-juego">
+                        <b>Garten of Banban 2 </b>
+                        <p>346MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/w7rUaoyaxTGw">
+                        <img src="https://assets-prd.ignimgs.com/2022/05/17/sonsoftheforest-1652806471329.jpg"
+                            class="img-juego">
+                        <b>Sons of the Forest</b>
+                        <p>9000MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/EUVto1R">
+                        <img src="https://sm.ign.com/ign_es/cover/d/dark-souls-ii-scholar-of-the-first-sin/dark-souls-ii-scholar-of-the-first-sin_y6ma.jpg"
+                            class="img-juego">
+                        <b>Dark Souls II</b>
+                        <p>13430MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/0RCzEkiT9zf">
+                        <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/077d978746daa38abb42a9fb292618a7.png"
+                            class="img-juego">
+                        <b>Devour</b>
+                        <p>4260MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/r36BQhCWhJ">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4d79d49-4b6f-4447-8e97-5e6115b8e211/dfaj1wr-7266b51a-86e2-48d8-8e8f-3521a650b1e8.png/v1/fill/w_720,h_720/powerwash_simulator__icon__by_imegane_dfaj1wr-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzRkNzlkNDktNGI2Zi00NDQ3LThlOTctNWU2MTE1YjhlMjExXC9kZmFqMXdyLTcyNjZiNTFhLTg2ZTItNDhkOC04ZThmLTM1MjFhNjUwYjFlOC5wbmciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qT6zLqcR7drq4utNHYyI7zFdSvuP38CVap2mDYKZib0"
+                            class="img-juego">
+                        <b>Power Wash Simulator (Torrent)</b>
+                        <p>0.5MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Ec1E1nUsmXm">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg" class="img-juego">
+                        <b>Sekiro Shadow die Twice (Torrent)</b>
+                        <p>0.5MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/hy6zHl">
+                        <img src="https://image.api.playstation.com/cdn/EP0700/CUSA08495_00/COYF3JBI46ftkG7tIdTjQg0v9aZ2378N.png"
+                            class="img-juego">
+                        <b>Dark Souls Remastered</b>
+                        <p>17000MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/ENMP9D7S">
+                        <img src="https://m.media-amazon.com/images/M/MV5BODRmNDQ1YjAtNTI1Yy00YThmLWIwZjYtOTQ0Yjc0Y2Q3NWZjXkEyXkFqcGdeQXVyODU0MzgyNDU@._V1_.jpg"
+                            class="img-juego">
+                        <b>Subnautica</b>
+                        <p>6400MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/2ai6s54">
+                        <img src="https://storage.qoo-img.com/game/11742/ZoUr34wZ4n4i9XfoVSBec9lk4ZtjGIRq.jpg"
+                            class="img-juego">
+                        <b>Cuphead + DLC</b>
+                        <p>4460MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/ECbKL5u2S">
+                        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0108/uxdypYdPjRXXKfSc1CxiLClp.png"
+                            class="img-juego">
+                        <b>Little Nightmares II</b>
+                        <p>5210MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/NlDypanbt">
+                        <img src="https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3249324-untitled-1.jpg"
+                            class="img-juego">
+                        <b>Little Nightmares </b>
+                        <p>2400MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/fF5klzVME6P">
+                        <img src="https://static.tvtropes.org/pmwiki/pub/images/re8.png" class="img-juego">
+                        <b>Resident Evil Village <br> Deluxe Edition </b>
+                        <p> 24717MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/VygrzdEyxIlL">
+                        <img src="https://assets.stickpng.com/thumbs/628a4d3ebc2ec7ad957f4040.png" class="img-juego">
+                        <b>Uncharted 4: Legacy of Thieves <br> Collection </b>
+                        <p>67033MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/UuABiqWJp">
+                        <img src="https://systemshock.com/wp-content/uploads/2016/03/ss-mobile-01.jpg"
+                            class="img-juego">
+                        <b>System Shock Remake </b>
+                        <p>2621MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/F2BWL3pq">
+                        <img style="width: 60%;"
+                            src="https://game-wisdom.com/wp-content/uploads/2016/02/Layers-of-Fear-5.jpg"
+                            class="img-juego">
+                        <b>Layers of Fear</b>
+                        <p>17136MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/oWeTklRF">
+                        <img src="https://www.cloudgamingcatalogue.com/wp-content/uploads/2022/06/Minecraft-Legends.jpg"
+                            class="img-juego">
+                        <b>Minecraft Legends</b>
+                        <p>6937MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/NHMUDTPEx">
+                        <img src="https://assets-prd.ignimgs.com/2022/03/29/coddeluxe-1648513325181.jpg"
+                            class="img-juego">
+                        <b>Call of Duty <br>Deluxe Edition</b>
+                        <p>3798MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/eVDRiUP">
+                        <img style="width: 60%;"
+                            src="https://img2.freepng.es/20180601/zkr/kisspng-call-of-duty-2-call-of-duty-wwii-call-of-duty-bl-5b11697b98d746.107679771527867771626.jpg"
+                            class="img-juego">
+                        <b>Call of Duty 2 </b>
+                        <p>9549MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/PHHm">
+                        <img src="https://e7.pngegg.com/pngimages/184/635/png-clipart-call-of-duty-advanced-warfare-call-of-duty-modern-warfare-3-playstation-4-playstation-3-call-of-duty-video-game-playstation-4.png"
+                            class="img-juego">
+                        <b>Call of Duty: <br> Advanced Warfare</b>
+                        <p>46023MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/xQuOV">
+                        <img style="width: 60%;"
+                            src="https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/call-of-duty-black-ops-file-47151f2f.jpeg"
+                            class="img-juego">
+                        <b>Call of Duty: <br> Black Ops </b>
+                        <p>9541MB</p>
+                    </a>
+                </button>
+
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/9SoxJgwA">
+                        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022013/untitled-1_11.png?itok=57BJCS8U"
+                            class="img-juego">
+                        <b>Call of Duty: <br> Black Ops II</b>
+                        <p>15427MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/M65j9k15R2tR">
+                        <img src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-25/256/Call-of-Duty-World-at-War-4-icon.png"
+                            class="img-juego">
+                        <b>Call of Duty: <br> World at War</b>
+                        <p>7302MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/hPWz2Ari0">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d9sm9eq-2cb37b2c-7cb4-44f4-aaae-c9642287dbc8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjYzZDNjLWFlNjctNDY0Yy05YTM3LTY3MDgyOWIyYTE1N1wvZDlzbTllcS0yY2IzN2IyYy03Y2I0LTQ0ZjQtYWFhZS1jOTY0MjI4N2RiYzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TS74AwizLzpOEsKiKbJV1H4_9h-2OZ60NizmTBlsWPo"
+                            class="img-juego">
+                        <b>Call of Duty 4: <br> Modern Warfare</b>
+                        <p>8598MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/mkhC7NLu">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX8AfloM9HdF0WuGECS01r0MPMRsfCEkihA&usqp=CAU"
+                            class="img-juego">
+                        <b>The Witcher 3 Wild Hunt <br> Complete Edition</b>
+                        <p>58000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/HCRdiXYY5G9">
+                        <img src="https://i.pinimg.com/originals/6a/43/3c/6a433cdcb0aaf21cfc81bcc4532ded2d.jpg"
+                            class="img-juego">
+                        <b>Assassin's Creed <br> Odyssey</b>
+                        <p>46200MB</p>
+                    </a>
+
+
+                </button>
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/5WNRkEe9uIAF">
+                        <img src="https://toppng.com/uploads/preview/borderlands-game-of-the-year-on-the-mac-app-store-borderlands-game-of-the-year-ico-11563216973v9l5h9gh9s.png"
+                            class="img-juego">
+                        <b>Borderlands 1</b>
+                        <p>8000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Enk7Kn9eJ">
+                        <img src="https://techgage.com/wp-content/uploads/2018/03/Far-Cry-5-Logo.jpg" class="img-juego">
+                        <b>Far Cry 5</b>
+                        <p>52000MB</p>
+                    </a>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/i7hZ">
+                        <img src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/4/4/356de664-e2cd-4e7b-928c-dacb89981565.jpg"
+                            class="img-juego">
+                        <b>Resident Evil 4 <br> Ultimte HD Edition</b>
+                        <p>6700MB</p>
+                    </a>
+
+                    <button class="juego" target="_BLANK">
+                        <a href="https://cuty.io/KF9CDs">
+                            <img src="https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png"
+                                class="img-juego">
+                            <b>Minecraft Dungeons</b>
+                            <p>1910MB</p>
+                        </a>
+                    </button>
+
+
+                </button>
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/xkRZF">
+                        <img src="https://w7.pngwing.com/pngs/302/742/png-transparent-grand-theft-auto-v-grand-theft-auto-san-andreas-grand-theft-auto-iv-xbox-360-grand-theft-auto-online-others-emblem-logo-video-game.png"
+                            class="img-juego">
+                        <b>GTA V</b>
+                        <p>59000MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Yh3rSfU19a">
+                        <img src="https://images5.fanpop.com/image/photos/30000000/fallout-3-fallout-3-30071200-200-200.jpg"
+                            class="img-juego">
+                        <b>Fallout 3</b>
+                        <p>990MB</p>
+                    </a>
+                </button>
+
+                <button class="juego" target="_BLANK">
+                    <a href="https://cuty.io/Lxk4L">
+                        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202206/0608/Oxr3X0TU9BRhpgweQoq5AGgy.png"
+                            class="img-juego">
+                        <b>Resident Evil 2 (2019)</b>
+                        <p>17000MB</p>
+                    </a>
+
+
+                </button>
+
+
+
+            </ul>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
