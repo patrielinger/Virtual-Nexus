@@ -21,7 +21,7 @@
     <script src="/js/meta.js"></script>
     <script type="text/javascript">
         var cuty_token = '823ef2f74e1ce7ba9bbaed375';
-        var exclude_domains = ["tiktok.com","discord.gg","instagram.com","virtualnexus.netlify.app","/"];
+        var exclude_domains = ["127.0.0.1:5500","tiktok.com","discord.gg","instagram.com","virtualnexus.netlify.app","/"];
     </script>
     <script src="https://cdn.cuty.io/fps.js"></script>
 
@@ -39,7 +39,7 @@
         <b>Categorias</b>
         <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
             <li><a href="/" class="categoria">inicio</a></li>
-            <li><button onclick="mostrarCartel111()" class="categoria">🌐Idioma</button></li>
+            <!-- <li><button onclick="mostrarCartel111()" class="categoria">🌐Idioma</button></li> -->
             <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
             <li><a href="/pc/" class="categoria">PC</a></li>
             <li><a href="/android/" class="categoria">Android</a></li>
@@ -48,8 +48,11 @@
     <div id="miCartel111" class="cartel">
         <h1>Selecciona el Idioma</h1>
 
-        <li><a href="/">Español</a></li>
-        <li><a href="/en/">Ingles</a></li>
+        <h3><a style="color: blueviolet;" href="/">Español</a></h3>
+        <h3><a style="color: blueviolet;" href="/en/">Ingles</a></h3>
+
+        <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+
     </div>
         
         <div id="miCartel520" class="cartel">
@@ -72,6 +75,12 @@
         <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
     <div class="notis">
         <h1>Novedades de la Web</h1>
+
+        <button class="articulo">
+            <img src="/img/icono.jpeg" alt="">
+            <b>Se agregaron nuevos Juegos en la categoria de<a href="/pc/gamabaja/">PC Gama Baja</a> (29 Juegos)</b>
+            <p>23/06/2023</p>
+        </button>
 
         <button class="articulo">
             <img src="/img/icono.jpeg" alt="">
