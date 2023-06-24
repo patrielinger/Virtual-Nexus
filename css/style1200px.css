@@ -11,6 +11,7 @@
 #part1:hover{
     color: #dd2aaa;
 }
+
 @media(min-width:850px){
     body{
         background-color: #303030;
@@ -177,6 +178,7 @@ section{
     padding: 5px;
     margin-bottom: 10px;
     margin-left: 10px;
+    overflow: hidden;
 }
 .juego a{
     text-decoration: none;
@@ -202,6 +204,8 @@ section{
         height: 100px;
         display: inline;
         border-radius: 10px;
+        max-width: 100%;
+        width: auto;
 }
 .cartel {
     display: none; /* El cartel estará oculto inicialmente */
