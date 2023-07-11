@@ -47,10 +47,10 @@ function cambiarDisplay1() {
 // codigo random
 
 function generarCodigo() {
-  var caracteres = "aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUxXzZyYñÑvV123456789";
+  var caracteres = "aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUxXzZyYvV";
   var codigo = "";
 
-  for (var i = 0; i < 5; i++) {
+  for (var i = 0; i < 11; i++) {
     var indice = Math.floor(Math.random() * caracteres.length);
     codigo += caracteres.charAt(indice);
   }

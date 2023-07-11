@@ -62,12 +62,10 @@ document.addEventListener("keyup", e=>{
   }
 
 
-  // cerrar
-
+//cerrar
       function ocultarCartel() {
       var carteles = document.getElementsByClassName("cartel");
 
-      // Iterar a través de los elementos con la clase "miCartel"
       for (var i = 0; i < carteles.length; i++) {
         carteles[i].style.display = "none";
       }
