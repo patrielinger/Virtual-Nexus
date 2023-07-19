@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Nexus</title>
+    <link rel="website icon" type="png" href="/img/icono.jpeg">
+    <link rel="stylesheet" href="/css/style1200px.css">
+    <link rel="stylesheet" href="/css/style900px.css">
+    <link rel="stylesheet" href="/css/style400px.css">
+    <link rel="stylesheet" href="/css/search.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="/js/juegos.js"></script>
+    <script src="/js/meta.js"></script>
+    <script type="text/javascript">
+        var cuty_token = '823ef2f74e1ce7ba9bbaed375';
+        var exclude_domains = ["tiktok.com", "discord.gg", "instagram.com", "virtualnexus.netlify.app"];
+    </script>
+    <script src="https://cdn.cuty.io/fps.js"></script>
+    <style>#roms{color: aqua; text-decoration-line: line; background-color: transparent; border: 0; margin-top: 10px;}
+    #roms:hover{color: rgb(1, 173, 173);}</style>
+</head>
+
+<body>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
+    <button class="abrir" onclick="abrir()">&#9776;</button>
+
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+            <li><a href="/" class="categoria">inicio</a></li>
+            <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
+            <li><a href="/roms/" class="categoria">Roms</a></li>
+            <li><a href="/pc/" class="categoria">PC</a></li>
+            <li><a href="/android/" class="categoria">Android</a></li>
+            <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
+            <b>Tutoriales</b>
+        </aside>
+
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@virtual.._nexus">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
+                </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+
+
+        <div class="android">
+
+            <h1>Nintendo 3DS roms</h1>
+
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos" style="text-align: start;">
+
+                <a href="https://drive.google.com/drive/folders/1SqW82NvPPbkNQkW__WYLE22ifA37bMQR" class="juego" id="roms">Parte 1 (0001-0012)</a><br>
+                <a href="https://drive.google.com/drive/folders/1JSU21buAvHWtZpb4j_ilpUTJuwwSxijy" class="juego" id="roms">Parte 2 (0013-0024)</a><br>
+                <a href="https://drive.google.com/drive/folders/16DskMUpMdGszHU96pGIUPGRpwFIrlfKy" class="juego" id="roms">Parte 3 (0025-0036)</a><br>
+
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>

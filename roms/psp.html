@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Nexus</title>
+    <link rel="website icon" type="png" href="/img/icono.jpeg">
+    <link rel="stylesheet" href="/css/style1200px.css">
+    <link rel="stylesheet" href="/css/style900px.css">
+    <link rel="stylesheet" href="/css/style400px.css">
+    <link rel="stylesheet" href="/css/search.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="/js/juegos.js"></script>
+    <script src="/js/meta.js"></script>
+    <script type="text/javascript">
+        var cuty_token = '823ef2f74e1ce7ba9bbaed375';
+        var exclude_domains = ["tiktok.com", "discord.gg", "instagram.com", "virtualnexus.netlify.app"];
+    </script>
+    <script src="https://cdn.cuty.io/fps.js"></script>
+    <style>#roms{color: aqua; text-decoration-line: line; background-color: transparent; border: 0; margin-top: 10px;}
+    #roms:hover{color: rgb(1, 173, 173);}</style>
+</head>
+
+<body>
+    <nav>
+        <img src="/img/icono.jpeg" alt="">
+        <h1>Virtual Nexus</h1>
+    </nav>
+    <button class="abrir" onclick="abrir()">&#9776;</button>
+
+    <div class="asidee">
+        <aside id="asideee">
+            <b>Categorias</b>
+            <!-- <input type="text" name="buscador" id="buscador" placeholder="Buscar..."> -->
+            <li><a href="/" class="categoria">inicio</a></li>
+            <li><a href="/emuladores/" class="categoria">Emuladores</a></li>
+            <li><a href="/roms/" class="categoria">Roms</a></li>
+            <li><a href="/pc/" class="categoria">PC</a></li>
+            <li><a href="/android/" class="categoria">Android</a></li>
+            <li><button class="categoria" onclick="mostrarCartel520()">Redes</button></li>
+            <b>Tutoriales</b>
+        </aside>
+
+        <div id="miCartel520" class="cartel">
+            <h3>Visita Nuestras redes para conocernos mejor</h3>
+            <a href="https://www.tiktok.com/@virtual.._nexus">
+                <button>
+                    <img src="/img/tik tok.png" alt="">
+                    <h2>Tik Tok</h2>
+                </button>
+            </a>
+
+            <a href="https://discord.gg/3kxp2BRRj3">
+                <button>
+                    <img src="/img/ds.png" alt="">
+                    <h2>Discord</h2>
+                </button>
+            </a>
+            <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
+        </div>
+
+
+
+        <div class="android">
+
+            <h1>PSP roms</h1>
+
+            <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+            <ul class="listaArticulos" style="text-align: start;">
+
+                <a href="https://www.mediafire.com/file/7oyf8a5v24adaxg/GOW-CHAINS-OF-OLYMPUS-PPSSPP-APK+DATA.rar/file" class="juego" id="roms">GOW Chains Of Olympus CSO Optimized</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/g/god-of-war-ghost-of-sparta-usa.zip" class="juego" id="roms"> God of War: Ghost Of Sparta Iso</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/a/assassin-s-creed-bloodlines-usa.zip" class="juego" id="roms">Assassin Creed – Blood Lines</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/w/wwe-smackdown-vs-raw-2006-usa.zip" class="juego" id="roms">WWE Smack Down VS Raw 2006</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/x/x-men-origins-wolverine-usa.zip" class="juego" id="roms">X-Men Origin Wolverine Iso</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/b/beowulf-the-game-europe.zip" class="juego" id="roms">Beowulf – el juego</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/n/need-for-speed-most-wanted-5-1-0-europe.zip" class="juego" id="roms">Need For Speed ​​Most Wanted</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/g/ghost-rider-europe.zip" class="juego" id="roms">Ghost Rider</a><br>
+                <a href="https://www.mediafire.com/file/aws3g9rdmdzsumj/WWE_2k14_PPSSPP_-_PSP_Iso_SaveData_-_RisTechy.com.zip/file" class="juego" id="roms"> WWE Smackdown vs raw 2k14</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/g/grand-theft-auto-liberty-city-stories-usa.zip" class="juego" id="roms">Grand Theft Auto: historias de Liberty City</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/mortal-kombat-unchained-usa.zip" class="juego" id="roms">Mortal Kombat Unchained</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/t/tekken-dark-resurrection-usa.zip" class="juego" id="roms"> Tekken – Dark Resurrection</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/m-a-c-h-modified-air-combat-heroes-usa.zip" class="juego" id="roms"> MACH Modified Air Combat Heroes</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/f/fifa-14-usa.7z" class="juego" id="roms">FIFA 14 – Legacy Edition</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/t/tomb-raider-legend-europe.zip" class="juego" id="roms"> leyenda de Tomb Raider</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/p/prince-of-persia-the-forgotten-sands-usa.zip" class="juego" id="roms">Prince of Persia – Las arenas olvidadas</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/c/crisis-core-final-fantasy-vii-usa.zip" class="juego" id="roms">Crisis Core: Final Fantasy VII</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/k/kingdom-hearts-birth-by-sleep-usa.zip" class="juego" id="roms">Kingdom Hearts Birth By Sleep</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/f/final-fantasy-tactics-the-war-of-the-lions-usa.zip" class="juego" id="roms">Final Fantasy Tactics: La guerra de los leones</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/metal-gear-solid-peace-walker-usa.zip" class="juego" id="roms">Metal Gear Solid: Peace Walker</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/spider-man-3-usa.zip" class="juego" id="roms">Spider – Man 3</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/b/ben-10-alien-force-usa.zip" class="juego" id="roms">Ben 10 – Alien Force</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/moto-gp-usa.zip" class="juego" id="roms">Moto GP</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/f/fast-and-the-furious-the-tokyo-drift-europe.zip" class="juego" id="roms">Rápido y Furioso: Deriva de Tokio</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/b/ben-10-protector-of-earth-usa.zip" class="juego" id="roms">Call of Duty – Roads To Victory</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/b/ben-10-protector-of-earth-usa.zip" class="juego" id="roms">Ben 10 – Protector de la Tierra</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/a/avatar-the-last-airbender-usa.zip" class="juego" id="roms">Avatar – The Last Airbender</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/g/grand-theft-auto-chinatown-wars-usa.zip" class="juego" id="roms">Grand Theft Auto – Chinatown Wars</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/simpsons-game-the-usa.zip" class="juego" id="roms">El juego de los Simpson</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/w/world-soccer-winning-eleven-9-usa.zip" class="juego" id="roms">World Soccer Winning Eleven 9</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/x/x-men-legends-ii-rise-of-apocalypse-usa.zip" class="juego" id="roms">X-Men Legends II – Rise Of The Apocalypse</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/p/peter-jackson-s-king-kong-usa.zip" class="juego" id="roms">King Kong de Perter Jackson</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/sonic-rivals-usa.zip" class="juego" id="roms">Sonic Rivals</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/sonic-rivals-2-usa.zip" class="juego" id="roms">Sonic Rivals 2</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/spider-man-2-usa.zip" class="juego" id="roms">Spider Man 2</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/spongebob-s-truth-or-square-usa.zip" class="juego" id="roms">La verdad y la plaza de Bob Esponja</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/spider-man-web-of-shadows-europe.zip" class="juego" id="roms">Spider-Man: Web Of Shadows</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/s/spider-man-friend-or-foe-usa.zip" class="juego" id="roms">Spider-Man: amigo o enemigo</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/metal-slug-xx-usa.zip" class="juego" id="roms"> Metal Slug XX</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/p/prince-of-persia-revelations-europe.zip" class="juego" id="roms">Prince Of Persia – Revelations</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/metal-gear-solid-portable-ops-usa.zip" class="juego" id="roms"> Metal Gear Solid – Operaciones portátiles</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/m/metal-gear-solid-portable-ops-usa.zip" class="juego" id="roms"> Metal Gear Solid – Portable Ops Plus</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/w/wwe-smackdown-vs-raw-2008-featuring-ecw-europe.zip" class="juego" id="roms">WWE Smackdown Vs Raw 2008</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/r/race-driver-2006-usa.zip" class="juego" id="roms">Race Driver 2006</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/b/burnout-legends-usa.zip" class="juego" id="roms">Burnout Legends</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/l/littlebigplanet-usa.zip" class="juego" id="roms">Little Big Planet</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/g/gran-turismo-usa.zip" class="juego" id="roms">Gran Turismo</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/j/justice-league-heroes-usa.zip" class="juego" id="roms">Justice League Heroes</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/t/transformers-revenge-of-the-fallen-usa.zip" class="juego" id="roms">Transformers – La venganza de los caídos</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/t/tekken-6-usa.zip" class="juego" id="roms">Tekken 6</a><br>
+                <a href="https://s3roms.download/romfiles/playstation-portable/h/hot-wheels-ultimate-racing-usa.zip" class="juego" id="roms">Hot Wheels Ultimate Racing</a><br>
+                
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
