@@ -225,8 +225,8 @@ section{
 }
 
 .toggle-btn {
-    position: absolute;
-    left: 440px;
+    position: fixed;
+    right: 40px;
     top: 40px;
     font-size: 20px;
     background: #0c0a28;
