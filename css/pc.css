@@ -1,0 +1,267 @@
+@import url(/css/android.css);
+*{
+    padding: 0;
+    color: white;
+    /* box-sizing: border-box; */
+}
+
+@media(min-width:850px){
+    .contra{
+        color: #3cff00;
+    }
+    #part1{
+        color: #f437fa;
+    }
+    #part1:hover{
+        color: #dd2aaa;
+    }
+    
+.roms{
+    color: white;
+    background-color: #303030;
+    border-radius: 5px;
+    border: 2px solid #f437fa;
+    height: auto;
+    width: 80%;
+    display: flex;
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+.roms a{
+    text-decoration-line: none;
+    text-decoration: none;
+    color: white;
+    display: flex;
+}
+.roms a p{
+    font-size: 1.5rem;
+    margin-left: 5px;
+    display: inline-block;
+}
+    body{
+        background-color: #0c0a28;
+    }
+    .abrir{
+        display: none;
+    }
+    #buscador{
+        background-color: #000e38;
+        border: 2px solid rgb(0, 255, 255);
+        height: 40px;
+        padding: 0px;
+        font-size: 1.1rem;
+        color:white;
+        width: 19rem;
+    }
+    @import url('/css/search.css');
+section{
+    width: 250px;
+    height: 7100px;
+    display: flex;
+    flex-direction: initial;
+    align-items: initial;
+}
+#listaArticulos{
+    width: 100%;
+    margin: 10px;
+    display: block;
+}
+.filtro{
+    display: none;
+}
+.cartel {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #000e38;
+    border: 2px solid #3afdf3;
+    color: white;
+    padding: 20px;
+    z-index: 999;
+}
+.cerrar{
+    border: 1px solid rgba(72, 255, 255, 0.953);
+    border-radius: 25%;
+    font-size: 1rem;
+    padding: 4px;
+    background-color: transparent;
+    color: white;
+    position: relative;
+}
+.gamas{
+    text-decoration: none;
+    margin: 10px;
+    color: #fff;
+    text-align: start;
+}
+.gamas button{
+    border: 1px solid #3aa8fd;
+    border-radius: 10px;
+    /* height: 120px; */
+    /* width: 220px; */
+    padding: 5px;
+    text-align: start;
+    background-color: transparent;
+    vertical-align: middle;
+    text-align: center;
+}
+.gamas button img{
+    height: 70px;
+    border-radius: 10px;
+    text-align: start;
+    vertical-align: middle;
+}
+.gamah{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 400;
+    display: inline;
+}
+.juego{
+    color: white;
+    background-color: #0c0a28;
+    border: 2px solid #00d9ff;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    overflow: hidden;
+    width: 160px;
+    height: 240px;
+}
+.juego a{
+    text-decoration: none;
+    color: beige;
+    text-align: center;
+    vertical-align: top;
+}
+.juego main{
+    text-decoration: none;
+    color: beige;
+    text-align: center;
+    /* display: flex; */
+}
+.juego b{
+    font-size: 1rem;
+    margin: 4px;
+    height: 20px;
+    width: 80%;
+    text-align: start;
+    font-weight: 500;
+    display: block;
+}
+.juego p{
+    height: 10px;
+    text-align: end;
+    vertical-align: bottom;
+    /* display: block; */
+}
+.img-juego{
+        height: 125px;
+        display: inline;
+        border-radius: 10px;
+        max-width: 100%;
+        width: auto;
+}
+.cate{
+    text-decoration-line: none;
+    display: block;
+}
+
+.menu {
+    width: 400px;
+    height: 100vh;
+    background-color: #191551;
+    color: #fff;
+    position: fixed;
+    left: -400px;
+    transition: left 0.3s ease;
+    z-index: 999999;
+}
+
+.menu-items {
+    list-style: none;
+    padding: 10px;
+}
+
+.menu-items li {
+    padding: 15px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.cate:hover {
+    color: rgb(195, 201, 206);
+}
+.lateral-img{
+    filter: invert();
+    width: 2rem;
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+.redes-2{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    right: 3%;
+}
+.redes-2 a img{
+    width: 2rem;
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+.redes-2 a img:hover{
+    filter: blur(1px);
+}
+.content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.toggle-btn {
+    position: absolute;
+    left: 480px;
+    top: 40px;
+    font-size: 20px;
+    background: #0c0a28;
+    border: 2px solid #fff;
+    padding: 7px 10px 7px 10px;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+}
+.toggle-btn:focus {
+    outline: none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

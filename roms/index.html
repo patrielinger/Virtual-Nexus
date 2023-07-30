@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Virtual Nexus</title>
     <link rel="stylesheet" type="text/css" href="/css/search.css">
@@ -8,20 +9,20 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/pc.css">
     <link rel="stylesheet" href="/css/android.css">
-    <meta property="og:title" content="Virtual Nexus">
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Virtual Nexus">
     <meta property="og:description" content="El mejor sitio para descargar tus juegos preferidos de PC y Android">
     <meta property="og:image" content="https://github.com/patrielinger/Virtual-Nexus/blob/main/img/icono.jpeg?raw=true">
     <meta property="og:url" content="https://virtualnexus.netlify.app/">
-    
+
     <script type="text/javascript">
         var cuty_token = '823ef2f74e1ce7ba9bbaed375';
-        var exclude_domains = ["/","virtualnexus.netlify.app","youtube.com","netlify.app","tiktok.com","discord.gg","t.me","telegram.com"];
+        var exclude_domains = ["/", "virtualnexus.netlify.app", "youtube.com", "netlify.app", "tiktok.com", "discord.gg", "t.me", "telegram.com"];
     </script>
     <script src="https://cdn.cuty.io/fps.js"></script>
 
 </head>
+
 <body>
     <div class="menu">
         <button class="toggle-btn" onclick="toggleMenu()">☰</button>
@@ -33,58 +34,35 @@
             <li><a class="cate" href="/android/"><img src="/img/phone.jpg" class="lateral-img">Juegos Android</a></li>
             <li><a class="cate" href="/emu/"><img src="/img/emulator.png" class="lateral-img">Emuladores</a></li>
             <li><a class="cate" href="/roms/"><img src="/img/rom.png" class="lateral-img">ROMS</a></li>
-            <li><a class="cate" href="https://cinenexus.netlify.app/"><img src="/img/cine.png" class="lateral-img">Peliculas</a></li>
+            <li><a class="cate" href="https://cinenexus.netlify.app/"><img src="/img/cine.png"
+                        class="lateral-img">Peliculas</a></li>
             <div class="redes-2">
-            <a href="www.tiktok.com/@virtual.._nexus"><img src="/img/tik-tok.png"></a>
-            <a href="https://discord.gg/tuq5cZkUcQ"><img src="/img/ds.png"></a>
-            <a href="https://t.me/virtualnexus"><img src="/img/telegrama.png"></a>
-            <a href="https://youtube.com/@virtualnex873"><img src="/img/youtube.png"></a>
-        </div>
+                <a href="www.tiktok.com/@virtual.._nexus"><img src="/img/tik-tok.png"></a>
+                <a href="https://discord.gg/tuq5cZkUcQ"><img src="/img/ds.png"></a>
+                <a href="https://t.me/virtualnexus"><img src="/img/telegrama.png"></a>
+                <a href="https://youtube.com/@virtualnex873"><img src="/img/youtube.png"></a>
+            </div>
         </ul>
     </div>
 
-<div class="contenedor">
-    <div class="content-s">
 
-        <header>
-            <img src="/img/icono.jpeg">
-            <h1>Virtual Nexus</h1>
-        </header>
-        <b>Descarga Juegos de PC, Android, Emuladores y Roms de la forma mas sencilla posible</b>
+    <div class="contenedor">
+        <div class="content-s">
 
-<div class="jogos">
-            <h1>PC</h1>
-            <div class="scroll-container">
-                <div class="scroll-content">
-                    <ul id="pccc">
-                        <script src="/js/games/pc.js"></script>
-                    </ul>
-                </div>
+            <div>
+                <h1>Roms</h1>
+                <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
             </div>
-
-            
-            <h1>Android</h1>
-            <div class="scroll-container">
-                <div class="scroll-content">
-                    <ul id="android">
-                        <script src="/js/games/android.js"></script>
-                    </ul>
+            <ul id="listaArticulos">
+                <div id="rom">
+                    <script src="/js/games/rom.js"></script>
                 </div>
-            </div>
-            
-            <h1>ROMS</h1>
-            <div class="scroll-container">
-                <div class="scroll-content">
-                    <ul id="rom">
-                        <script src="/js/games/rom.js"></script>
-                    </ul>
-                </div>
-            </div>
+            </ul>
         </div>
     </div>
-</div>
 
     <script src="/js/meta.js"></script>
     <script src="/js/juegos.js"></script>
 </body>
+
 </html>
