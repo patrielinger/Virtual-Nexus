@@ -50,6 +50,7 @@
         border: 2px solid rgb(0, 255, 255);
         height: 40px;
         padding: 0px;
+        outline: none;
         font-size: 1.1rem;
         color:white;
         width: 19rem;
