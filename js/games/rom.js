@@ -40,7 +40,7 @@ const roms = `
                                                  
                                                                 </button>
 
-<button class="roms juego">
+<button class="juego">
 <a target="_blank" href="https://www.romspack.com/ps1-roms-pack/">
 <img data-src="https://i.ytimg.com/vi/3WztI4Gf6WQ/maxresdefault.jpg" class="img-juego" style="vertical-align: middle;">
 <p> PSX (+1000 Juegos)</p>
@@ -93,10 +93,10 @@ const roms = `
                 </button>
                 
 
-<button class="roms juego">
+<button class="juego">
 <a target="_blank" href="https://www.romspack.com/gamecube-roms-pack/">
 <img data-src="https://cdn.freebiesupply.com/logos/large/2x/nintendo-gamecube-logo-png-transparent.png" class="img-juego" style="vertical-align: middle;">
-<p> GameCube (+520 Juegos)</p>
+<b> GameCube (+520 Juegos)</b>
 </a>
 </button>
 
