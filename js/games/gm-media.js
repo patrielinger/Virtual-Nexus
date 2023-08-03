@@ -1,5 +1,54 @@
 const gmmedia = `
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href=" https://www.mediafire.com/file/2cgbknaedtjyq2n/BeamNG.Drive.v0.24.1.3-0xdeadc0de.7z/file"> 
 
+                <img src="https://assets-prd.ignimgs.com/2022/11/03/beamngdrive-button-2022-1667519670575.jpg" class="img-juego">
+                <b>BeamNG</b> 
+                <p>7.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/4zhqi42j5k"> 
+
+                <img src="https://assets1.ignimgs.com/2015/01/13/mortal-kombat-x-buttonjpg-544bcc.jpg" class="img-juego">
+                <b>Mortal Kombat X + DLC</b> 
+                <p>38.872MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://mega.nz/file/IQYRkaKQ#Ci7tEMKkuegrLow2lnO2e1x4dJ5A85_3BDvmKaVvEdg"> 
+
+                <img src="https://assets2.ignimgs.com/2015/10/13/minecraft-story-mode-buttonjpg-9b32fe.jpg" class="img-juego">
+                <b>minecraft story mode </b> 
+                <p>736MB</p> 
+                
+</a>
+ 
+                </button>
+
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/by5reo6kg1doimo/PD.TH.Wolfpack.v1.12.2..rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/21/payday-the-heist-button-1642797542202.jpg" class="img-juego">
+                <b>Pay Day</b> 
+                <p>3500MB</p> 
+                
+</a>
+ 
+                </button>
+                
 
 <button  class="juego" target="_BLANK"> 
                 

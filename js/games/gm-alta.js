@@ -1,5 +1,30 @@
 const gmalta = `
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/5pryxfdkp07bg9h/Five.Nights.at.Freddys.Security.Breach.Ruin-RUNE.torrent/file"> 
 
+                <img src="https://assets-prd.ignimgs.com/2021/01/15/five-nights-at-freddys-security-breach-button-01-1610676549519.jpg" class="img-juego">
+                <b>Five Nights at Freddy´s Security Breach</b> 
+                <p>12.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://madiashare.com/downloads?d=1layvgj1ef4kbkvr5yp"> 
+
+                <img src="https://assets1.ignimgs.com/2019/03/20/detroit-become-human---button-fin-1553106540549.jpg" class="img-juego">
+                <b>Detroit Become Human</b> 
+                <p>50.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
 
 <button class="juego" target="_BLANK">
 <a target="_blank" href="https://cuty.io/f5ceDJTkKgng">

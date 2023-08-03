@@ -1,5 +1,159 @@
 const pccc = `
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href=" https://www.mediafire.com/file/2cgbknaedtjyq2n/BeamNG.Drive.v0.24.1.3-0xdeadc0de.7z/file"> 
 
+                <img src="https://assets-prd.ignimgs.com/2022/11/03/beamngdrive-button-2022-1667519670575.jpg" class="img-juego">
+                <b>BeamNG</b> 
+                <p>7.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/lm43amulm8"> 
+
+                <img src="https://assets-prd.ignimgs.com/2020/09/17/hades-button-fin-1600382124693.png" class="img-juego">
+                <b>Hades</b> 
+                <p>12.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/4zhqi42j5k"> 
+
+                <img src="https://assets1.ignimgs.com/2015/01/13/mortal-kombat-x-buttonjpg-544bcc.jpg" class="img-juego">
+                <b>Mortal Kombat X + DLC</b> 
+                <p>38.872MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/xm6mb846rcsdabp/Scrap+Mechanic.zip"> 
+
+                <img src="https://sm.ign.com/ign_nl/cover/s/scrap-mech/scrap-mechanic_bsc1.jpg" class="img-juego">
+                <b>scrap mechanic</b> 
+                <p>342MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/by5reo6kg1doimo/PD.TH.Wolfpack.v1.12.2..rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/21/payday-the-heist-button-1642797542202.jpg" class="img-juego">
+                <b>Pay Day</b> 
+                <p>3500MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/1x9mixhpz50kqga/Mount+%26+Blade+-+Warband.rar"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/22/mount-and-blade-warband-button-crop-1642832204327.jpg" class="img-juego">
+                <b>Mount and Blade Warbarand</b> 
+                <p>679MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/5pryxfdkp07bg9h/Five.Nights.at.Freddys.Security.Breach.Ruin-RUNE.torrent/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2021/01/15/five-nights-at-freddys-security-breach-button-01-1610676549519.jpg" class="img-juego">
+                <b>Five Nights at Freddy´s Security Breach</b> 
+                <p>12.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/kzkw2wfggzfungi/Dealers.Life.2.zip/file"> 
+
+                <img src="https://media.indiedb.com/images/presskit/1/2/1665/logo.png" class="img-juego">
+                <b>Dealers Life 2</b> 
+                <p>204MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://mega.nz/file/IQYRkaKQ#Ci7tEMKkuegrLow2lnO2e1x4dJ5A85_3BDvmKaVvEdg"> 
+
+                <img src="https://assets2.ignimgs.com/2015/10/13/minecraft-story-mode-buttonjpg-9b32fe.jpg" class="img-juego">
+                <b>minecraft story mode </b> 
+                <p>736MB</p> 
+                
+</a>
+ 
+                </button>
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://madiashare.com/downloads?d=1layvgj1ef4kbkvr5yp"> 
+
+                <img src="https://assets1.ignimgs.com/2019/03/20/detroit-become-human---button-fin-1553106540549.jpg" class="img-juego">
+                <b>Detroit Become Human</b> 
+                <p>50.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/hp2dspsqassl8xb/Far_Cry_3.rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/07/far-cry-3-button-fin-1641539298400.jpg" class="img-juego">
+                <b>Far Cry 3</b> 
+                <p>6600MB</p> 
+                
+</a>
+ 
+                </button>
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/rj1z48j7cdf9ldz/Fallout_3_%252BDLC_by_Jazmin_Marceline.rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/07/fallout-3-goty-button-1641531190330.jpg" class="img-juego">
+                <b>Fallout 3 + DLC</b> 
+                <p>16.000MB</p> 
+                
+</a>
+ 
+                </button>
 <button  class="juego" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/tvqb5oh010wmsi9/1624461429-LEGOBJ.torrent/file"> 

@@ -1,4 +1,70 @@
 const textoHTML = `
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/zyjketkjogpkm0d/kof_2002_magic_plus_II_by_FEIL517.apk/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2021/12/30/kof-2002-unlimited-match-1640888662414.jpg?width=300&crop=1%3A1%2Csmart" class="img-juego">
+                <b>KOF 2002</b> 
+                <p>87MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+            
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/35u20cwpgg106hs/lego%20jurassic%20word.rar"> 
+
+                <img src="https://assets2.ignimgs.com/2015/03/17/lego-jurassic-world-button2jpg-97cd56.jpg" class="img-juego">
+                <b>Lego Jurasic World</b> 
+                <p>981MB</p> 
+                
+</a>
+ 
+                </button>
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/folder/yj73tyckr1igs/lego+m"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/07/lego-marvel-super-heroes-1-button-1641593994986.jpg" class="img-juego">
+                <b>Lego Marvel Super Heroes</b> 
+                <p>2026MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://mega.nz/file/UflExbgI#wcNwnvjE_eOx_msEenhmKTkdx5WbdGYZnvEyQgEe2-k"> 
+
+                <img src="https://assets2.ignimgs.com/2015/09/24/this-war-of-mine-the-little-ones-buttonjpg-b6a11f.jpg" class="img-juego">
+                <b>this war of mine</b> 
+                <p>529MB</p> 
+                
+</a>
+ 
+                </button>
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/dyw5dusx8a"> 
+
+                <img src="https://assets-prd.ignimgs.com/2023/01/14/evoland2-1673726617042.jpg" class="img-juego">
+                <b>Evolando 2</b> 
+                <p>360MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
 <button class="juego">
 
                     <a target="_blank" href="https://cuty.io/4gpJxgviZTh">

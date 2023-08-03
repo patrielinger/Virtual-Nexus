@@ -1,4 +1,80 @@
 const gmbaja = `
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/lm43amulm8"> 
+
+                <img src="https://assets-prd.ignimgs.com/2020/09/17/hades-button-fin-1600382124693.png" class="img-juego">
+                <b>Hades</b> 
+                <p>12.000MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/xm6mb846rcsdabp/Scrap+Mechanic.zip"> 
+
+                <img src="https://sm.ign.com/ign_nl/cover/s/scrap-mech/scrap-mechanic_bsc1.jpg" class="img-juego">
+                <b>scrap mechanic</b> 
+                <p>342MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/kzkw2wfggzfungi/Dealers.Life.2.zip/file"> 
+
+                <img src="https://media.indiedb.com/images/presskit/1/2/1665/logo.png" class="img-juego">
+                <b>Dealers Life 2</b> 
+                <p>204MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/1x9mixhpz50kqga/Mount+%26+Blade+-+Warband.rar"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/22/mount-and-blade-warband-button-crop-1642832204327.jpg" class="img-juego">
+                <b>Mount and Blade Warbarand</b> 
+                <p>679MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/hp2dspsqassl8xb/Far_Cry_3.rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/07/far-cry-3-button-fin-1641539298400.jpg" class="img-juego">
+                <b>Far Cry 3</b> 
+                <p>6600MB</p> 
+                
+</a>
+ 
+                </button>
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="http://www.mediafire.com/file/rj1z48j7cdf9ldz/Fallout_3_%252BDLC_by_Jazmin_Marceline.rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/07/fallout-3-goty-button-1641531190330.jpg" class="img-juego">
+                <b>Fallout 3 + DLC</b> 
+                <p>16.000MB</p> 
+                
+</a>
+ 
+                </button>
 
 <button  class="juego" target="_BLANK"> 
                 
