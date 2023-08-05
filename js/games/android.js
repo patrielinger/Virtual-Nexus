@@ -2460,8 +2460,6 @@ const textoHTML = `
                     </a>
 
                 </button>
-                                    <div class="tabs" id="tabs"></div>
-                </div>
 
 `;
 
