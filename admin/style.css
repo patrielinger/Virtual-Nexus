@@ -75,3 +75,34 @@ main{
     border: 2px solid #fd3ae3;
     border-radius: 10px;
 }
+.contra{
+    color: #62ff0d;
+}
+#part1{
+    color: #f437fa;
+}
+#part1:hover{
+    color: #dd2aaa;
+}
+
+.tab-content {
+    display: none;
+  }
+  .active-tab {
+    display: block;
+  }
+  .tab-buttons {
+    margin-bottom: 10px;
+  }
+  .active-cartel {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #000e38;
+    border: 2px solid #3afdf3;
+    color: white;
+    padding: 20px;
+    z-index: 999;
+  }

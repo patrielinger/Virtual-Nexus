@@ -1,5 +1,5 @@
 const pccc = `
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/09p186yb9rl7m9r"> 
 
@@ -10,7 +10,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/lt4x9u5zwc"> 
 
@@ -21,7 +21,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/mvsi9ejmv2"> 
 
@@ -32,7 +32,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/hm1ti3exa8mztwa/Backrooms.Escape.Together.Build.21052023-0xdeadc0de.zip/file"> 
 
@@ -43,7 +43,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/tq7867v7r4ibj38"> 
 
@@ -55,7 +55,7 @@ const pccc = `
  
                 </button>
                 
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/rdvepfrfk8"> 
 
@@ -69,7 +69,7 @@ const pccc = `
                 
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/x59lxi2a01c3585/Set8tlem4entSur6vival-1.0.68.41-elamigos.rar/file"> 
 
@@ -80,7 +80,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href=" https://mega.nz/file/dvMwhS4Z#Q5GM_wKNhfK5yBL1kIJ1jKyavXmkwpf2wUxCbC0op-g"> 
 
@@ -91,7 +91,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/fvhqlgh96wxdt64/Move+or+Die-oNLY.rar/file"> 
 
@@ -103,7 +103,7 @@ const pccc = `
  
                 </button>
                 
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://mega.nz/file/E3ABBbaJ#JS5qY9TYqDMK3__sk5Y0qUazREIjuUEKvk6vvikdrPc"> 
 
@@ -115,7 +115,7 @@ const pccc = `
  
                 </button>
                 
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/77cmhfh5lzjretu/Dred3ge-1.2.0-elamigos.rar/file"> 
 
@@ -127,7 +127,7 @@ const pccc = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href=" https://www.mediafire.com/file/2cgbknaedtjyq2n/BeamNG.Drive.v0.24.1.3-0xdeadc0de.7z/file"> 
 
@@ -141,7 +141,7 @@ const pccc = `
                 
                 
                 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/lm43amulm8"> 
 
@@ -154,7 +154,7 @@ const pccc = `
                 </button>
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/4zhqi42j5k"> 
 
@@ -167,7 +167,7 @@ const pccc = `
                 </button>
                 
                 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/xm6mb846rcsdabp/Scrap+Mechanic.zip"> 
 
@@ -181,7 +181,7 @@ const pccc = `
                 
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/by5reo6kg1doimo/PD.TH.Wolfpack.v1.12.2..rar/file"> 
 
@@ -193,7 +193,7 @@ const pccc = `
  
                 </button>
                 
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/1x9mixhpz50kqga/Mount+%26+Blade+-+Warband.rar"> 
 
@@ -206,7 +206,7 @@ const pccc = `
                 </button>
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/5pryxfdkp07bg9h/Five.Nights.at.Freddys.Security.Breach.Ruin-RUNE.torrent/file"> 
 
@@ -220,7 +220,7 @@ const pccc = `
                 
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/kzkw2wfggzfungi/Dealers.Life.2.zip/file"> 
 
@@ -234,7 +234,7 @@ const pccc = `
                 
 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://mega.nz/file/IQYRkaKQ#Ci7tEMKkuegrLow2lnO2e1x4dJ5A85_3BDvmKaVvEdg"> 
 
@@ -246,7 +246,7 @@ const pccc = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://madiashare.com/downloads?d=1layvgj1ef4kbkvr5yp"> 
 
@@ -259,7 +259,7 @@ const pccc = `
                 </button>
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/hp2dspsqassl8xb/Far_Cry_3.rar/file"> 
 
@@ -271,7 +271,7 @@ const pccc = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/rj1z48j7cdf9ldz/Fallout_3_%252BDLC_by_Jazmin_Marceline.rar/file"> 
 
@@ -282,7 +282,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/tvqb5oh010wmsi9/1624461429-LEGOBJ.torrent/file"> 
 
@@ -293,7 +293,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 
 <a target="_blank" href="https://www.mediafire.com/file/vuvmj81d4hgp4pf/B%2540tm%2540n_%2540rkh%2540m_%2540sylum_GOTY_Subido_Por_Seba77Blue.rar/file"> 
 
@@ -304,7 +304,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/a8wryygukhjgip2/Stick_Fight_The_Game_-_FlechasGames.rar/file"> 
 
@@ -315,7 +315,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/q764eey9g2pmw53/Sonic_Adventure_DX.rar/file"> 
 
@@ -326,7 +326,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/jypen25zbytrr9f/Sonic_CD_Remake_EleniansZero.zip/file"> 
 
@@ -337,7 +337,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/r43tsxs3g2bgbb5/Nuclear_Throne_%255BMJC%255D.rar/file"> 
 
@@ -348,7 +348,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/0ni2ukj7zwj9f6g/The_escapist.rar/file"> 
 
@@ -359,7 +359,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://mega.nz/#!X1JRHJra!uC8O_o13keDLDiTIAYBs7Y97FVpg1xXg5YceUaYGJuI"> 
 
@@ -370,7 +370,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/vfgfykwaprtw7t6/Sonic_Adventure_2.rar/file"> 
 
@@ -381,7 +381,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/wu2oj3d719jwcct/Five_Nights_at_Freddy%2527s_Help_Wanted_Android.zip/file"> 
 
@@ -392,7 +392,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/1ixp3o3kekmud8f/Geometry_Dash_2.11_Funcional_by_Davoxt.zip/file"> 
 
@@ -403,7 +403,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/uaaclggz5m4dodb/SonicR_by_El_Dallas_1999.rar/file"> 
 
@@ -414,7 +414,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/uhl362ipp4lyxkg/Archivos_26.rar/file"> 
 
@@ -425,7 +425,7 @@ const pccc = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/g7gb71cm1erevgx/Left_4_Dead_1_By_4LEX_PL4Y.rar/file"> 
 
@@ -436,7 +436,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/s7j0x04c5zly8yk/Super.Fancy.Pants.Adventure.zip/file"> 
 
@@ -447,7 +447,7 @@ const pccc = `
 </a>
  
                 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/apxnwevyhmoj79z/Disney.Pixar.Cars.rar/file">
 
@@ -459,7 +459,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/kudqzykdma8ei8c/fallout+by+mr29.rar">
 
@@ -471,7 +471,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/oxa0myefpo7gzmb/G4ngB.v1.18.195.rar/file">
 
@@ -484,7 +484,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/ngp1aftsjgerug0/Friday_Night_Funkin.rar/file">
 
@@ -496,7 +496,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/e6z15h0i3arge3c/Plague_Inc_Evolved.rar/file">
 
@@ -509,7 +509,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" https://www.mediafire.com/file/v2mtutp49ojowdo/Plants_vs._Zombies_2.rar/file">
 
@@ -522,7 +522,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/sj3nm42yg54nznj/GTA_III_setup.exe/file">
 
@@ -534,7 +534,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="http://www.mediafire.com/file/4936ayhq433cekl/Resident_Evil_1.rar/file">
 
@@ -547,7 +547,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" http://www.mediafire.com/file/5q57j70gjcfs2l4/Bad+Piggies.rar">
 
@@ -559,7 +559,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/a3tj0r7o1snezpc/Forager.v4.1.9+-+Ratarex777.rar/file">
 
@@ -571,7 +571,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href=" https://www.mediafire.com/file/602o03nz8cgx6dj/Cs_1.6_Full_Espa%25C3%25B1ol_byDTUP.rar/file">
@@ -584,7 +584,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/e1sAgB7L#Uz70s02A8WcPO4h2wdmsbihYEn2ced277RF_Eu4je_E">
 
@@ -596,7 +596,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" http://www.mediafire.com/file/g1f3kgnz8qr4v9z/Enter+The+Gungeon+-+ChidoWan.rar">
 
@@ -608,7 +608,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/e13dmb4zbnwb3pt/Hotline_Miami_Daelanification.rar/file">
 
@@ -620,7 +620,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/9eis5enkl7tk0gz/Contra_By_Piero_Random.rar/file">
 
@@ -632,7 +632,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/602xsjwamz0ynmi/OMORI_By_REN.rar/file">
 
@@ -645,7 +645,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://drive.google.com/file/d/1sTo_0wZY-T0LwOwMaU0W12EofJyauyWA/view?usp=sharing">
 
@@ -657,7 +657,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/rkzjxlkinioufqw/Slendytubbies%20By%20Reiki's%20TV.rar/file">
 
@@ -669,7 +669,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="http://www.mediafire.com/file/6b5ac8xiy1d9uy4/Slendytubbies_II_V2_2_%2832bit%29.zip/file">
 
@@ -682,7 +682,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file">
 
@@ -695,7 +695,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" https://www.mediafire.com/file/jxund2sgawh0qzf/Salt.and.Sacrifice.v1.0.0.7.zip/file">
 
@@ -708,7 +708,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/wtzu9clya0jb3i9/P1c0P4rk_ONLINE.v09.09.21.rar/file">
 
@@ -721,7 +721,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" https://www.mediafire.com/file/q1gqwrg7kzyhcmo/Co0kieClick3er.rar/file">
 
@@ -734,7 +734,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href=" https://www.mediafire.com/file/r4jvslo6b9ou8hm/Tw1elveMin2utes-27.08.2021-elamigos.rar/file">
@@ -747,7 +747,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/25ct62uwv44bf1s/SMBuildEc.rar/file">
 
@@ -760,7 +760,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/eari65x0k8jr9xz/R6imWo6rld-1.4.3704-elamigos.rar/file">
 
@@ -773,7 +773,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href="https://www.mediafire.com/file/7gsful26wo0etm5/the-return-to-freddy-s-winter-wonderland-release-1.4.exe/file">
@@ -787,7 +787,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/5yv4nu4wnft4c6i/ultra-custom-night.exe/file">
 
@@ -797,7 +797,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/2medwsfzvbyvubv/fredbear-s-fright.exe/file">
 
@@ -808,7 +808,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/dh5etq0rmro9l8h/popgoes+(1).exe/file">
 
@@ -819,7 +819,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/hz9ttawt96ean5g/animator-s-hell.zip/file">
 
@@ -830,7 +830,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/foapqulq9moe4zu/tnar2r.zip/file">
 
@@ -841,7 +841,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/vqxqm0de1nh1oo2/Those-Nights-at-Rachel%27s.rar/file">
 
@@ -852,7 +852,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/h9weqvrz1tayin8/treasure-island-v1.2.2-b.exe/file">
 
@@ -863,7 +863,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/1x8ko311ddhpvyh/ellie-s-v3.zip/file">
 
@@ -874,7 +874,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/cnp0cbfi11ltqt3/fredbear-and-friends-left-to-rot.exe/file">
 
@@ -885,7 +885,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/0nhexkavrqxo879/final-nights-4-1.2.rar/file">
 
@@ -896,7 +896,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/wqw0lgn0cujo4yq/Final-Nights-3-1.2.rar/file">
 
@@ -907,7 +907,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/ylpv1pe7dtr3m8s/the-glitched-attraction.rar/file">
 
@@ -917,7 +917,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/aozy6rsov4u9r00/TJoC-Halloween-Edition.rar/file">
 
@@ -928,7 +928,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/lv6s3fskjf2k58w/jr-s-v1-3-1.exe/file">
 
@@ -938,7 +938,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/z57beee60ggjsw6/Slime_Rancher_2.rar/file">
 
@@ -949,7 +949,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/f4qmedavg777de0/ICF.rar/file">
 
@@ -960,7 +960,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="http://www.mediafire.com/file/7tf8behjmsfve06/Celeste_v1.3.0.0_By_iTzRyanGz.rar/file">
 
@@ -971,7 +971,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/q8sAQawY#sayy6IuVcwucc9NVOJbRC1hkesry9Oolzl7ZqHuvk6E">
 
@@ -982,7 +982,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/p91XAZRD#ednOCFNB8RJRCd0qEghbLry88CWnkVflR8AaxQjJKFc">
 
@@ -993,7 +993,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/mfz20z8for3sskv/Slime.Rancher.v1.1.0b.rar">
 
@@ -1004,7 +1004,7 @@ const pccc = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a
     href="https://www.mediafire.com/file/nm1pyyb13mm4bsh/People.Playground.v1.23.10_-_ElShuzen.rar/file">
@@ -1017,7 +1017,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/c13a1tgbre7b5u6/NFS+Most+Wanted+by+Ranchoso92.rar/file">
 
@@ -1029,7 +1029,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/FIlxRAcx92D8">
@@ -1044,7 +1044,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/7QfAK8">
@@ -1059,7 +1059,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/hWTAB2l1zz">
@@ -1074,7 +1074,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/wMt5tD12eKp">
@@ -1089,7 +1089,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/WRBaDoZAo">
@@ -1104,7 +1104,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/4eOxcrCWM">
 
@@ -1117,7 +1117,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/4WO9Q2kfN">
 
@@ -1129,7 +1129,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/GtakaJ">
 
@@ -1142,7 +1142,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/hdHmyoZ">
 
@@ -1155,7 +1155,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/42xJC">
 
@@ -1168,7 +1168,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/L6FTalM">
 
@@ -1181,7 +1181,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/6V6FQh6LWJbh">
 
@@ -1194,7 +1194,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/9DPpcQu">
 
@@ -1207,7 +1207,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/qeFWXKeO">
 
@@ -1220,7 +1220,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/00wCa16Jgpew">
 
@@ -1233,7 +1233,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/0RJd">
 
@@ -1245,7 +1245,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/TQyXPdg">
 
@@ -1257,7 +1257,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/v0Ksyeb">
 
@@ -1270,7 +1270,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/K0a3FhMW">
 
@@ -1282,7 +1282,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/4m2cq">
 
@@ -1294,7 +1294,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/YMSvHNb">
 
@@ -1307,7 +1307,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/K5bU">
 
@@ -1320,7 +1320,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/87jI">
 
@@ -1333,7 +1333,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/Betuet">
 
@@ -1346,7 +1346,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/CJA9MLL">
 
@@ -1359,7 +1359,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/6ifzFys1">
 
@@ -1372,7 +1372,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/DqrAAM7uZvBP">
     <img data-src="https://cdn.shopify.com/s/files/1/1912/6911/files/Brand.Drifter.jpg?v=1601354956"
         class="img-juego">
@@ -1382,7 +1382,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/nWps">
     <img data-src="https://assets-prd.ignimgs.com/2022/01/25/oxygen-not-included-button-edit-1643073500664.jpg"
         class="img-juego">
@@ -1391,7 +1391,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/7oEpzfTRmJbo">
     <img data-src="https://opinionatedgamers.com/wp-content/uploads/2020/08/northgard-cover.png"
         class="img-juego">
@@ -1400,7 +1400,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/tJx3O">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3d2ae7c4-44bc-4a05-89ba-69c2719fb4b1/d91a3jr-a68ca4ae-6d18-4ff8-9127-a4acc9b86cdf.png/v1/fill/w_512,h_512/terra_formars_icon_folder_by_striknin_d91a3jr-fullview.png"
         class="img-juego">
@@ -1409,7 +1409,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/aebKuDwOxaBj">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944474-48c3-4adb-9059-75d10eab21b9/dd7vamd-eaeb3a2f-c638-4ff1-9c47-48ef976ed399.png/v1/fill/w_512,h_512,q_80,strp/islanders_icon_by_cl4ym_dd7vamd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYWQ5NDQ0NzQtNDhjMy00YWRiLTkwNTktNzVkMTBlYWIyMWI5XC9kZDd2YW1kLWVhZWIzYTJmLWM2MzgtNGZmMS05YzQ3LTQ4ZWY5NzZlZDM5OS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sAZUHfFy3I7PSNmuuzBj-m8hQaC0PxNS1scXMce7p9k"
         class="img-juego">
@@ -1418,7 +1418,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/IkdXl8eKUQVs">
     <img data-src="https://thumbnails.pcgamingwiki.com/0/0c/Manhunt_cover.jpg/300px-Manhunt_cover.jpg"
         class="img-juego">
@@ -1428,7 +1428,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/pKb4pM">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5a3564a-b113-4f9e-b5e5-386108005e7a/dcknqhp-6ae238ee-736a-4527-bebe-4eaed9db3d1b.png/v1/fill/w_1032,h_774,q_70,strp/_fnaf_sfm__fnaf_sister_location_icon_remake_by_eliterobo_dcknqhp-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiJcL2ZcL2I1YTM1NjRhLWIxMTMtNGY5ZS1iNWU1LTM4NjEwODAwNWU3YVwvZGNrbnFocC02YWUyMzhlZS03MzZhLTQ1MjctYmViZS00ZWFlZDlkYjNkMWIucG5nIiwid2lkdGgiOiI8PTI4NzkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NndpanDa10CZKtI-pTeF-nwe28IJjVjNUK86HWVR2Go"
         class="img-juego">
@@ -1438,7 +1438,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/3kDdgIYzqycX">
     <img data-src="https://lh3.googleusercontent.com/MTOHKghnz5k0-1dVvSp0P7Lk32h-bfMVVj3sC2pXcPr83reuVabr3n7z5MvrBK0iPLYo"
         class="img-juego">
@@ -1447,7 +1447,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/hGvKtchgZ4CB">
     <img data-src="https://steamuserimages-a.akamaihd.net/ugc/868481724755816929/1920AEDC59916A5F7943488CC32FE2C407299503/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
         class="img-juego">
@@ -1456,7 +1456,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/bPhJ7">
     <img data-src="https://i.pinimg.com/originals/35/00/df/3500dfd06ff88e4f65235797cd6aa5f2.jpg"
         class="img-juego">
@@ -1466,7 +1466,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/llKqpVpsYFX">
     <img data-src="https://sm.ign.com/ign_es/cover/f/five-night/five-nights-at-freddys_zwh8.jpg"
         class="img-juego">
@@ -1476,7 +1476,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/llKqpVpsYFX">
     <img data-src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag"
         class="img-juego">
@@ -1486,7 +1486,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/eacf5qbgrzu">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d55ae41-e76d-4375-b2d9-5b40b36a2f82/dejqc40-6e13d859-4d0d-44de-805c-761c9c4c613a.png/v1/fill/w_400,h_400/jump_king_icon_by_kingkenny11_dejqc40-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzBkNTVhZTQxLWU3NmQtNDM3NS1iMmQ5LTViNDBiMzZhMmY4MlwvZGVqcWM0MC02ZTEzZDg1OS00ZDBkLTQ0ZGUtODA1Yy03NjFjOWM0YzYxM2EucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.A7ltFx-JS4N8TCPRw8LIDdo7DY-XTeNPuG4vBpi4GXs"
         class="img-juego">
@@ -1495,7 +1495,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/a3F0qeiqgocc">
     <img data-src="https://assets-prd.ignimgs.com/2022/11/09/have-a-nice-death-button-fin-1668028625371.jpg"
         class="img-juego">
@@ -1504,7 +1504,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/VnJQMr32br">
     <img data-src="https://assets-prd.ignimgs.com/2022/01/14/valheim-sq-1642187529813.jpg"
         class="img-juego">
@@ -1513,7 +1513,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/2C3zGKp3YVh">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/da9c00b-4a7f938c-bbab-4517-8ff4-ae87d9a27694.png/v1/fill/w_512,h_512/dragon_ball_xenoverse___icon_by_blagoicons_da9c00b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kYTljMDBiLTRhN2Y5MzhjLWJiYWItNDUxNy04ZmY0LWFlODdkOWEyNzY5NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xiMClxK1bQgDNPMYxt3yTXrkv13HD25OQb71iTkM78M"
         class="img-juego">
@@ -1523,7 +1523,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ICFknHDJw">
     <img data-src="https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-boogeyman-el-visitante-misterioso-2022-1564107119.jpg"
         class="img-juego">
@@ -1533,7 +1533,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/SIJmg6dXu">
     <img data-src="https://e1.pxfuel.com/desktop-wallpaper/773/639/desktop-wallpaper-file-grand-theft-auto-san-andreas-logo-svg-gta-san-andreas-logo.jpg"
         class="img-juego">
@@ -1543,7 +1543,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/KL9H">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3177d583-bb50-4d9e-8aef-0ff58f4fa888/dfj3n4w-d8e03c6a-fbaf-4065-808e-a8de4be0f3cf.png/v1/fill/w_819,h_553/ultimate_spider_man__2005__logo_by_kanyeruff58_dfj3n4w-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUzIiwicGF0aCI6IlwvZlwvMzE3N2Q1ODMtYmI1MC00ZDllLThhZWYtMGZmNThmNGZhODg4XC9kZmozbjR3LWQ4ZTAzYzZhLWZiYWYtNDA2NS04MDhlLWE4ZGU0YmUwZjNjZi5wbmciLCJ3aWR0aCI6Ijw9ODE5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.B-VzzjGX0aUx82FW2A0LuJgsmYhY-n7NC-KEzWeK2h8"
         class="img-juego">
@@ -1553,7 +1553,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9a8ZvabHJP">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/dccy6fa-67d7bb43-35c0-4d9b-abca-414598b6edb7.png/v1/fill/w_512,h_512/raft___icon_by_blagoicons_dccy6fa-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kY2N5NmZhLTY3ZDdiYjQzLTM1YzAtNGQ5Yi1hYmNhLTQxNDU5OGI2ZWRiNy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDVMJX6bPTUFiDEGl0sIcc2lPe2f869EvSUG4YrBNU"
         class="img-juego">
@@ -1563,7 +1563,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9Vx1w">
     <img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Half-Life_2_Logo.svg/1184px-Half-Life_2_Logo.svg.png"
         class="img-juego">
@@ -1573,7 +1573,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/V4m1cI">
     <img data-src="https://ih1.redbubble.net/image.4098539449.7006/st,small,845x845-pad,1000x1000,f8f8f8.jpg"
         class="img-juego">
@@ -1582,7 +1582,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ABreobtI">
     <img data-src="https://forums.terraria.org/index.php?attachments/icon-png.280655/" class="img-juego">
     <b>Terraria</b>
@@ -1591,7 +1591,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/UFgAJc2">
     <img data-src="https://d.newsweek.com/en/full/829304/stardew-valley.png?w=1600&h=1200&q=88&f=1067b2df47b5f1cff9d63e1659d0cd23"
         class="img-juego">
@@ -1601,7 +1601,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Aup3RICPKb">
     <img data-src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Undertale.png" class="img-juego">
     <b>Undertale</b>
@@ -1610,7 +1610,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/YNlVaoKeoF">
     <img data-src="https://e1.pngegg.com/pngimages/575/353/png-clipart-don-t-starve-icons-512-x-512-ico-3-thumbnail.png"
         class="img-juego">
@@ -1620,7 +1620,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/IeTo">
     <img data-src="https://fontmeme.com/images/binding-of-isaac-box-font.jpg" class="img-juego">
     <b>The Binding of Isaac</b>
@@ -1628,7 +1628,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/IlQzfk">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202104/3018/x0cMtPaOTtUWRymojmrEjT9f.png"
         class="img-juego">
@@ -1637,7 +1637,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/1t4e">
     <img style="width:60%;"
         src="https://1.bp.blogspot.com/-7z1I5j6rExM/U1WYo6acPmI/AAAAAAAAFqk/kFfANbDijWA/s400/ftlae.png"
@@ -1646,7 +1646,7 @@ const pccc = `
     <p>400MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/DAXkAs7mY">
     <img data-src="https://res.cloudinary.com/teepublic/image/private/s--oZivaM7c--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1471646990/production/designs/641852_1.jpg"
         class="img-juego">
@@ -1654,7 +1654,7 @@ const pccc = `
     <p>190MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/eKzGQDw2F">
     <img data-src="https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/4fe1b0d005bfe40bc9f223f71c6356c5.png"
         class="img-juego">
@@ -1662,7 +1662,7 @@ const pccc = `
     <p>120MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ZAzg9ZtY0">
     <img data-src="https://techcrunch.com/wp-content/uploads/2022/08/papers-please.png?w=730&crop=1"
         style="width:65%" class="img-juego">
@@ -1670,7 +1670,7 @@ const pccc = `
     <p>34MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/MNy2x">
     <img data-src="https://catorrent.org/uploads/posts/2021-08/1629465977-catorrent-fez.jpg"
         class="img-juego">
@@ -1678,7 +1678,7 @@ const pccc = `
     <p>461MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/zikzbdkkR5hS">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/a/aa/SuperMeatBoy_cover.png"
         class="img-juego">
@@ -1686,7 +1686,7 @@ const pccc = `
     <p>160MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/UIubN6p">
     <img data-src="https://w7.pngwing.com/pngs/791/1023/png-transparent-to-the-moon-video-games-titanfall-2-moon-game-silhouette-moon-thumbnail.png"
         class="img-juego">
@@ -1694,7 +1694,7 @@ const pccc = `
     <p>520MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/I0I8Z">
     <img data-src="https://static.displate.com/280x392/displate/2022-07-07/7cb2000237f242871a7afabd8debff85_73b7bfcae4c571944fc9235c9749a348.jpg"
         class="img-juego">
@@ -1702,7 +1702,7 @@ const pccc = `
     <p>990MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/P7gHNcOd3Ycz">
     <img data-src="https://image.api.playstation.com/cdn/UP4415/CUSA02768_00/4E2BQXbe6ArXunsKvcyziEaT0pOryWIb.png"
         class="img-juego">
@@ -1711,7 +1711,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/nIGfhMyjG4">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Left4Dead2.jpg/220px-Left4Dead2.jpg"
         class="img-juego">
@@ -1722,7 +1722,7 @@ const pccc = `
 
 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/mfcbwqdttbo03jx/LEGO-MARVELs-Avengers-%255BMULTI%255D%255BRELOADED%255D-%2528Torrent%2529.torrent/file"> 
 
@@ -1733,7 +1733,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 
 <a target="_blank" href="https://www.mediafire.com/file/7pbmju9rj291vkz/1661004718-LEGO.Star.Wars.The.Skywalker.Saga.v1.0.0.32877-P2P.torrent/file"> 
 
@@ -1745,7 +1745,7 @@ const pccc = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 
 <a target="_blank" href="https://www.mediafire.com/file/z9g3cbn8jzri2xp/1553024792-The_LEGO_Movie_2_Videogame_%255BwWw.GamesTorrents.TV%255D.torrent/file"> 
 
@@ -1757,7 +1757,7 @@ const pccc = `
  
                 </button>
                 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 
 <a target="_blank" href="https://www.mediafire.com/file/zbabz9qk1gpywmv/1540067069-LEGO.DC.Super.Villains.MULTI-CODEX.WwW.GamesTorrents.CoM.torrent/file"> 
 
@@ -1768,7 +1768,7 @@ const pccc = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 
 <a target="_blank" href="https://www.mediafire.com/file/tjuercg4rn7zxuc/1508202040-LEGO.Worlds.FULL.MULTI-CODEX.WwW.GamesTorrents.CoM.torrent/file"> 
 
@@ -1782,7 +1782,7 @@ const pccc = `
 
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/q2zkaigz6jw9611/Only_Up_.torrent/file">
 
@@ -1796,7 +1796,7 @@ const pccc = `
 
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/o6et9hicho1cfdq/AdVy2jK5NB0toAO.torrent/file">
 
@@ -1808,7 +1808,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/tzzfe18cdzxm02e/C0DGH0ST.torrent/file">
 
@@ -1823,7 +1823,7 @@ const pccc = `
 
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/oC0AFSRJ#uFA0WD3qg5Z2YWB21upiWuW3LT0QqhyEAuzoVPk2uqg">
 
@@ -1836,7 +1836,7 @@ const pccc = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href="https://www.mediafire.com/file/fr1x05y1p6wrs8v/Subnautica.Below.Zero.What.the.Dock-GoldBerg.rar/file">
@@ -1849,7 +1849,7 @@ const pccc = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/OdYs">
     <img data-src="https://assets-prd.ignimgs.com/2022/05/26/teardown-1653601933254.jpg"
         class="img-juego">
@@ -1858,7 +1858,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/X8AzP">
     <img data-src="https://swapcloudgames.com/cdn/shop/products/victoria_3-5733531_1_6b015f90-df3e-46d4-8670-899a3dd9a7c4.jpg?v=1663096812"
         class="img-juego">
@@ -1867,7 +1867,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/KONB4">
     <img data-src="https://styles.redditmedia.com/t5_2w3z8/styles/communityIcon_i8lb8wta1bo41.png"
         class="img-juego">
@@ -1876,7 +1876,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ny4LpQ6uo">
     <img data-src="https://assets-prd.ignimgs.com/2022/05/12/starship-troopers-terran-command-button-2-1652397029814.jpg"
         class="img-juego">
@@ -1885,7 +1885,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/BODgdkc5uq">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/1/1f/Dead_cells_cover_art.png"
         class="img-juego">
@@ -1894,7 +1894,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/6JR1lB6E">
     <img data-src="https://sm.ign.com/ign_es/cover/s/soulstice/soulstice_kge2.jpg" class="img-juego">
     <b>Soulstice Deluxe Edition </b>
@@ -1902,7 +1902,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/i2FawdIk">
     <img data-src="https://assets-prd.ignimgs.com/2022/06/12/pentiment-button-fin-1655069953648.jpg"
         class="img-juego">
@@ -1911,7 +1911,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/wFBS">
     <img data-src="https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png"
         class="img-juego">
@@ -1921,7 +1921,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/wUpa">
     <img data-src="https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-2sa1q.png"
         class="img-juego">
@@ -1930,7 +1930,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Z8Ec">
     <img data-src="https://assets-prd.ignimgs.com/2020/09/17/the-long-dark-button-1600382473667.jpg"
         class="img-juego">
@@ -1939,7 +1939,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/E47f7nVyQNfs">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202105/0411/L6AeZM046ZKczkKIR2En9lrx.png"
         class="img-juego">
@@ -1948,7 +1948,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/tI3U">
     <img data-src="https://play-lh.googleusercontent.com/oWjbmGxISRrI337M9wig7dt95e23uUw4_tlHlFTfa6ZSgIWRixahphV9zdn5oihMJ9s"
         class="img-juego">
@@ -1957,7 +1957,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/kBRTCYa">
     <img data-src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-22/256/Manhunt-2-1-icon.png"
         class="img-juego">
@@ -1967,7 +1967,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/QDGhf">
     <img data-src="https://dl.apkawards.com/mode/dl28/games/com.CheesecakeDev.InternetCafeSimulator2/img/com.CheesecakeDev.InternetCafeSimulator2.png"
         class="img-juego">
@@ -1977,7 +1977,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/qfF7yighCXMx">
     <img data-src="https://play-lh.googleusercontent.com/aDX4QRdSBmlOTeWAsS5NbKcggupZ6_RSUzz7kLyIY91RChNDvEv26Czcqb-1rgt6FeE"
         class="img-juego">
@@ -1987,7 +1987,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/pvQhV">
     <img data-src="https://image.winudf.com/v2/image1/Y29tLmFtYW5kYS5nYW1lLkFEVkVOVFVSRV9pY29uXzE2NTE4MjU5MjVfMDQ2/icon.png?w=184&fakeurl=1"
         class="img-juego">
@@ -1997,7 +1997,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/3VXWBUpF">
     <img data-src="https://play-lh.googleusercontent.com/XGpIsGalp_wmbr9WUGF8Jef2iDWeOm2-A7wSY9K7hK3SGLWJ39pcAUZ1Q6qzapV9nBEk"
         class="img-juego">
@@ -2007,7 +2007,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/w7rUaoyaxTGw">
     <img data-src="https://assets-prd.ignimgs.com/2022/05/17/sonsoftheforest-1652806471329.jpg"
         class="img-juego">
@@ -2017,7 +2017,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/EUVto1R">
     <img data-src="https://sm.ign.com/ign_es/cover/d/dark-souls-ii-scholar-of-the-first-sin/dark-souls-ii-scholar-of-the-first-sin_y6ma.jpg"
         class="img-juego">
@@ -2027,7 +2027,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/0RCzEkiT9zf">
     <img data-src="https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/077d978746daa38abb42a9fb292618a7.png"
         class="img-juego">
@@ -2037,7 +2037,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/r36BQhCWhJ">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4d79d49-4b6f-4447-8e97-5e6115b8e211/dfaj1wr-7266b51a-86e2-48d8-8e8f-3521a650b1e8.png/v1/fill/w_720,h_720/powerwash_simulator__icon__by_imegane_dfaj1wr-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzRkNzlkNDktNGI2Zi00NDQ3LThlOTctNWU2MTE1YjhlMjExXC9kZmFqMXdyLTcyNjZiNTFhLTg2ZTItNDhkOC04ZThmLTM1MjFhNjUwYjFlOC5wbmciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qT6zLqcR7drq4utNHYyI7zFdSvuP38CVap2mDYKZib0"
         class="img-juego">
@@ -2047,7 +2047,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Ec1E1nUsmXm">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg" class="img-juego">
     <b>Sekiro Shadow die Twice (Torrent)</b>
@@ -2056,7 +2056,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/hy6zHl">
     <img data-src="https://image.api.playstation.com/cdn/EP0700/CUSA08495_00/COYF3JBI46ftkG7tIdTjQg0v9aZ2378N.png"
         class="img-juego">
@@ -2065,7 +2065,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ENMP9D7S">
     <img data-src="https://m.media-amazon.com/images/M/MV5BODRmNDQ1YjAtNTI1Yy00YThmLWIwZjYtOTQ0Yjc0Y2Q3NWZjXkEyXkFqcGdeQXVyODU0MzgyNDU@._V1_.jpg"
         class="img-juego">
@@ -2075,7 +2075,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/2ai6s54">
     <img data-src="https://storage.qoo-img.com/game/11742/ZoUr34wZ4n4i9XfoVSBec9lk4ZtjGIRq.jpg"
         class="img-juego">
@@ -2084,7 +2084,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ECbKL5u2S">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0108/uxdypYdPjRXXKfSc1CxiLClp.png"
         class="img-juego">
@@ -2094,7 +2094,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/NlDypanbt">
     <img data-src="https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3249324-untitled-1.jpg"
         class="img-juego">
@@ -2103,7 +2103,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/fF5klzVME6P">
     <img data-src="https://static.tvtropes.org/pmwiki/pub/images/re8.png" class="img-juego">
     <b>Resident Evil Village <br> Deluxe Edition </b>
@@ -2111,7 +2111,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/VygrzdEyxIlL">
     <img data-src="https://assets-prd.ignimgs.com/2021/12/20/unchartedlegacy-1640037428439.jpg?width=300&crop=1%3A1%2Csmart" class="img-juego">
     <b>Uncharted 4: Legacy of Thieves <br> Collection </b>
@@ -2119,7 +2119,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/UuABiqWJp">
     <img data-src="https://systemshock.com/wp-content/uploads/2016/03/ss-mobile-01.jpg"
         class="img-juego">
@@ -2128,7 +2128,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/F2BWL3pq">
     <img style="width: 60%;"
         src="https://game-wisdom.com/wp-content/uploads/2016/02/Layers-of-Fear-5.jpg"
@@ -2138,7 +2138,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/oWeTklRF">
     <img data-src="https://www.cloudgamingcatalogue.com/wp-content/uploads/2022/06/Minecraft-Legends.jpg"
         class="img-juego">
@@ -2147,7 +2147,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/NHMUDTPEx">
     <img data-src="https://assets-prd.ignimgs.com/2022/03/29/coddeluxe-1648513325181.jpg"
         class="img-juego">
@@ -2156,7 +2156,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/eVDRiUP">
     <img style="width: 60%;"
         src="https://img2.freepng.es/20180601/zkr/kisspng-call-of-duty-2-call-of-duty-wwii-call-of-duty-bl-5b11697b98d746.107679771527867771626.jpg"
@@ -2166,7 +2166,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/PHHm">
     <img data-src="https://e7.pngegg.com/pngimages/184/635/png-clipart-call-of-duty-advanced-warfare-call-of-duty-modern-warfare-3-playstation-4-playstation-3-call-of-duty-video-game-playstation-4.png"
         class="img-juego">
@@ -2175,7 +2175,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/xQuOV">
     <img style="width: 60%;"
         src="https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/call-of-duty-black-ops-file-47151f2f.jpeg"
@@ -2186,7 +2186,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9SoxJgwA">
     <img data-src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022013/untitled-1_11.png?itok=57BJCS8U"
         class="img-juego">
@@ -2195,7 +2195,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/M65j9k15R2tR">
     <img data-src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-25/256/Call-of-Duty-World-at-War-4-icon.png"
         class="img-juego">
@@ -2204,7 +2204,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/hPWz2Ari0">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d9sm9eq-2cb37b2c-7cb4-44f4-aaae-c9642287dbc8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjYzZDNjLWFlNjctNDY0Yy05YTM3LTY3MDgyOWIyYTE1N1wvZDlzbTllcS0yY2IzN2IyYy03Y2I0LTQ0ZjQtYWFhZS1jOTY0MjI4N2RiYzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TS74AwizLzpOEsKiKbJV1H4_9h-2OZ60NizmTBlsWPo"
         class="img-juego">
@@ -2213,7 +2213,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/mkhC7NLu">
     <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX8AfloM9HdF0WuGECS01r0MPMRsfCEkihA&usqp=CAU"
         class="img-juego">
@@ -2223,7 +2223,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/HCRdiXYY5G9">
     <img data-src="https://i.pinimg.com/originals/6a/43/3c/6a433cdcb0aaf21cfc81bcc4532ded2d.jpg"
         class="img-juego">
@@ -2235,7 +2235,7 @@ const pccc = `
 </button>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/5WNRkEe9uIAF">
     <img data-src="https://toppng.com/uploads/preview/borderlands-game-of-the-year-on-the-mac-app-store-borderlands-game-of-the-year-ico-11563216973v9l5h9gh9s.png"
         class="img-juego">
@@ -2245,7 +2245,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Enk7Kn9eJ">
     <img data-src="https://techgage.com/wp-content/uploads/2018/03/Far-Cry-5-Logo.jpg" class="img-juego">
     <b>Far Cry 5</b>
@@ -2254,7 +2254,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/i7hZ">
     <img data-src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/4/4/356de664-e2cd-4e7b-928c-dacb89981565.jpg"
         class="img-juego">
@@ -2262,7 +2262,7 @@ const pccc = `
     <p>6700MB</p>
 </a>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
     <a target="_blank" href="https://cuty.io/KF9CDs">
         <img data-src="https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png"
             class="img-juego">
@@ -2273,7 +2273,7 @@ const pccc = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/xkRZF">
     <img data-src="https://w7.pngwing.com/pngs/302/742/png-transparent-grand-theft-auto-v-grand-theft-auto-san-andreas-grand-theft-auto-iv-xbox-360-grand-theft-auto-online-others-emblem-logo-video-game.png"
         class="img-juego">
@@ -2282,7 +2282,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Yh3rSfU19a">
     <img data-src="https://images5.fanpop.com/image/photos/30000000/fallout-3-fallout-3-30071200-200-200.jpg"
         class="img-juego">
@@ -2291,7 +2291,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Lxk4L">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202206/0608/Oxr3X0TU9BRhpgweQoq5AGgy.png"
         class="img-juego">
@@ -2304,7 +2304,7 @@ const pccc = `
 
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/f5ceDJTkKgng">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/db42pbl-e9c4fb18-2b35-4a0e-9c5f-24694c66169a.png/v1/fill/w_512,h_512/the_hunter_call_of_the_wild___icon_by_blagoicons_db42pbl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kYjQycGJsLWU5YzRmYjE4LTJiMzUtNGEwZS05YzVmLTI0Njk0YzY2MTY5YS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.g2QGSdB6yqrPnWT9qrMzuPulS_CvaJXR6jrgXAIRbf0"
         class="img-juego">
@@ -2313,7 +2313,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/zRiM9HQnpxQO">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dg05695-9d80680b-22f6-44bd-a64f-ac09403e36fa.png/v1/fill/w_400,h_400/park_beyond_icon_by_hatemtiger_dg05695-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNzMyMDZiZDktMjU3Yy00ZjUwLWIxZjMtNTlhMzA2ZTI0MDg0XC9kZzA1Njk1LTlkODA2ODBiLTIyZjYtNDRiZC1hNjRmLWFjMDk0MDNlMzZmYS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.YFf6-_ZjWJ24u5JmJxCopIFdLW-RDUsfXGuu164Vewc"
         class="img-juego">
@@ -2322,7 +2322,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/BlG6jStprcy">
     <img data-src="https://styles.redditmedia.com/t5_3nn44/styles/communityIcon_9xjox65d99n21.png"
         class="img-juego">
@@ -2331,7 +2331,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/P7Ia6fTb5B">
     <img data-src="https://thumbnails.pcgamingwiki.com/0/06/Destroy_All_Humans%21_cover.png/300px-Destroy_All_Humans%21_cover.png"
         class="img-juego">
@@ -2340,7 +2340,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/a5Uy">
     <img data-src="https://album.mediaset.es/eimg/2023/03/30/moto-gp-23_d730.jpg?w=1200&h=900"
         class="img-juego">
@@ -2349,7 +2349,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ZHW4C3">
     <img data-src="https://assets-prd.ignimgs.com/2022/12/14/wartales-1671041168069.jpg"
         class="img-juego">
@@ -2358,7 +2358,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9tUdTpAcn">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/c/c5/EuropaUniversalisIV_Packshot_edited.png"
         class="img-juego">
@@ -2367,7 +2367,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/4sXr3">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202108/0606/ppbtLTfUwT9XKhBMH4eKbmvH.png"
         class="img-juego">
@@ -2376,7 +2376,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Mlv3">
     <img data-src="https://sm.ign.com/ign_es/cover/e/everspace-/everspace-2_n25f.jpg" class="img-juego">
     <b>Everspace 2</b>
@@ -2384,7 +2384,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/1zphb5ebZq">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202301/0523/yyeobPOwBrN9qneIK1seDGVc.jpg"
         class="img-juego">
@@ -2393,7 +2393,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/FnaHh">
     <img data-src="https://image.api.playstation.com/vulcan/img/rnd/202009/2313/eI2Tlow1kqE5KP5qBMdQprbb.png"
         class="img-juego">
@@ -2403,7 +2403,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Y55w">
     <img data-src="https://assets2.ignimgs.com/2016/02/26/grim-dawn-buttonjpg-19d11f.jpg"
         class="img-juego">
@@ -2412,7 +2412,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/bxhUYH5mXC9">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Metal_Hellsinger_cover_art.jpg/220px-Metal_Hellsinger_cover_art.jpg"
         class="img-juego">
@@ -2421,7 +2421,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/lucmGw">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202006/0821/BslGKgFzwgNgHGD1YiXr5kOf.png"
         class="img-juego">
@@ -2430,7 +2430,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/kXsfBusB">
     <img data-src="https://cdn-products.eneba.com/resized-products/MQRSAZmMzm4HDWQ3k559ZqLH7tXeTZTm9l-TqTER7Ow_350x200_3x-0.jpeg"
         class="img-juego">
@@ -2439,7 +2439,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/PTeKFMS2X">
     <img data-src="https://assets-prd.ignimgs.com/2022/01/24/trail-out-button-1643049645059.jpg"
         class="img-juego">
@@ -2448,7 +2448,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Pwn0WlxAF8dv">
     <img data-src="https://images.g2a.com/1024x768/1x1x0/cities-skylines-deluxe-edition-steam-key-ru-cis-i10000003923010/5911ecf25bafe3d1f14b1bb7"
         class="img-juego">
@@ -2457,7 +2457,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/yjcz3QD">
     <img data-src="https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/5CoAAOSwjdliWu09/$_1.PNG" class="img-juego">
     <b>Stellaris Galaxy Edition</b>
@@ -2465,7 +2465,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/gNTfk">
     <img data-src="https://images.everyeye.it/img-notizie/wolcen-lords-of-mayhem-action-rpg-stile-diablo-data-playstation-xbox-v4-638542-1200x1200.webp"
         class="img-juego">
@@ -2474,7 +2474,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/nygxkc3hC">
     <img data-src="https://assets-prd.ignimgs.com/2022/05/15/solasta-1652583193532.jpg"
         class="img-juego">
@@ -2483,7 +2483,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/axZk47KbVAIx">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/6/60/Warhammer_40%2C000_Boltgun_Cover.jpg"
         class="img-juego">
@@ -2492,7 +2492,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/LeGM">
     <img data-src="https://seeklogo.com/images/F/forza-horizon-5-logo-B7E05DB263-seeklogo.com.png"
         class="img-juego">
@@ -2502,7 +2502,7 @@ const pccc = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Qa24q">
     <img data-src="https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_ULTIMATE%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ec45bb5484873293c1516d5bd9b59790.png"
         class="img-juego">
@@ -2511,7 +2511,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/mr3oZBYEvPVd">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/5/58/PC_Building_Simulator_2_cover_art.jpg"
         class="img-juego">
@@ -2520,7 +2520,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/qAyiMT">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png"
         class="img-juego">
@@ -2529,7 +2529,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/rrKJsYBy5">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202204/2118/8j210YNZDwUgIOlZF3sMlQh3.png"
         class="img-juego">
@@ -2538,7 +2538,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/rWJMrSim">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202006/1520/EDtkdijFRwbmGKk1G9lrDoEF.png"
         class="img-juego">
@@ -2547,7 +2547,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/hXWULdXU">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
         class="img-juego">
@@ -2556,7 +2556,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/hPI6m">
     <img data-src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81a4e680815973.5cec6bcf6aa1a.jpg"
         class="img-juego">
@@ -2565,7 +2565,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9bnxVuhe1dT">
     <img data-src="https://assets-prd.ignimgs.com/2023/01/31/age4-1675193118812.jpg" class="img-juego">
     <b>Age of Wonders 4 <br>Premium Edition </b>
@@ -2573,7 +2573,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/4AYEOu5vz">
     <img data-src="https://www.callofduty.com/content/dam/atvi/callofduty/legacy/blackops3/landing-digital/bo3-landig-bo3-boxart.jpg"
         class="img-juego">
@@ -2582,7 +2582,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/5E9vv4AVGpnU">
     <img data-src="https://i.pinimg.com/originals/f9/67/8c/f9678c4c135797bdf92a0c621edea8a2.jpg"
         class="img-juego">
@@ -2590,7 +2590,7 @@ const pccc = `
     <p>67620MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/NBGnyq7ZBAd">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png"
         class="img-juego">
@@ -2598,7 +2598,7 @@ const pccc = `
     <p>76650MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/iPX14qC">
     <img style="width:65%"
         src="https://w0.peakpx.com/wallpaper/899/512/HD-wallpaper-spider-man-miles-morales-ps5-game-logo-spider-man-miles-morales-games-2020-games-ps5-games-ps-games-spiderman-marvel.jpg"
@@ -2607,7 +2607,7 @@ const pccc = `
     <p>37240MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/dfpFI7">
     <img data-src="https://juegosdigitalesargentina.com/files/images/productos/1629828562-marvels-spider-man-game-of-the-year-edition-ps4.jpg"
         class="img-juego">
@@ -2616,7 +2616,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/SSSXWZYQT5K">
     <img data-src="https://i.pinimg.com/originals/19/70/38/197038cbfa205994608217b58bd45f01.jpg"
         class="img-juego">
@@ -2625,7 +2625,7 @@ const pccc = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/cNBzu">
     <img data-src="https://www.freepnglogos.com/uploads/fallout-4-logo/fallout-4-picture-logo-21.png"
         class="img-juego">
@@ -2633,6 +2633,8 @@ const pccc = `
     <p>31690MB</p>
 </a>
 </button>
+
+
 
 
         

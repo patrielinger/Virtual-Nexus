@@ -1,6 +1,6 @@
 const textoHTML = `
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/zyjketkjogpkm0d/kof_2002_magic_plus_II_by_FEIL517.apk/file"> 
 
@@ -14,7 +14,7 @@ const textoHTML = `
                 
                 
             
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/35u20cwpgg106hs/lego%20jurassic%20word.rar"> 
 
@@ -26,7 +26,7 @@ const textoHTML = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/folder/yj73tyckr1igs/lego+m"> 
 
@@ -40,7 +40,7 @@ const textoHTML = `
                 
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://mega.nz/file/UflExbgI#wcNwnvjE_eOx_msEenhmKTkdx5WbdGYZnvEyQgEe2-k"> 
 
@@ -52,7 +52,7 @@ const textoHTML = `
  
                 </button>
                 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/dyw5dusx8a"> 
 
@@ -65,7 +65,7 @@ const textoHTML = `
                 </button>
                 
 
-<button class="juego">
+<button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/4gpJxgviZTh">
 
@@ -77,7 +77,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/Z36OFJfy9">
 
@@ -90,7 +90,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/ASj2IJ5">
 
@@ -103,7 +103,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/95q5r3YDD">
 
@@ -116,7 +116,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/pECj">
 
@@ -129,7 +129,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/dW0hI">
 
@@ -141,7 +141,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/T5lDcZTwhPSO">
 
@@ -154,7 +154,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/Hp2wBsxxk3D">
 
@@ -167,7 +167,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/vw21Am2u">
 
@@ -180,7 +180,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/GCYmgOJCp">
 
@@ -193,7 +193,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/6PLKDQ6q">
 
@@ -206,7 +206,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/CwFfcY5GD">
 
@@ -219,7 +219,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/3HxqpOHMvlB">
 
@@ -232,7 +232,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/2gCsp0aI">
 
@@ -247,7 +247,7 @@ const textoHTML = `
 
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/jHZv3Lb">
 
@@ -260,7 +260,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/slYuiBMw">
 
@@ -273,7 +273,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/B5Mrx">
 
@@ -286,7 +286,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/2UipUgf">
 
@@ -299,7 +299,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/ZPcABWAe0">
 
@@ -312,7 +312,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://gamedva.com/narcos-idle-cartel">
 
@@ -325,7 +325,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/y91I5Txdmsy">
 
@@ -338,7 +338,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/6PlzOPs5I2">
 
@@ -351,7 +351,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/qZwYeS">
 
@@ -364,7 +364,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/Qzn2DjB8FRun">
 
@@ -377,7 +377,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/osOkg">
 
@@ -390,7 +390,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/LWeAa8o1HaT">
 
@@ -403,7 +403,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/aMEpB">
 
@@ -416,7 +416,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/xwumriq">
 
@@ -430,7 +430,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/2taxe6i9yea0wdv/Diamond_Rush_Original_1.1_Apkpure.apk/file">
 
@@ -443,7 +443,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/mggrdp4ah5mrzj1/Bounce_Tales_-_Original_Nokia_1.4_Apkpure.apk/file">
@@ -457,7 +457,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://drive.google.com/file/d/16a2Ue43H71669OnAn5M1-vVGbnjRvBcn/view">
 
@@ -470,7 +470,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/let2b2c5e7iyx14/NEED_FOR_SPEED_UNDERGROUND_%2540mediafire.games.zip/file">
@@ -483,7 +483,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/93m4k3masv3qq6z/Descenders.apk/file">
 
@@ -496,7 +496,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/a7fse3zi4f8qetk/Star_Wars_KOTOR_2.zip/file">
 
@@ -508,7 +508,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/q53qgemjhltgfgt/THE_ROAD_DRIVER_DINHEIRO_INFINITO_%2540mediafire.games.zip/file">
@@ -521,7 +521,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/d8nf0kfjc734685/Spider_Man_2_%2540mediafire.games.zip/file">
 
@@ -533,7 +533,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/juwfj9yi10odhi2/Garten_Of_BanBan_3_%2540mediafire.games.apk/file">
@@ -546,7 +546,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/n3sahdncvpuzwud/LegoJurassicWorld_%2540mediafire.games.zip/file">
@@ -560,7 +560,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/zPZ7mJMojfwi">
 
@@ -571,7 +571,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/n3I7">
 
@@ -583,7 +583,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/N0veuk">
 
@@ -595,7 +595,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/J9vggtw">
 
@@ -607,7 +607,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/EoaMAILsDSJz">
 
@@ -619,7 +619,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/7rt6">
 
@@ -632,7 +632,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/GmmK">
 
@@ -644,7 +644,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/LrwFPsb1OO">
 
@@ -656,7 +656,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/pyZprk33H1">
 
@@ -667,7 +667,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/UFx8s">
 
@@ -679,7 +679,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/yRNw7h">
 
@@ -691,7 +691,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/QTU1DGYLxqo">
 
@@ -705,7 +705,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/2j8jfzZA">
 
@@ -718,7 +718,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/vgvG">
 
@@ -731,7 +731,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/gaFRo7P">
 
@@ -744,7 +744,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/oCxJ">
 
@@ -757,7 +757,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/yuZZypLf">
 
@@ -770,7 +770,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/96pmsYUaoX">
 
@@ -783,7 +783,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/vKSF5">
 
@@ -796,7 +796,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/4ddwU7qmEXrH">
 
@@ -809,7 +809,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/oyTMefAQy5s">
 
@@ -822,7 +822,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/38XY4W5PD7O">
 
@@ -835,7 +835,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/kijI5CHm">
 
@@ -847,7 +847,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mirrored.to/files/1HURZRQN/majotori-V2.3byW-inGHb.apk_links">
 
@@ -860,7 +860,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.fireload.com/0fca8e80b38df4a0/T0MBR41D3R222_-_NEOGAMES.apk">
 
@@ -872,7 +872,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/p4nuf825p2ks78k/Zelda_A_Link_To_The_Past.apk/file">
 
@@ -887,7 +887,7 @@ const textoHTML = `
 
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/hglxr1enogtjgu5/%255Bwww.windroid7.net%255D_SMARI0W_v4.4.4.apk/file">
@@ -901,7 +901,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/0fe7pmgldgfii37/Super-Mario-64-1.0.apk/file">
 
@@ -914,7 +914,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/vdwn3lczovn5i5n/Super-Mario-Bros-1.2.5-APKCima.Com.apk/file">
@@ -928,7 +928,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/po8ksrxnuf984d7/snesemun10_pxMS64JA.apk/file">
 
@@ -942,7 +942,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/3obr5gf8niql83o/truck-simulator-pro-europe-v2.2-mod_Installer.apk/file">
@@ -955,7 +955,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/tiwve3vah2fhybw/magic-tiles-3-mod_8.112.401.zip+pw+required+by+michaels+gaming/file">
@@ -969,7 +969,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a href="https://sharetext.me/v0wkqlmt2o">
 
@@ -982,7 +982,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/e3mi21blc67njiq/Incredibox_v0.5.4_mod.apk/file">
 
@@ -994,7 +994,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href=" https://www.mediafire.com/file/4ooq38za5tinb1g/NBA2k20-MOD_APK%252BNORMAL_APK%252BOBB-95.0.1.rar/file">
@@ -1008,7 +1008,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/bf3vjj0isrpsptv/footballmanager2022mobile.apk/file">
 
@@ -1020,7 +1020,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/7xa6i877xhjomlv/DETODOFORUM_MONOPOLY.v1.6.18.mod.unlocked.1.6.181.6.18.apk/file">
@@ -1034,7 +1034,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/4dt7ng4p6ihcx0r/SonicJumpPro%2528vegetto3060%2529.apk/file">
 
@@ -1047,7 +1047,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/4dt7ng4p6ihcx0r/SonicJumpPro%2528vegetto3060%2529.apk/file">
 
@@ -1060,7 +1060,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/sn1v95f10lhs7y1/BOB_ESPONJA_A_LA_CARRERA_TM.rar/file">
 
@@ -1073,7 +1073,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/ru9za272pvh0aw9/GTA_Chinatown_Wars_By_Dashingo.rar/file">
 
@@ -1086,7 +1086,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/zih1jui0xv4n9hp/FARMING-SIM20-ElproGaming-0.0.0.75.apk/file">
@@ -1099,7 +1099,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/ktbkahsjmf9xqlo/911_Operator.apk/file">
 
@@ -1112,7 +1112,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="http://www.mediafire.com/file/oue7c3tjhb9g75b/TRAIL-BOSS-MOD-NORMAL-APK%252BDATA-1.0.1.rar/file">
@@ -1126,7 +1126,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="http://www.mediafire.com/file/xtld1d4vd50kksd/Youtubers_By_DarkOut.zip/file">
 
@@ -1139,7 +1139,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/bo9p37yct7ssr7j/Five_Nights_at_Freddy%2527s_Redacted_World.apk/file">
@@ -1153,7 +1153,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href=" https://www.mediafire.com/file/aemkovme2jpww3h/Plague_inc_%257C_Pirabest.apk/file">
 
@@ -1166,7 +1166,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href=" https://www.mediafire.com/file/wefq7sbijq7w131/Townscaper_-_Pirabest.zip/file">
 
@@ -1179,7 +1179,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href=" https://www.mediafire.com/file/72q9n9zc62hl7sz/Getting_Over_it_v1.9.4_-_espacioapk.com.apk/file">
@@ -1193,7 +1193,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/7tt2mwa0exsp7vc/Bully_-_Pirabeast.rar/file">
 
@@ -1206,7 +1206,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/qtn0xm2p5o9gplt/Machinarium_ANDROID.zip/file">
 
@@ -1219,7 +1219,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/tbpv0fiqzu9khcw/Boris_and_the_Dark_Survival_1.12.apk/file">
 
@@ -1232,7 +1232,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/q0h8ojxyn8t4hb9/Please_Dont_Touch_Anything_Android_.apk/file">
@@ -1246,7 +1246,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/cben452sic4wios/Geometry+Dash+-+Pirabest.rar/file">
 
@@ -1259,7 +1259,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a
                         href="https://www.mediafire.com/file/x47d2quqxmuafbr/Andro_Feth_-_New_Super_Mario_Bros._v1.0.apk/file">
@@ -1273,7 +1273,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/ejkhejj9kvkm5ac/Ultimate_Mortal_Kombat_3_v1.0.0.apk/file">
 
@@ -1286,7 +1286,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/249svq6u90kyohb/mortal_kombat_4_v5.0.apk/file">
 
@@ -1299,7 +1299,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/310emn6c3ek74vx/Mortal_Kombat_Trilogy_vv9.1.7b.apk/file">
 
@@ -1312,7 +1312,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/1q28oyo6o3yzkdb/Mortal_MK1_1.0_apkcombo.com.apk/file">
 
@@ -1325,7 +1325,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="http://www.mediafire.com/file/h6dn5oczlt2b4ra/mini_Titanes_por_misteroreo.apk">
 
@@ -1338,7 +1338,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/folder/2yeoli6pqcza4/Deltarune_1%262_Espa%C3%B1ol_Android">
 
@@ -1351,7 +1351,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/feuyb3t8w18uec7/CC(JEXUX).zip/file">
 
@@ -1364,7 +1364,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/gvg4eniy4wwk86m/AM2R(JEXUX).apk/file">
 
@@ -1377,7 +1377,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/v07fe32dy2iwt3k/cytus2.apk.zip/file">
 
@@ -1390,7 +1390,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/u6j6myzufbyorly/HELLTAKERPE%28JEXUX%29.zip/file">
 
@@ -1403,7 +1403,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://drive.google.com/u/0/uc?id=1RVLTbwP24tioTFKVG1SrbJa3m3anjg0f&export=download">
 
@@ -1416,7 +1416,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/y2xfb1lzz4tz7cn/T0MBR41D3R.apk/file">
 
@@ -1429,7 +1429,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/fwxovub744tt46i/N33DF0R5P33DH0TPURSU1.zip/file">
 
@@ -1443,7 +1443,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/p9b807tr8bjc2w6/F00TB4LLM4N4G3R2002.apk/file">
 
@@ -1456,7 +1456,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/t4rtad5dayytw73/6053C0ND5R34T0M1Z3D.zip/file">
 
@@ -1469,7 +1469,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://www.mediafire.com/file/riu6suz20o0o52n/5H4D0WF1GHT22.apk/file">
 
@@ -1484,7 +1484,7 @@ const textoHTML = `
 
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/oyGPGF">
                         <img data-src="https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09747_00/1/i_3525094f412498ef8b626cc0412f7153f05e2836187e9d617d0d71cba294758b/i/icon0.png"
                             class="img-juego">
@@ -1493,7 +1493,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/t2rG1K4nW7">
                         <img data-src="https://media.vandal.net/m/21782/papers-please-2013121112536_1.jpg" class="img-juego">
                         <b>Papers Please</b>
@@ -1501,7 +1501,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/DHbJWj">
                         <img data-src="https://play-lh.googleusercontent.com/t8VJAWO7ioG9uGhkPOs7q7ZfKjigeMGFBq134VJKLVU_jKDn9VEz9Oqg1iXQ9axI7aE"
                             class="img-juego">
@@ -1510,7 +1510,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/grqNlDu0iPM">
                         <img data-src="https://media.vandal.net/t200/74962/forager-20197239404284_7.jpg" class="img-juego">
                         <b>Forager</b>
@@ -1518,7 +1518,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/b2h2sMd4Fcs">
                         <img data-src="https://upload.wikimedia.org/wikipedia/en/b/b5/Death_Road_to_Canada_cover_art_full.jpg"
                             class="img-juego">
@@ -1527,7 +1527,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/YslpViz4e7V">
                         <img data-src="https://play-lh.googleusercontent.com/B8iUW5DRf9or5FQV11qh8VR6nqwX26y0OTISN9WNrEnB4HAv7erv7CRs31EoSgy9AL1t"
                             class="img-juego">
@@ -1537,7 +1537,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/uYnGZOMcr5o">
 
@@ -1551,7 +1551,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/ODyiX6CE">
 
@@ -1565,7 +1565,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/EJKDm">
 
@@ -1579,7 +1579,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/Z3LPHZUXj4e">
 
@@ -1592,7 +1592,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/hA8Ybe9hImaW">
 
@@ -1606,7 +1606,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/68pfu">
 
@@ -1619,7 +1619,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/X8uTL7lKsbjg">
 
@@ -1631,7 +1631,7 @@ const textoHTML = `
                     </a>
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/qaizJTo6Rn7q">
 
@@ -1645,7 +1645,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/M3Fa1WKr">
 
@@ -1658,7 +1658,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/A3bIoJoVm4fE">
 
@@ -1671,7 +1671,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/cd41nTq">
 
@@ -1684,7 +1684,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/UagAPi42GJZV">
 
@@ -1698,7 +1698,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
 
                     <a target="_blank" href="https://cuty.io/AmsMRq3rs">
 
@@ -1713,7 +1713,7 @@ const textoHTML = `
 
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/Eu95t27bFXiz">
                         <img data-src="https://www4.minijuegosgratis.com/v3/games/thumbnails/16925_7_sq.jpg"
                             class="img-juego">
@@ -1722,7 +1722,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/raukDEag7ff">
                         <img data-src="https://cdn.freebiesupply.com/logos/large/2x/grand-theft-auto-vice-city-logo-png-transparent.png"
                             class="img-juego">
@@ -1731,7 +1731,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/dtOuZ">
                         <img data-src="https://m.media-amazon.com/images/I/81dUvAW1ADL.png" class="img-juego">
                         <b>Earn To Die</b>
@@ -1739,7 +1739,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/3JOxSb2">
                         <img data-src="https://image.api.playstation.com/cdn/UP1004/CUSA03515_00/Uqzi77fB6sYXGujSKLVUYcvA4Wgvb4li.png"
                             class="img-juego">
@@ -1747,7 +1747,7 @@ const textoHTML = `
                         <p>1.430MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/ZZlZAUTfd1">
                         <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d7rhiq7-1d44f81b-93a6-4f6c-8393-c21fab24a2a1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjYzZDNjLWFlNjctNDY0Yy05YTM3LTY3MDgyOWIyYTE1N1wvZDdyaGlxNy0xZDQ0ZjgxYi05M2E2LTRmNmMtODM5My1jMjFmYWIyNGEyYTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZnCOiXeoE2j1EZwlTHzEdUCrklLQKxK1nLlozGNTHBI"
                             class="img-juego">
@@ -1756,7 +1756,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/RtktxaXm">
                         <img data-src="https://play-lh.googleusercontent.com/HrpVxA5Jx7yTJtC_gVrC3aAhnULNwOZjKhis1aiXCfSJZgQ_0mM239xd_Nw0znffFLY"
                             class="img-juego">
@@ -1765,7 +1765,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/9vfqB5QAlsV">
                         <img data-src="https://kizicdn.com/system/static/thumbs/big_tile_thumb/1066/thumb300_cupcakeria_300x300.jpg?1556201336"
                             class="img-juego">
@@ -1774,7 +1774,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/jPdg6Np">
                         <img data-src="https://kizicdn.com/system/static/thumbs/big_tile_thumb/1065/thumb300_doggeria_300x300.jpg?1556201332"
                             class="img-juego">
@@ -1783,7 +1783,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://www.mediafire.com/file/jkdzriso80m61si/Papa-s-Freezeria-To-Go-1-2-2.apk/file">
                         <img data-src="https://play-lh.googleusercontent.com/pHHCQat6QfO9dJMrRLRAlP-v9y98iI9lDx2oJ_Y8jho9AJQafQezJJYgWxzfuY9QRaw"
                             class="img-juego">
@@ -1792,7 +1792,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/3hiz54Z0xs">
                         <img data-src="https://app-cdn.acelitchi.com/prod/package/2022/12/15/CyElvatnwfzrBAh.webp"
                             class="img-juego">
@@ -1800,7 +1800,7 @@ const textoHTML = `
                         <p>29.26MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/Z7Q4aE1Deqo">
                         <img data-src="https://cms.bitent.com/assets/games/thumbs/ik/334x334/papas_pizzeria_big_611971081717b.png"
                             class="img-juego">
@@ -1809,7 +1809,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/vKPLyeVFze">
                         <img data-src="https://play-lh.googleusercontent.com/JWKDGiD25ENtMOibm7hFZeszpQfKm4nv0t6aMZHRvV3mR6BQR5K0Y9Y8Jn_Es2ZGcw81"
                             class="img-juego">
@@ -1818,7 +1818,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/1OtEzRsBN">
                         <img data-src="https://play-lh.googleusercontent.com/Yphk2XnpBkSPIlZcbcmeTULeIajjCU-8Iduzq8j7zyp9HPijyZaT5ZeqgbYkOoQKSljs"
                             class="img-juego">
@@ -1827,7 +1827,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/etTI2jQu3dsn">
                         <img data-src="https://assets-prd.ignimgs.com/2022/01/07/gta-liberty-city-stories-collage-1641588378983.jpg"
                             class="img-juego">
@@ -1835,7 +1835,7 @@ const textoHTML = `
                         <p>997.42MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/C6i0qpsAP">
                         <img data-src="https://media.vandal.net/m/15153/2012324112437_1.jpg" class="img-juego">
                         <b>GTA III</b>
@@ -1843,7 +1843,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/SqgzZBExmmEP">
                         <img data-src="https://play-lh.googleusercontent.com/vnjUup-jdjc2bxXktrLs0792D_QFM6GnadbzmElvMVIlNW6ODyYynMy1TrKV4bKtZnY"
                             class="img-juego">
@@ -1852,7 +1852,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/F6mh">
                         <img data-src="https://play-lh.googleusercontent.com/ZJLwTHhmr3FW4dCc1oWiPYsHJ4JK-4Ao5JLdOZTOwIuZdhmyBEr1715tLLEGTZ55GA"
                             class="img-juego">
@@ -1861,7 +1861,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/cVvvuYDo6Kzp">
                         <img data-src="https://play-lh.googleusercontent.com/qfa04l8kY6e7kG6MT0OmkRX24xPJcZE4bNAw9hQ14z3qUQZEv-xDZgN3bTXzNo8c9Vs"
                             class="img-juego">
@@ -1870,7 +1870,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/JIShAyEYNZ7">
                         <img data-src="https://www.wizcase.com/wp-content/uploads/2020/11/Spore_logo.jpg" class="img-juego">
                         <b>Spore Mobile</b>
@@ -1878,7 +1878,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/glXPPWHygxc">
                         <img data-src="https://img.captain-droid.com/wp-content/uploads/2017/07/survivalcraft2-icon.png.webp"
                             class="img-juego">
@@ -1887,7 +1887,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/T00l3m4AeBG">
                         <img data-src="https://play-lh.googleusercontent.com/V_GWB0meXuP9pojlPIfbbXkB6dM_h-xOW9kt8buazk-D8U0D9teIWVzrotJI8J0aArQ"
                             class="img-juego">
@@ -1896,7 +1896,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/Uk6WC">
                         <img data-src="https://play-lh.googleusercontent.com/FRqHTER87jmNcUFLe7mDElVAo5-NsyVN1LbTDESYnNocWkaerVvR8HWJTFhcW-Qhyhc"
                             class="img-juego">
@@ -1905,7 +1905,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/E5Ce">
                         <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MP0I6Folca9wOgs9A39wwvj1.png"
                             class="img-juego">
@@ -1914,7 +1914,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/bRCI3IJGmnu">
                         <img data-src="https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA"
                             class="img-juego">
@@ -1923,7 +1923,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/77H34755aL">
                         <img data-src="https://image.api.playstation.com/cdn/EP4415/CUSA02779_00/BIrIvrd9ibF3ZrptOpbo9Ewu0OE82v6r.png"
                             class="img-juego">
@@ -1932,7 +1932,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/jUfV7A9jZ">
                         <img data-src="https://games.lol/wp-content/uploads/2020/12/vector-free-full-version.jpg"
                             class="img-juego">
@@ -1942,7 +1942,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/oehmkPgF">
                         <img data-src="https://media.vandal.net/i/ivandal/1200x630/22104/angry-birds-go-20131211122520_1.jpg"
                             class="img-juego">
@@ -1950,7 +1950,7 @@ const textoHTML = `
                         <p>284,56MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/guMyVdC">
                         <img data-src="https://www.regfiles.net/media/registry/registry/halo-combat-evolved-icon.jpg"
                             class="img-juego">
@@ -1958,7 +1958,7 @@ const textoHTML = `
                         <p>215.02MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/UvRH5fN">
                         <img data-src="https://play-lh.googleusercontent.com/pI8XNkImu_7lyX1aweqgnxlYLK8-dmWpu3r3PjVb8aLj-byBf42G21MhrvxLd3Jorl33"
                             class="img-juego">
@@ -1966,7 +1966,7 @@ const textoHTML = `
                         <p> 231.04MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/EOrI5G">
                         <img data-src="https://iphone-image.apkpure.com/v2/app/c/8/c/c8c9d0f4d2fd33822c964c84d8b6b41d.jpg"
                             class="img-juego">
@@ -1974,14 +1974,14 @@ const textoHTML = `
                         <p> 153.63MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/93Bq4ONdV7">
                         <img data-src="https://sm.ign.com/t/ign_es/game/h/hades/hades_4rfe.300.png" class="img-juego">
                         <b>Hades Mobile</b>
                         <p>5.18MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/nHbyAOK">
                         <img data-src="https://play-lh.googleusercontent.com/l1VlSqHwmuWeewP5O-gayjqt7Chx-D-UOH3DM5T-Xy3KNCYt3fwH9HowxIu-Lu-G0A"
                             class="img-juego">
@@ -1989,7 +1989,7 @@ const textoHTML = `
                         <p>71.37MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/dI5xo1O0">
                         <img data-src="https://www.team17.com/wp-content/uploads/2020/08/Sheltered-Desktop-Tile2.jpg"
                             class="img-juego">
@@ -1997,14 +1997,14 @@ const textoHTML = `
                         <p>69.41MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/H5MLGmrKgZq">
                         <img data-src="https://assets1.ignimgs.com/2013/07/16/limbo-generalpng-50f6ee.png" class="img-juego">
                         <b>Limbo</b>
                         <p>103.71MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/FDCpSI46dCY">
                         <img data-src="https://play-lh.googleusercontent.com/aDX4QRdSBmlOTeWAsS5NbKcggupZ6_RSUzz7kLyIY91RChNDvEv26Czcqb-1rgt6FeE"
                             class="img-juego">
@@ -2012,7 +2012,7 @@ const textoHTML = `
                         <p>929.92MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/qZXJrlq">
                         <img data-src="https://img.tapimg.net/market/lcs/811defc7b99c2df4d7428c257db26c9d_360.png?imageView2/1/w/270/q/80/interlace/1/ignore-error/1"
                             class="img-juego">
@@ -2020,21 +2020,21 @@ const textoHTML = `
                         <p> 576.88MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/fpebgDVUl">
                         <img data-src="https://www.incredibox.com/img/press/incredibox-v2-icon.png" class="img-juego">
                         <b>Incredibox</b>
                         <p>116.58MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/sEv0mno39z">
                         <img data-src="https://f4.bcbits.com/img/a2987228686_65" class="img-juego">
                         <b>Kingdom Two Crowns</b>
                         <p> 796.65MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/EwM8">
                         <img data-src="https://play-lh.googleusercontent.com/zDcOTck_4ZjLeJNgil4bpIXUefRUYVqOqlpc8hxeDby8LQh0eZhYDho9U3W_RVg9yuE"
                             class="img-juego">
@@ -2042,7 +2042,7 @@ const textoHTML = `
                         <p>149.84MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/TrUq5f">
                         <img data-src="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/159/532/products/goat1-c773024f80b9907e9415883248158713-640-0.jpg"
                             class="img-juego">
@@ -2050,7 +2050,7 @@ const textoHTML = `
                         <p>509.34MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/mERzpTK9KAd">
                         <img data-src="https://icon-library.com/images/left-4-dead-2-icon/left-4-dead-2-icon-18.jpg"
                             class="img-juego">
@@ -2058,7 +2058,7 @@ const textoHTML = `
                         <p>231.44MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/o2618b">
                         <img data-src="https://play-lh.googleusercontent.com/JMwlYaGXwiHpKTZtu0kj5QtQ3Ag37KieUVJGQ7vYMfaQ-GmCp5wUSol6djC1iKu1eg"
                             class="img-juego">
@@ -2066,7 +2066,7 @@ const textoHTML = `
                         <p>104.49MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/q3L9ieMwcFH">
                         <img data-src="https://apps.cartoonnetworkla.com/uploads/galleries/app/app1/4/368/mini/f8377cc8ee8dc0cfeaed237648d961d727737371.png"
                             class="img-juego">
@@ -2074,7 +2074,7 @@ const textoHTML = `
                         <p>224.03MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/Nihrj0a">
                         <img data-src="https://media.indiedb.com/images/presskit/1/1/324/iconDL_640.png" class="img-juego">
                         <b>Dealers Life </b>
@@ -2083,7 +2083,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/lLKBwbhh">
                         <img data-src="https://play-lh.googleusercontent.com/AZbfYj6GeHsHj_MHctm-BWGTu69alv_nyepx2Nh0bgU2hf_nJ4_gWBQgNlBo65IoJg"
                             class="img-juego">
@@ -2092,7 +2092,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/fsM0IoCFblr">
                         <img data-src="https://play-lh.googleusercontent.com/v78n8vgSE8RFlFvjDOJIQnw24wE261GP5UgCD86zsfWlocfpjTPVZvwRVSJYaLJpjL0"
                             class="img-juego">
@@ -2101,7 +2101,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/CvUFG">
                         <img data-src="https://play-lh.googleusercontent.com/PjGKepFI3liulQSXnvDs0M0KfdlC0sTaK_ikvwFDHM86uoDkVolWjX5W5hZk1vwj2Z1M=w512"
                             class="img-juego">
@@ -2110,7 +2110,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/PvW4jWxZH">
                         <img data-src="https://play-lh.googleusercontent.com/qLeN3Rsr1Fj-7WSEyZigZjOotPw29dNBaUJdDo0EpKZzGvlznrJOcFnO0K1SilWqralG"
                             class="img-juego">
@@ -2119,7 +2119,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/wdFsJv9gaT">
                         <img data-src="https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
                             class="img-juego">
@@ -2128,7 +2128,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a
                         href="https://www.mediafire.com/file/8qr9wv6tkdq4r5a/bendy-ink-game-machine-1.0.830-full-t-.apk/file">
                         <img data-src="https://m.media-amazon.com/images/S/abs-image-upload-na/1/AmazonStores/A1F83G8C2ARO7P/50af3a42c3dbd17d1a663b06c5035b6d.w400.h400.jpg"
@@ -2138,7 +2138,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/dj3w1BS28NN">
                         <img data-src="https://robotgentleman.com/60seconds/assets/img/game_logo_sh.png" class="img-juego">
                         <b>60 Seconds</b>
@@ -2146,7 +2146,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/B6ao">
                         <img data-src="https://play-lh.googleusercontent.com/F8CEfI1PSTUrwyV1kVUESk4FGd0ndgLo8sygTF5L0aXsk_3hWUhMkkQXM2Y1rANtH8c"
                             class="img-juego">
@@ -2155,7 +2155,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://www.mediafire.com/file/p9x5yxapqib6ibk/dealers-life-2-apk.apk/file">
                         <img data-src="https://play-lh.googleusercontent.com/aXVwHjGZWrGP5isAhQqCUXp_EeazWeQ_cr94rIDzLQ6owDeMjWuti44LO8UfJC3c5E0"
                             class="img-juego">
@@ -2164,7 +2164,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://www.mediafire.com/file/yh89v65yxb5ytzw/true-skate-1.5.29-mod1.apk/file">
                         <img data-src="https://play-lh.googleusercontent.com/sSnNgrTzQmEKM_pBc8SRZm_D5WL6O9_dGFdWosAUV1cQATccayBTLEiF-yeDDcvfahA"
                             class="img-juego">
@@ -2173,7 +2173,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/gSy6pEw3">
                         <img data-src="https://dthezntil550i.cloudfront.net/pb/latest/pb2109270901141110020466615/1280_960/9c648223-de2c-4446-9193-cc04d6c12357.png"
                             class="img-juego">
@@ -2183,7 +2183,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/EuvZI">
                         <img data-src="https://play-lh.googleusercontent.com/MB2oeOGGRT36LugSI-hYwPBTz8QKmyqkKlW4QVmXkZhkPTxP5YqeVZIK2dhu2cqpXw"
                             class="img-juego">
@@ -2192,7 +2192,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/ojRzxgxfPq">
                         <img data-src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Undertale.png" class="img-juego">
                         <b>Undertale</b>
@@ -2200,7 +2200,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/WTe4uv9TsBk">
                         <img data-src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/5625a3ca-9b33-11e6-8eee-00163ec9f5fa/307747292/call-of-duty-black-ops-zombies-screenshot.png"
                             class="img-juego">
@@ -2209,7 +2209,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/qLZJhX0hGGGl">
                         <img data-src="https://storage.qoo-img.com/game/11742/ZoUr34wZ4n4i9XfoVSBec9lk4ZtjGIRq.jpg"
                             class="img-juego">
@@ -2218,7 +2218,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/2Xz1DsIfKWN">
                         <img data-src="https://cdn2.downdetector.com/static/uploads/logo/mzl.ehlcwpta.png" class="img-juego">
                         <b>Candy Crash Mod</b>
@@ -2227,7 +2227,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/osSVkNYtbE">
                         <img data-src="https://storage.qoo-img.com/game/9277/MdnBXKiahcaYpjZ9oGSVovL1oFZCXD7x.png"
                             class="img-juego">
@@ -2236,7 +2236,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/cUPSSg">
                         <img data-src="https://www.dafont.com/forum/attach/orig/7/5/752230.jpg" class="img-juego">
                         <b>Bully</b>
@@ -2245,7 +2245,7 @@ const textoHTML = `
                 </button>
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/COS1L465SXm">
                         <img data-src="https://play-lh.googleusercontent.com/R1fNEB9NlQs_gwLFalycHD4ezcjPNB-7EGj3U0G12aKqRkZ-peJeVjeGyvdm6NZEDg"
                             class="img-juego">
@@ -2254,7 +2254,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/KwGPSvkut">
                         <img data-src="https://img.utdstc.com/icon/2b1/742/2b1742b5237b994a388efaded8908868cda3d130c38d98b2934203ad5cdc08a3:200"
                             class="img-juego">
@@ -2263,7 +2263,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/vUzJffNX">
                         <img data-src="https://dimensionalbranding.com/wp-content/uploads/2018/05/Talking_TOM_LOGO-1.png"
                             class="img-juego">
@@ -2272,7 +2272,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a
                         href="https://www.mediafire.com/file/rrtovtbkpm0dhqo/com.scottgames.fivenightsatfreddys.apk/file">
                         <img data-src="https://static.gamehag.com/upload/vSeoLzYm2oB5jAomlPr4VRUNLFdTlx.png"
@@ -2281,7 +2281,7 @@ const textoHTML = `
                         <p>85MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/W5GpCsUp">
                         <img data-src="https://steamuserimages-a.akamaihd.net/ugc/868481724755816929/1920AEDC59916A5F7943488CC32FE2C407299503/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
                             class="img-juego">
@@ -2289,14 +2289,14 @@ const textoHTML = `
                         <p>56MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/7t6ndti0bcg">
                         <img data-src="https://i1.sndcdn.com/artworks-000187244493-z3np3r-t240x240.jpg" class="img-juego">
                         <b>Five Nights at Freddi´s SL</b>
                         <p>296MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/hsoPlYv2">
                         <img data-src="https://www5.minijuegosgratis.com/v3/games/thumbnails/240344_7_sq.jpg"
                             class="img-juego">
@@ -2305,7 +2305,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/dEo1">
                         <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpFcLzUheOw6H6Ie8iH9bKYmwB7UJDCpz8g&usqp=CAU"
                             class="img-juego">
@@ -2314,7 +2314,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/1w0f">
                         <img data-src="https://mb.cision.com/Public/5549/9468977/a771b8aa4b8ef4d9_400x400ar.png"
                             class="img-juego">
@@ -2322,7 +2322,7 @@ const textoHTML = `
                         <p>50MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/1w0f">
                         <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSZpCzVrSHvrE7aBrMa19e_ZsOODviSUNcw&usqp=CAU"
                             class="img-juego">
@@ -2330,7 +2330,7 @@ const textoHTML = `
                         <p>47MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/mLMzTeFqH">
                         <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/da296y5-693f61c8-a9c9-4993-8868-ee8eb1fce67a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjYzZDNjLWFlNjctNDY0Yy05YTM3LTY3MDgyOWIyYTE1N1wvZGEyOTZ5NS02OTNmNjFjOC1hOWM5LTQ5OTMtODg2OC1lZThlYjFmY2U2N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GVPISw5JyL13KdFYJG3suHwuYWFuwnRFf7nyveory1w"
                             class="img-juego">
@@ -2338,7 +2338,7 @@ const textoHTML = `
                         <p>244MB</p>
                     </a>
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/q8DU23h6HTH">
                         <img data-src="https://img.tapimg.net/market/icons/3984e7ce59eaff5af892db5b88c4e3ec_360.png?imageView2/2/w/1080/h/9999/q/80/format/jpg/interlace/1/ignore-error/1"
                             class="img-juego">
@@ -2347,7 +2347,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/d1ezQcyR">
                         <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWAlKxoYHZkpHksNCiyy_iu8lswyUVxUE5A&usqp=CAU"
                             class="img-juego">
@@ -2356,7 +2356,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/NaoNJnQbU">
                         <img data-src="https://thumbs.dreamstime.com/b/logotipo-de-la-minecarter%C3%ADa-dise%C3%B1o-aislado-del-concepto-bloques-suciedad-juego-en-l%C3%ADnea-minecraft-186775550.jpg"
                             class="img-juego">
@@ -2365,7 +2365,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/yTmaSxHhvKn">
                         <img data-src="https://forums.terraria.org/index.php?attachments/icon-png.280655/" class="img-juego">
                         <b>Terraria</b>
@@ -2373,7 +2373,7 @@ const textoHTML = `
                     </a>
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/b1R7H1Lku">
                         <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP28Ae0hK2R63zQKvfdRX5iYFnu822bRmPvA&usqp=CAU"
                             class="img-juego">
@@ -2384,7 +2384,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/inYnFH">
                         <img data-src="https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY"
                             class="img-juego">
@@ -2395,7 +2395,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/IkU5kqZ0p">
                         <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg79OyM1nKo3lZjO5oyqDUMTqt1d2_imn3A&usqp=CAU"
                             class="img-juego">
@@ -2406,7 +2406,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/VEzmppjOJ">
                         <img data-src="https://play-lh.googleusercontent.com/A9kng-j9BLaA2dhRGsPExmjy9E4vfG-GHefvmyywT0J67ZEPGONIsFYlIokL5EUNfiHF"
                             class="img-juego">
@@ -2417,7 +2417,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/TEn4FAKFO">
                         <img data-src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag"
                             class="img-juego">
@@ -2428,7 +2428,7 @@ const textoHTML = `
 
                 </button>
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/3apgG83d">
                         <img data-src="https://play-lh.googleusercontent.com/WUXuQ9MrEYeU-blZesAEqdIIQv03OknruPCrNQGOxXop1pFZai0BWT4kKUqaz_rcpRiB=w240-h480-rw"
                             class="img-juego">
@@ -2438,7 +2438,7 @@ const textoHTML = `
 
 
                 </button>
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/upnU6iR1ekPo">
                         <img data-src="https://imgs.search.brave.com/_yqodxk2fB6Qq_A9d9gIpksjb3kC2Lfy9aPYk2tH2tQ/rs:fit:340:340:1/g:ce/aHR0cHM6Ly9pbWFn/ZS53aW51ZGYuY29t/L3YyL2ltYWdlMS9Z/Mjl0TG1aMloySm9k/R1p5WkdGdGJDNWxj/bVpuYUdKbmRtWXVZ/MmhoYUdSbGNsOXBZ/Mjl1WHpFMk16WTRP/VGs0T0RGZk1ETXkv/aWNvbi5wbmc_dz0z/NDAmZmFrZXVybD0x"
                             class="img-juego">
@@ -2451,7 +2451,7 @@ const textoHTML = `
 
 
 
-                <button class="juego">
+                <button class="juego" id="re-home">
                     <a target="_blank" href="https://cuty.io/hj3g2ut">
                         <img data-src="https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=w240-h480-rw"
                             class="img-juego">

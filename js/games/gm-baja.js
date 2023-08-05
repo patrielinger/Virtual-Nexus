@@ -1,5 +1,5 @@
 const gmbaja = `
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://sharetext.me/lm43amulm8"> 
 
@@ -12,7 +12,7 @@ const gmbaja = `
                 </button>
                 
                 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/xm6mb846rcsdabp/Scrap+Mechanic.zip"> 
 
@@ -26,7 +26,7 @@ const gmbaja = `
                 
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/kzkw2wfggzfungi/Dealers.Life.2.zip/file"> 
 
@@ -39,7 +39,7 @@ const gmbaja = `
                 </button>
                 
                 
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/1x9mixhpz50kqga/Mount+%26+Blade+-+Warband.rar"> 
 
@@ -52,7 +52,7 @@ const gmbaja = `
                 </button>
                 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/hp2dspsqassl8xb/Far_Cry_3.rar/file"> 
 
@@ -64,7 +64,7 @@ const gmbaja = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/rj1z48j7cdf9ldz/Fallout_3_%252BDLC_by_Jazmin_Marceline.rar/file"> 
 
@@ -76,7 +76,7 @@ const gmbaja = `
  
                 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/tvqb5oh010wmsi9/1624461429-LEGOBJ.torrent/file"> 
 
@@ -87,7 +87,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 
 <a target="_blank" href="https://www.mediafire.com/file/vuvmj81d4hgp4pf/B%2540tm%2540n_%2540rkh%2540m_%2540sylum_GOTY_Subido_Por_Seba77Blue.rar/file"> 
 
@@ -98,7 +98,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/a8wryygukhjgip2/Stick_Fight_The_Game_-_FlechasGames.rar/file"> 
 
@@ -109,7 +109,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/q764eey9g2pmw53/Sonic_Adventure_DX.rar/file"> 
 
@@ -120,7 +120,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/jypen25zbytrr9f/Sonic_CD_Remake_EleniansZero.zip/file"> 
 
@@ -131,7 +131,7 @@ const gmbaja = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/r43tsxs3g2bgbb5/Nuclear_Throne_%255BMJC%255D.rar/file"> 
 
@@ -142,7 +142,7 @@ const gmbaja = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/0ni2ukj7zwj9f6g/The_escapist.rar/file"> 
 
@@ -153,7 +153,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://mega.nz/#!X1JRHJra!uC8O_o13keDLDiTIAYBs7Y97FVpg1xXg5YceUaYGJuI"> 
 
@@ -164,7 +164,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/vfgfykwaprtw7t6/Sonic_Adventure_2.rar/file"> 
 
@@ -175,7 +175,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/wu2oj3d719jwcct/Five_Nights_at_Freddy%2527s_Help_Wanted_Android.zip/file"> 
 
@@ -186,7 +186,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/1ixp3o3kekmud8f/Geometry_Dash_2.11_Funcional_by_Davoxt.zip/file"> 
 
@@ -197,7 +197,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/uaaclggz5m4dodb/SonicR_by_El_Dallas_1999.rar/file"> 
 
@@ -208,7 +208,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/uhl362ipp4lyxkg/Archivos_26.rar/file"> 
 
@@ -219,7 +219,7 @@ const gmbaja = `
 </a>
  
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/g7gb71cm1erevgx/Left_4_Dead_1_By_4LEX_PL4Y.rar/file"> 
 
@@ -230,7 +230,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/s7j0x04c5zly8yk/Super.Fancy.Pants.Adventure.zip/file"> 
 
@@ -241,7 +241,7 @@ const gmbaja = `
 </a>
  
                 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/apxnwevyhmoj79z/Disney.Pixar.Cars.rar/file">
 
@@ -253,7 +253,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/kudqzykdma8ei8c/fallout+by+mr29.rar">
 
@@ -265,7 +265,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/oxa0myefpo7gzmb/G4ngB.v1.18.195.rar/file">
 
@@ -278,7 +278,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/ngp1aftsjgerug0/Friday_Night_Funkin.rar/file">
 
@@ -290,7 +290,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/e6z15h0i3arge3c/Plague_Inc_Evolved.rar/file">
 
@@ -303,7 +303,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" https://www.mediafire.com/file/v2mtutp49ojowdo/Plants_vs._Zombies_2.rar/file">
 
@@ -316,7 +316,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/sj3nm42yg54nznj/GTA_III_setup.exe/file">
 
@@ -328,7 +328,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="http://www.mediafire.com/file/4936ayhq433cekl/Resident_Evil_1.rar/file">
 
@@ -341,7 +341,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" http://www.mediafire.com/file/5q57j70gjcfs2l4/Bad+Piggies.rar">
 
@@ -353,7 +353,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/a3tj0r7o1snezpc/Forager.v4.1.9+-+Ratarex777.rar/file">
 
@@ -365,7 +365,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href=" https://www.mediafire.com/file/602o03nz8cgx6dj/Cs_1.6_Full_Espa%25C3%25B1ol_byDTUP.rar/file">
@@ -378,7 +378,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/e1sAgB7L#Uz70s02A8WcPO4h2wdmsbihYEn2ced277RF_Eu4je_E">
 
@@ -390,7 +390,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" http://www.mediafire.com/file/g1f3kgnz8qr4v9z/Enter+The+Gungeon+-+ChidoWan.rar">
 
@@ -402,7 +402,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/e13dmb4zbnwb3pt/Hotline_Miami_Daelanification.rar/file">
 
@@ -414,7 +414,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/9eis5enkl7tk0gz/Contra_By_Piero_Random.rar/file">
 
@@ -426,7 +426,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/602xsjwamz0ynmi/OMORI_By_REN.rar/file">
 
@@ -439,7 +439,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://drive.google.com/file/d/1sTo_0wZY-T0LwOwMaU0W12EofJyauyWA/view?usp=sharing">
 
@@ -451,7 +451,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/rkzjxlkinioufqw/Slendytubbies%20By%20Reiki's%20TV.rar/file">
 
@@ -463,7 +463,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="http://www.mediafire.com/file/6b5ac8xiy1d9uy4/Slendytubbies_II_V2_2_%2832bit%29.zip/file">
 
@@ -476,7 +476,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file">
 
@@ -489,7 +489,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" https://www.mediafire.com/file/jxund2sgawh0qzf/Salt.and.Sacrifice.v1.0.0.7.zip/file">
 
@@ -502,7 +502,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/wtzu9clya0jb3i9/P1c0P4rk_ONLINE.v09.09.21.rar/file">
 
@@ -515,7 +515,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href=" https://www.mediafire.com/file/q1gqwrg7kzyhcmo/Co0kieClick3er.rar/file">
 
@@ -528,7 +528,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href=" https://www.mediafire.com/file/r4jvslo6b9ou8hm/Tw1elveMin2utes-27.08.2021-elamigos.rar/file">
@@ -541,7 +541,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/25ct62uwv44bf1s/SMBuildEc.rar/file">
 
@@ -554,7 +554,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/eari65x0k8jr9xz/R6imWo6rld-1.4.3704-elamigos.rar/file">
 
@@ -567,7 +567,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a
     href="https://www.mediafire.com/file/7gsful26wo0etm5/the-return-to-freddy-s-winter-wonderland-release-1.4.exe/file">
@@ -581,7 +581,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/5yv4nu4wnft4c6i/ultra-custom-night.exe/file">
 
@@ -591,7 +591,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/2medwsfzvbyvubv/fredbear-s-fright.exe/file">
 
@@ -602,7 +602,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/dh5etq0rmro9l8h/popgoes+(1).exe/file">
 
@@ -613,7 +613,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/hz9ttawt96ean5g/animator-s-hell.zip/file">
 
@@ -624,7 +624,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/foapqulq9moe4zu/tnar2r.zip/file">
 
@@ -635,7 +635,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/vqxqm0de1nh1oo2/Those-Nights-at-Rachel%27s.rar/file">
 
@@ -646,7 +646,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/h9weqvrz1tayin8/treasure-island-v1.2.2-b.exe/file">
 
@@ -657,7 +657,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/1x8ko311ddhpvyh/ellie-s-v3.zip/file">
 
@@ -668,7 +668,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/cnp0cbfi11ltqt3/fredbear-and-friends-left-to-rot.exe/file">
 
@@ -679,7 +679,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/0nhexkavrqxo879/final-nights-4-1.2.rar/file">
 
@@ -690,7 +690,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/wqw0lgn0cujo4yq/Final-Nights-3-1.2.rar/file">
 
@@ -701,7 +701,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/ylpv1pe7dtr3m8s/the-glitched-attraction.rar/file">
 
@@ -711,7 +711,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/aozy6rsov4u9r00/TJoC-Halloween-Edition.rar/file">
 
@@ -722,7 +722,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/lv6s3fskjf2k58w/jr-s-v1-3-1.exe/file">
 
@@ -732,7 +732,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/z57beee60ggjsw6/Slime_Rancher_2.rar/file">
 
@@ -743,7 +743,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/f4qmedavg777de0/ICF.rar/file">
 
@@ -754,7 +754,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="http://www.mediafire.com/file/7tf8behjmsfve06/Celeste_v1.3.0.0_By_iTzRyanGz.rar/file">
 
@@ -765,7 +765,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/q8sAQawY#sayy6IuVcwucc9NVOJbRC1hkesry9Oolzl7ZqHuvk6E">
 
@@ -776,7 +776,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://mega.nz/file/p91XAZRD#ednOCFNB8RJRCd0qEghbLry88CWnkVflR8AaxQjJKFc">
 
@@ -787,7 +787,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/mfz20z8for3sskv/Slime.Rancher.v1.1.0b.rar">
 
@@ -798,7 +798,7 @@ const gmbaja = `
 
 </a>
 
-</button><button class="juego" target="_BLANK">
+</button><button class="juego" id="re-home" target="_BLANK">
 
 <a
     href="https://www.mediafire.com/file/nm1pyyb13mm4bsh/People.Playground.v1.23.10_-_ElShuzen.rar/file">
@@ -811,7 +811,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://www.mediafire.com/file/c13a1tgbre7b5u6/NFS+Most+Wanted+by+Ranchoso92.rar/file">
 
@@ -823,7 +823,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/FIlxRAcx92D8">
@@ -838,7 +838,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/7QfAK8">
@@ -853,7 +853,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/hWTAB2l1zz">
@@ -868,7 +868,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/wMt5tD12eKp">
@@ -883,7 +883,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <main>
     <a target="_blank" href="https://cuty.io/WRBaDoZAo">
@@ -898,7 +898,7 @@ const gmbaja = `
 
 </button>
 
-<button onclick="p6dXL()" class="juego" target="_BLANK">
+<button onclick="p6dXL()" class="juego" id="re-home" target="_BLANK">
 
 <main>
 
@@ -928,7 +928,7 @@ const gmbaja = `
 <button onclick="ocultarCartel()" class="cerrar">Cerrar</button>
 </div>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/4eOxcrCWM">
 
@@ -941,7 +941,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/4WO9Q2kfN">
 
@@ -953,7 +953,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/GtakaJ">
 
@@ -966,7 +966,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/hdHmyoZ">
 
@@ -979,7 +979,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/42xJC">
 
@@ -992,7 +992,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/L6FTalM">
 
@@ -1005,7 +1005,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/6V6FQh6LWJbh">
 
@@ -1018,7 +1018,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/9DPpcQu">
 
@@ -1031,7 +1031,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/qeFWXKeO">
 
@@ -1044,7 +1044,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/00wCa16Jgpew">
 
@@ -1057,7 +1057,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/0RJd">
 
@@ -1069,7 +1069,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/TQyXPdg">
 
@@ -1081,7 +1081,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/v0Ksyeb">
 
@@ -1094,7 +1094,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/K0a3FhMW">
 
@@ -1106,7 +1106,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/4m2cq">
 
@@ -1118,7 +1118,7 @@ const gmbaja = `
 </a>
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/YMSvHNb">
 
@@ -1131,7 +1131,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/K5bU">
 
@@ -1144,7 +1144,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/87jI">
 
@@ -1157,7 +1157,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/Betuet">
 
@@ -1170,7 +1170,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/CJA9MLL">
 
@@ -1183,7 +1183,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 
 <a target="_blank" href="https://cuty.io/6ifzFys1">
 
@@ -1196,7 +1196,7 @@ const gmbaja = `
 
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/DqrAAM7uZvBP">
     <img data-src="https://cdn.shopify.com/s/files/1/1912/6911/files/Brand.Drifter.jpg?v=1601354956"
         class="img-juego">
@@ -1206,7 +1206,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/nWps">
     <img data-src="https://assets-prd.ignimgs.com/2022/01/25/oxygen-not-included-button-edit-1643073500664.jpg"
         class="img-juego">
@@ -1215,7 +1215,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/7oEpzfTRmJbo">
     <img data-src="https://opinionatedgamers.com/wp-content/uploads/2020/08/northgard-cover.png"
         class="img-juego">
@@ -1224,7 +1224,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/tJx3O">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3d2ae7c4-44bc-4a05-89ba-69c2719fb4b1/d91a3jr-a68ca4ae-6d18-4ff8-9127-a4acc9b86cdf.png/v1/fill/w_512,h_512/terra_formars_icon_folder_by_striknin_d91a3jr-fullview.png"
         class="img-juego">
@@ -1233,7 +1233,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/aebKuDwOxaBj">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944474-48c3-4adb-9059-75d10eab21b9/dd7vamd-eaeb3a2f-c638-4ff1-9c47-48ef976ed399.png/v1/fill/w_512,h_512,q_80,strp/islanders_icon_by_cl4ym_dd7vamd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYWQ5NDQ0NzQtNDhjMy00YWRiLTkwNTktNzVkMTBlYWIyMWI5XC9kZDd2YW1kLWVhZWIzYTJmLWM2MzgtNGZmMS05YzQ3LTQ4ZWY5NzZlZDM5OS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sAZUHfFy3I7PSNmuuzBj-m8hQaC0PxNS1scXMce7p9k"
         class="img-juego">
@@ -1242,7 +1242,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/IkdXl8eKUQVs">
     <img data-src="https://thumbnails.pcgamingwiki.com/0/0c/Manhunt_cover.jpg/300px-Manhunt_cover.jpg"
         class="img-juego">
@@ -1252,7 +1252,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/pKb4pM">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5a3564a-b113-4f9e-b5e5-386108005e7a/dcknqhp-6ae238ee-736a-4527-bebe-4eaed9db3d1b.png/v1/fill/w_1032,h_774,q_70,strp/_fnaf_sfm__fnaf_sister_location_icon_remake_by_eliterobo_dcknqhp-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiJcL2ZcL2I1YTM1NjRhLWIxMTMtNGY5ZS1iNWU1LTM4NjEwODAwNWU3YVwvZGNrbnFocC02YWUyMzhlZS03MzZhLTQ1MjctYmViZS00ZWFlZDlkYjNkMWIucG5nIiwid2lkdGgiOiI8PTI4NzkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NndpanDa10CZKtI-pTeF-nwe28IJjVjNUK86HWVR2Go"
         class="img-juego">
@@ -1262,7 +1262,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/3kDdgIYzqycX">
     <img data-src="https://lh3.googleusercontent.com/MTOHKghnz5k0-1dVvSp0P7Lk32h-bfMVVj3sC2pXcPr83reuVabr3n7z5MvrBK0iPLYo"
         class="img-juego">
@@ -1271,7 +1271,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/hGvKtchgZ4CB">
     <img data-src="https://steamuserimages-a.akamaihd.net/ugc/868481724755816929/1920AEDC59916A5F7943488CC32FE2C407299503/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
         class="img-juego">
@@ -1280,7 +1280,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/bPhJ7">
     <img data-src="https://i.pinimg.com/originals/35/00/df/3500dfd06ff88e4f65235797cd6aa5f2.jpg"
         class="img-juego">
@@ -1290,7 +1290,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/llKqpVpsYFX">
     <img data-src="https://sm.ign.com/ign_es/cover/f/five-night/five-nights-at-freddys_zwh8.jpg"
         class="img-juego">
@@ -1300,7 +1300,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/llKqpVpsYFX">
     <img data-src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag"
         class="img-juego">
@@ -1310,7 +1310,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/eacf5qbgrzu">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d55ae41-e76d-4375-b2d9-5b40b36a2f82/dejqc40-6e13d859-4d0d-44de-805c-761c9c4c613a.png/v1/fill/w_400,h_400/jump_king_icon_by_kingkenny11_dejqc40-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzBkNTVhZTQxLWU3NmQtNDM3NS1iMmQ5LTViNDBiMzZhMmY4MlwvZGVqcWM0MC02ZTEzZDg1OS00ZDBkLTQ0ZGUtODA1Yy03NjFjOWM0YzYxM2EucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.A7ltFx-JS4N8TCPRw8LIDdo7DY-XTeNPuG4vBpi4GXs"
         class="img-juego">
@@ -1319,7 +1319,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/a3F0qeiqgocc">
     <img data-src="https://assets-prd.ignimgs.com/2022/11/09/have-a-nice-death-button-fin-1668028625371.jpg"
         class="img-juego">
@@ -1328,7 +1328,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/VnJQMr32br">
     <img data-src="https://assets-prd.ignimgs.com/2022/01/14/valheim-sq-1642187529813.jpg"
         class="img-juego">
@@ -1337,7 +1337,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/2C3zGKp3YVh">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/da9c00b-4a7f938c-bbab-4517-8ff4-ae87d9a27694.png/v1/fill/w_512,h_512/dragon_ball_xenoverse___icon_by_blagoicons_da9c00b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kYTljMDBiLTRhN2Y5MzhjLWJiYWItNDUxNy04ZmY0LWFlODdkOWEyNzY5NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xiMClxK1bQgDNPMYxt3yTXrkv13HD25OQb71iTkM78M"
         class="img-juego">
@@ -1347,7 +1347,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ICFknHDJw">
     <img data-src="https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-boogeyman-el-visitante-misterioso-2022-1564107119.jpg"
         class="img-juego">
@@ -1357,7 +1357,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/SIJmg6dXu">
     <img data-src="https://e1.pxfuel.com/desktop-wallpaper/773/639/desktop-wallpaper-file-grand-theft-auto-san-andreas-logo-svg-gta-san-andreas-logo.jpg"
         class="img-juego">
@@ -1367,7 +1367,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/KL9H">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3177d583-bb50-4d9e-8aef-0ff58f4fa888/dfj3n4w-d8e03c6a-fbaf-4065-808e-a8de4be0f3cf.png/v1/fill/w_819,h_553/ultimate_spider_man__2005__logo_by_kanyeruff58_dfj3n4w-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUzIiwicGF0aCI6IlwvZlwvMzE3N2Q1ODMtYmI1MC00ZDllLThhZWYtMGZmNThmNGZhODg4XC9kZmozbjR3LWQ4ZTAzYzZhLWZiYWYtNDA2NS04MDhlLWE4ZGU0YmUwZjNjZi5wbmciLCJ3aWR0aCI6Ijw9ODE5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.B-VzzjGX0aUx82FW2A0LuJgsmYhY-n7NC-KEzWeK2h8"
         class="img-juego">
@@ -1377,7 +1377,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9a8ZvabHJP">
     <img data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/dccy6fa-67d7bb43-35c0-4d9b-abca-414598b6edb7.png/v1/fill/w_512,h_512/raft___icon_by_blagoicons_dccy6fa-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kY2N5NmZhLTY3ZDdiYjQzLTM1YzAtNGQ5Yi1hYmNhLTQxNDU5OGI2ZWRiNy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDVMJX6bPTUFiDEGl0sIcc2lPe2f869EvSUG4YrBNU"
         class="img-juego">
@@ -1387,7 +1387,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/9Vx1w">
     <img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Half-Life_2_Logo.svg/1184px-Half-Life_2_Logo.svg.png"
         class="img-juego">
@@ -1397,7 +1397,7 @@ const gmbaja = `
 </button>
 
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/V4m1cI">
     <img data-src="https://ih1.redbubble.net/image.4098539449.7006/st,small,845x845-pad,1000x1000,f8f8f8.jpg"
         class="img-juego">
@@ -1406,7 +1406,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ABreobtI">
     <img data-src="https://forums.terraria.org/index.php?attachments/icon-png.280655/" class="img-juego">
     <b>Terraria</b>
@@ -1415,7 +1415,7 @@ const gmbaja = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/UFgAJc2">
     <img data-src="https://d.newsweek.com/en/full/829304/stardew-valley.png?w=1600&h=1200&q=88&f=1067b2df47b5f1cff9d63e1659d0cd23"
         class="img-juego">
@@ -1425,7 +1425,7 @@ const gmbaja = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/Aup3RICPKb">
     <img data-src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Undertale.png" class="img-juego">
     <b>Undertale</b>
@@ -1434,7 +1434,7 @@ const gmbaja = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/YNlVaoKeoF">
     <img data-src="https://e1.pngegg.com/pngimages/575/353/png-clipart-don-t-starve-icons-512-x-512-ico-3-thumbnail.png"
         class="img-juego">
@@ -1444,7 +1444,7 @@ const gmbaja = `
 
 
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/IeTo">
     <img data-src="https://fontmeme.com/images/binding-of-isaac-box-font.jpg" class="img-juego">
     <b>The Binding of Isaac</b>
@@ -1452,7 +1452,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/IlQzfk">
     <img data-src="https://image.api.playstation.com/vulcan/ap/rnd/202104/3018/x0cMtPaOTtUWRymojmrEjT9f.png"
         class="img-juego">
@@ -1461,7 +1461,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/1t4e">
     <img style="width:60%;"
         src="https://1.bp.blogspot.com/-7z1I5j6rExM/U1WYo6acPmI/AAAAAAAAFqk/kFfANbDijWA/s400/ftlae.png"
@@ -1470,7 +1470,7 @@ const gmbaja = `
     <p>400MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/DAXkAs7mY">
     <img data-src="https://res.cloudinary.com/teepublic/image/private/s--oZivaM7c--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1471646990/production/designs/641852_1.jpg"
         class="img-juego">
@@ -1478,7 +1478,7 @@ const gmbaja = `
     <p>190MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/eKzGQDw2F">
     <img data-src="https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/4fe1b0d005bfe40bc9f223f71c6356c5.png"
         class="img-juego">
@@ -1486,7 +1486,7 @@ const gmbaja = `
     <p>120MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/ZAzg9ZtY0">
     <img data-src="https://techcrunch.com/wp-content/uploads/2022/08/papers-please.png?w=730&crop=1"
         style="width:65%" class="img-juego">
@@ -1494,7 +1494,7 @@ const gmbaja = `
     <p>34MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/MNy2x">
     <img data-src="https://catorrent.org/uploads/posts/2021-08/1629465977-catorrent-fez.jpg"
         class="img-juego">
@@ -1502,7 +1502,7 @@ const gmbaja = `
     <p>461MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/zikzbdkkR5hS">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/a/aa/SuperMeatBoy_cover.png"
         class="img-juego">
@@ -1510,7 +1510,7 @@ const gmbaja = `
     <p>160MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/UIubN6p">
     <img data-src="https://w7.pngwing.com/pngs/791/1023/png-transparent-to-the-moon-video-games-titanfall-2-moon-game-silhouette-moon-thumbnail.png"
         class="img-juego">
@@ -1518,7 +1518,7 @@ const gmbaja = `
     <p>520MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/I0I8Z">
     <img data-src="https://static.displate.com/280x392/displate/2022-07-07/7cb2000237f242871a7afabd8debff85_73b7bfcae4c571944fc9235c9749a348.jpg"
         class="img-juego">
@@ -1526,7 +1526,7 @@ const gmbaja = `
     <p>990MB</p>
 </a>
 </button>
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/P7gHNcOd3Ycz">
     <img data-src="https://image.api.playstation.com/cdn/UP4415/CUSA02768_00/4E2BQXbe6ArXunsKvcyziEaT0pOryWIb.png"
         class="img-juego">
@@ -1535,7 +1535,7 @@ const gmbaja = `
 </a>
 </button>
 
-<button class="juego" target="_BLANK">
+<button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/nIGfhMyjG4">
     <img data-src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Left4Dead2.jpg/220px-Left4Dead2.jpg"
         class="img-juego">

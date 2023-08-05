@@ -1,6 +1,6 @@
 const roms = `
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
 <a target="_blank" href="https://www.mediafire.com/folder/ukszknlbet5yo/nes"> 
                 <img data-src="/img/nes.webp" class="img-juego">
                 <b>Nintendo NES (+660 Juegos)</b> 
@@ -8,7 +8,7 @@ const roms = `
 
                 </button>
 
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
                 <a target="_blank" href="https://www.mediafire.com/folder/xio5ek8ohh3rt/snes"> 
                 
@@ -19,7 +19,7 @@ const roms = `
                 </a>
                  
                                 </button>
-                                <button  class="juego" target="_BLANK"> 
+                                <button  class="juego" id="re-home" target="_BLANK"> 
                 
                                 <a target="_blank" href="https://www.mediafire.com/folder/tmfenycpuqram/Nintendo+64"> 
                                 
@@ -30,7 +30,7 @@ const roms = `
                                  
                                                 </button>
 
-                                                <button  class="juego" target="_BLANK"> 
+                                                <button  class="juego" id="re-home" target="_BLANK"> 
                 
                                                 <a target="_blank" href="https://www.romspack.com/psp-rom-pack/"> 
                                                 
@@ -40,14 +40,14 @@ const roms = `
                                                  
                                                                 </button>
 
-<button class="juego">
+<button class="juego" id="re-home">
 <a target="_blank" href="https://www.romspack.com/ps1-roms-pack/">
 <img data-src="https://i.ytimg.com/vi/3WztI4Gf6WQ/maxresdefault.jpg" class="img-juego" style="vertical-align: middle;">
 <p> PSX (+1000 Juegos)</p>
 </a>
 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://romsjuegos.com/roms/playstation-2/"> 
 
@@ -59,7 +59,7 @@ const roms = `
  
                 </button>
                 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/file/oi7o7m71gfjl9nh/PackGameBoyColor.rar/file"> 
 
@@ -69,7 +69,7 @@ const roms = `
 </a>
 
                 </button>
-                <button  class="juego" target="_BLANK"> 
+                <button  class="juego" id="re-home" target="_BLANK"> 
                 
                 <a target="_blank" href="https://www.mediafire.com/folder/55mwkslykzvz7/GBA"> 
                 
@@ -81,7 +81,7 @@ const roms = `
                                 </button>
 
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://www.mediafire.com/folder/s1kc6npfifccn/Nintendo+DS"> 
 
@@ -93,14 +93,14 @@ const roms = `
                 </button>
                 
 
-<button class="juego">
+<button class="juego" id="re-home">
 <a target="_blank" href="https://www.romspack.com/gamecube-roms-pack/">
 <img data-src="https://cdn.freebiesupply.com/logos/large/2x/nintendo-gamecube-logo-png-transparent.png" class="img-juego" style="vertical-align: middle;">
 <b> GameCube (+520 Juegos)</b>
 </a>
 </button>
 
-<button  class="juego" target="_BLANK"> 
+<button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="https://drive.google.com/drive/folders/1dVvdo86UtuY1h_4Kav3diKr-ovOkA7dw"> 
 
