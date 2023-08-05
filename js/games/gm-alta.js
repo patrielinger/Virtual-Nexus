@@ -357,8 +357,6 @@ const gmalta = `
 </button>
 
                 
-                <div class="tabs" id="tabs"></div>
-                </div>
 
 `;
 

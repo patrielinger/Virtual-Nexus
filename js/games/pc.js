@@ -2635,10 +2635,7 @@ const pccc = `
 </button>
 
 
-                
-                <div class="tabs" id="tabs"></div>
-                </div>
-
+        
 `;
 
 const dsasdasdagb = document.getElementById('pccc');

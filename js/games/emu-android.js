@@ -90,8 +90,6 @@ const textklfaskfsoHTML = `
                 </button>
 
                 
-                <div class="tabs" id="tabs"></div>
-                </div>
 
 `;
 

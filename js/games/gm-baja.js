@@ -1545,9 +1545,6 @@ const gmbaja = `
 </button>
 
 
-                
-                <div class="tabs" id="tabs"></div>
-                </div>
 `;
 
 const dsasdasdagbdasd = document.getElementById('gm-baja');
