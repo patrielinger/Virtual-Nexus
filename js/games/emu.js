@@ -95,6 +95,9 @@ const textoHTdasdasML = `
                 </a> 
                 </button>
 
+                
+                <div class="tabs" id="tabs"></div>
+                </div>
 `;
 
 const pinga = document.getElementById('emu');

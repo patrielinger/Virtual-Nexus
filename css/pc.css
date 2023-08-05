@@ -45,7 +45,7 @@
     .abrir{
         display: none;
     }
-    #buscador{
+    #inputBusqueda{
         background-color: #000e38;
         border: 2px solid rgb(0, 255, 255);
         height: 40px;
@@ -54,6 +54,18 @@
         font-size: 1.1rem;
         color:white;
         width: 19rem;
+    }
+        .btn-buscar{
+        height: 40px;
+        padding: 5px;
+        color: #fff;
+        border: 2px solid rgb(0, 255, 255);
+        font-size: 1rem;
+        border-radius: 10px;
+        background-color: transparent;
+        vertical-align: middle;
+        text-align: center;
+        width: auto;
     }
     @import url('/css/search.css');
 section{

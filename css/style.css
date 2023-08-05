@@ -91,3 +91,62 @@ header h1{
     width: 100%;
     margin-left: 7%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .tab {
+    padding: 10px 20px;
+    background-color: none;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+  .tab.active {
+    background-color: none;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .juego {
+    display: none;
+    margin-bottom: 10px;
+  }
+
+  .juego.active {
+    display: inline-block;
+  }
+  .container{
+    background-color: black;
+    width: 90%;
+    height: auto;
+    margin-top: 15px;
+    margin-left: 15px;
+    color: black;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .container p{
+    font-size: 1.2rem;
+    font-weight: 300;
+  }

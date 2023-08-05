@@ -36,6 +36,7 @@
             <li><a class="cate" href="/roms/"><img src="/img/rom.png" class="lateral-img">ROMS</a></li>
             <li><a class="cate" href="https://cinenexus.netlify.app/"><img src="/img/cine.png"
                         class="lateral-img">Peliculas</a></li>
+            <li><a class="cate" href="/terminos-y-condiciones">Terminos y Condiciones</a></li>
             <div class="redes-2">
                 <a href="www.tiktok.com/@virtual.._nexus"><img src="/img/tik-tok.png"></a>
                 <a href="https://discord.gg/tuq5cZkUcQ"><img src="/img/ds.png"></a>
@@ -50,8 +51,10 @@
         <div class="content-s">
 
             <div>
-                <h1>Emuladores</h1>
-                <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+                <h1>Emuladores</h1>                <div id="buscador">
+                    <input type="text" id="inputBusqueda" placeholder="Buscar juegos">
+                    <button class="btn-buscar" onclick="realizarBusqueda()">Buscar</button>
+                </div>
             </div>
 
             <ul id="listaArticulos">

@@ -1,6 +1,134 @@
 const pccc = `
 <button  class="juego" target="_BLANK"> 
                 
+<a target="_blank" href="https://www.mediafire.com/file/09p186yb9rl7m9r"> 
+
+                <img src="https://media.senscritique.com/media/000020059922/300/Kingdoms_and_Castles.jpg" class="img-juego">
+                <b>Kingdoms and Castles</b> 
+                <p>650MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/lt4x9u5zwc"> 
+
+                <img src="https://harveyvoices.co.uk/wp-content/uploads/2023/02/ravenboundlogo-1-1-1024x1024.jpg" class="img-juego">
+                <b>Revenbound</b> 
+                <p>5.560MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/mvsi9ejmv2"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/05/26/teardown-1653601933254.jpg" class="img-juego">
+                <b>Teardown</b> 
+                <p>6.960MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/hm1ti3exa8mztwa/Backrooms.Escape.Together.Build.21052023-0xdeadc0de.zip/file"> 
+
+                <img src="https://www.freegamesland.net/wp-content/uploads/2022/11/Backrooms-Escape-Together-1.webp" class="img-juego">
+                <b>Backroom: Escape Together</b> 
+                <p>4.200MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/tq7867v7r4ibj38"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/05/14/core-keeper-button-1652496290455.jpg" class="img-juego">
+                <b>Core Keeper</b> 
+                <p>102MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/rdvepfrfk8"> 
+
+                <img src="https://assets-prd.ignimgs.com/2023/03/24/bramble-1679696890249.jpg" class="img-juego">
+                <b>Bramble the mountain king</b> 
+                <p>6.590MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+
+<button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/x59lxi2a01c3585/Set8tlem4entSur6vival-1.0.68.41-elamigos.rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/08/18/settlement-survival-button-1660866046983.jpg" class="img-juego">
+                <b>Settlement Survival</b> 
+                <p>480MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href=" https://mega.nz/file/dvMwhS4Z#Q5GM_wKNhfK5yBL1kIJ1jKyavXmkwpf2wUxCbC0op-g"> 
+
+                <img src="https://assets1.ignimgs.com/2018/02/23/7-days-to-die---button-f-1519426182787.jpg?width=300&crop=1%3A1%2Csmart" class="img-juego">
+                <b>7 days to die</b> 
+                <p>10.200MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/fvhqlgh96wxdt64/Move+or+Die-oNLY.rar/file"> 
+
+                <img src="https://assets1.ignimgs.com/2016/04/19/move-or-die-buttonjpg-6d9dd1.jpg" class="img-juego">
+                <b>Move or Die</b> 
+                <p>520MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://mega.nz/file/E3ABBbaJ#JS5qY9TYqDMK3__sk5Y0qUazREIjuUEKvk6vvikdrPc"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/06/08/potionpermit-1654697334441.jpg" class="img-juego">
+                <b>Potion Permit</b> 
+                <p>241MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/77cmhfh5lzjretu/Dred3ge-1.2.0-elamigos.rar/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/08/18/dredge-button-1660867186302.jpg" class="img-juego">
+                <b>Dredge</b> 
+                <p>980MB</p> 
+                
+</a>
+ 
+                </button>
+
+<button  class="juego" target="_BLANK"> 
+                
 <a target="_blank" href=" https://www.mediafire.com/file/2cgbknaedtjyq2n/BeamNG.Drive.v0.24.1.3-0xdeadc0de.7z/file"> 
 
                 <img src="https://assets-prd.ignimgs.com/2022/11/03/beamngdrive-button-2022-1667519670575.jpg" class="img-juego">
@@ -312,7 +440,7 @@ const pccc = `
                 
 <a target="_blank" href="https://www.mediafire.com/file/s7j0x04c5zly8yk/Super.Fancy.Pants.Adventure.zip/file"> 
 
-                <img data-src="https://www.almadigitales.net/wp-content/uploads/2021/08/16.jpg" class="img-juego">
+                <img data-src="https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/e86e8f057ec357e9b1bc04963a99e752.png" class="img-juego">
                 <b>Fancy Pants Adventure</b> 
                 <p>90MB</p> 
                 
@@ -2506,6 +2634,10 @@ const pccc = `
 </a>
 </button>
 
+
+                
+                <div class="tabs" id="tabs"></div>
+                </div>
 
 `;
 

@@ -971,8 +971,7 @@ const textoHTML = `
 
                 <button class="juego">
 
-                    <a
-                        href="https://www.mediafire.com/file/qwvzunnctw55dxw/Scribblenauts_Unlimited_%255B1.27_Apk%252BObb%255D.zip/file">
+                    <a href="https://sharetext.me/v0wkqlmt2o">
 
                         <img data-src="https://play-lh.googleusercontent.com/RSuDvl7RkVO2qvESKnfK1JkAf9XtadnazY_XxqBlDt2Uy60vkM19F_clzF1EkmIsiEUH"
                             class="img-juego">
@@ -2460,8 +2459,10 @@ const textoHTML = `
                         <p>791MB</p>
                     </a>
 
-
                 </button>
+                                    <div class="tabs" id="tabs"></div>
+                </div>
+
 `;
 
 const android = document.getElementById('android');

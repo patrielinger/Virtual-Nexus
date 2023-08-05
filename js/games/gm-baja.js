@@ -234,7 +234,7 @@ const gmbaja = `
                 
 <a target="_blank" href="https://www.mediafire.com/file/s7j0x04c5zly8yk/Super.Fancy.Pants.Adventure.zip/file"> 
 
-                <img data-src="https://www.almadigitales.net/wp-content/uploads/2021/08/16.jpg" class="img-juego">
+                <img data-src="https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/e86e8f057ec357e9b1bc04963a99e752.png" class="img-juego">
                 <b>Fancy Pants Adventure</b> 
                 <p>90MB</p> 
                 
@@ -1545,6 +1545,9 @@ const gmbaja = `
 </button>
 
 
+                
+                <div class="tabs" id="tabs"></div>
+                </div>
 `;
 
 const dsasdasdagbdasd = document.getElementById('gm-baja');

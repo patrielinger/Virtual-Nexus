@@ -89,6 +89,10 @@ const textklfaskfsoHTML = `
                 </a> 
                 </button>
 
+                
+                <div class="tabs" id="tabs"></div>
+                </div>
+
 `;
 
 const listaArticulosElement = document.getElementById('emu-android');

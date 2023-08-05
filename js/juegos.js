@@ -244,27 +244,58 @@ function modificarParte() {
 
 
 
+  const juegos = document.querySelectorAll('.juego');
+  const tabsContainer = document.getElementById('tabs');
 
-  function openTab(tabId) {
-    // Ocultar todos los contenidos de pestañas
-    const tabContents = document.getElementsByClassName("tab-content");
-    for (let i = 0; i < tabContents.length; i++) {
-      tabContents[i].style.display = "none";
-    }
+  const elementosPorPestana = 24;
+  const pestanasPorFila = 5;
+  const espacioDespuesDePestanas = 10;
+  const totalPestanas = Math.ceil(juegos.length / elementosPorPestana);
 
-    // Mostrar solo el contenido de la pestaña seleccionada
-    const selectedTab = document.getElementById(tabId);
-    if (selectedTab) {
-      selectedTab.style.display = "block";
-    }
+  for (let i = 0; i < totalPestanas; i++) {
+    const tab = document.createElement('div');
+    tab.classList.add('tab');
+    tab.textContent = `${i + 1}`;
+    tab.addEventListener('click', () => abrirPestana(i));
+    tabsContainer.appendChild(tab);
 
-    // Resaltar el botón de la pestaña activa
-    const tabButtons = document.getElementsByClassName("tab-buttons")[0].children;
-    for (let i = 0; i < tabButtons.length; i++) {
-      tabButtons[i].classList.remove("active-cartel");
-    }
-    const activeButton = Array.from(tabButtons).find((button) => button.getAttribute("onclick") === `openTab('${tabId}')`);
-    if (activeButton) {
-      activeButton.classList.add("active-cartel");
+    if ((i + 1) % pestanasPorFila === 0 && i !== totalPestanas - 1) {
+      const espacio = document.createElement('div');
+      espacio.style.height = `${espacioDespuesDePestanas}px`;
+      tabsContainer.appendChild(espacio);
     }
   }
+
+  function abrirPestana(pestanaIndex) {
+    juegos.forEach((juego, index) => {
+      if (index >= pestanaIndex * elementosPorPestana && index < (pestanaIndex + 1) * elementosPorPestana) {
+        juego.classList.add('active');
+      } else {
+        juego.classList.remove('active');
+      }
+    });
+
+    const tabs = document.querySelectorAll('.tab');
+    tabs.forEach((tab, index) => {
+      if (index === pestanaIndex) {
+        tab.classList.add('active');
+      } else {
+        tab.classList.remove('active');
+      }
+    });
+  }
+
+  function realizarBusqueda() {
+    const inputBusqueda = document.getElementById('inputBusqueda').value.toLowerCase();
+    
+    juegos.forEach(juego => {
+      if (juego.innerText.toLowerCase().includes(inputBusqueda)) {
+        juego.classList.add('active');
+      } else {
+        juego.classList.remove('active');
+      }
+    });
+  }
+
+  // Abre la primera pestaña por defecto
+  abrirPestana(0);
