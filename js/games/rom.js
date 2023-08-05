@@ -114,8 +114,6 @@ const roms = `
 
                 
                 
-                <div class="tabs" id="tabs"></div>
-                </div>
 `;
 
 const dassglpok = document.getElementById('rom');
