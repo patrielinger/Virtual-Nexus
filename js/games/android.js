@@ -1,5 +1,79 @@
 const textoHTML = `
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/6dmdgj9senzvnt0/Super-Meat-Boy-Forever-v6480-1707-1895-145.apk/file"> 
 
+                <img src="https://www.pngitem.com/pimgs/m/270-2701059_super-meat-boy-forever-font-hd-png-download.png" class="img-juego">
+                <b>Super meat boy forever</b> 
+                <p>834MB</p> 
+                
+</a>
+ 
+                </button>
+                
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/7wdtgsaxnr"> 
+
+                <img src="https://play-lh.googleusercontent.com/lH328HVza39Inx0s-pZ4RfNE7HlTKkMgBJS1ba-EDEuB10lws5eRPgBXF4Tx9iPKkCA" class="img-juego">
+                <b>Dawncaster</b> 
+                <p>1023MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/bidicyhm8xt8714/org.godotengine.brotato_1.3.133-APK_Award-Mod.apk/file"> 
+
+                <img src="https://play-lh.googleusercontent.com/W1lo1T_PwzZF_SGr2h9lQI27AbidpuE6MpMn2cAgfoiX8BgT2_0i6aOHI0Mmle3KV0M=w240-h480-rw" class="img-juego">
+                <b>Brotato: Premium</b> 
+                <p>123MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/3gjlw3643z"> 
+
+                <img src="https://play-lh.googleusercontent.com/2UZJnJjTXtSc_x7u4D84CfqDqdjgiHbVxJt0Y3z93DPSpbbVxPinan9ry36_gi2dgHA=s48-rw" class="img-juego">
+                <b>Tinyfolks</b> 
+                <p>64MB</p> 
+                
+</a>
+ 
+                </button>
+                
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/dizcd72avayjwh4/Stardew_Valley_v1.5.6.39_-_TheFenix010.apk/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2021/12/20/stardewvalley-1640044262769.jpg" class="img-juego">
+                <b>Stradew Valley</b> 
+                <p>358MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://mega.nz/file/7BZ2gQqJ#e9zkMACoOQjVCqkbRz2zBGimTVamTgThszcAe3-_9bI"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/08/16/bloons-td6-button-1660612008881.jpg" class="img-juego">
+                <b>Bloons TD 6</b> 
+                <p>59MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
 <a target="_blank" href="http://www.mediafire.com/file/zyjketkjogpkm0d/kof_2002_magic_plus_II_by_FEIL517.apk/file"> 
