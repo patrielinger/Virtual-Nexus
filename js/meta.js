@@ -28,3 +28,22 @@ function lazyLoadImages() {
 }
 lazyLoadImages();
 window.addEventListener('scroll', lazyLoadImages);
+
+
+
+const content = document.getElementById("content");
+
+content.innerHTML += content.innerHTML; // Duplica el contenido inicial
+
+let scrollPosition = 0;
+
+function scrollLoop() {
+  scrollPosition += 1;
+  if (scrollPosition >= content.scrollWidth / 2) {
+    scrollPosition = 0;
+  }
+  content.style.transform = `translateX(-${scrollPosition}px)`;
+  requestAnimationFrame(scrollLoop);
+}
+
+scrollLoop();

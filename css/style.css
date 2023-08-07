@@ -150,3 +150,60 @@ header h1{
     font-size: 1.2rem;
     font-weight: 300;
   }
+
+
+
+
+
+
+
+
+
+
+
+body {
+  overflow-x: hidden;
+  text-align: center;
+}
+
+.container {
+  width: 90%;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.content {
+  white-space: nowrap;
+}
+
+.item {
+  display: inline-block;
+  width: 160px;
+  background-color: none;
+  margin-right: 10px;
+  box-sizing: border-box;
+}
+.item a img{
+    width: 160px;
+}
+.item a{
+    text-decoration-line: none;
+    color: white;
+}
+.overlay{
+    z-index: 10;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.recoo{
+    position: absolute;
+    left: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}

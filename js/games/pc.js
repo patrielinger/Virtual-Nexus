@@ -598,7 +598,7 @@ const pccc = `
 </button>
 <button class="juego" id="re-home" target="_BLANK">
 
-<a target="_blank" href=" http://www.mediafire.com/file/g1f3kgnz8qr4v9z/Enter+The+Gungeon+-+ChidoWan.rar">
+<a target="_blank" href="http://www.mediafire.com/file/g1f3kgnz8qr4v9z/Enter+The+Gungeon+-+ChidoWan.rar">
 
     <img data-src="https://assets-prd.ignimgs.com/2022/01/07/enter-the-gungeon-button-fin-1641520699006.jpg?width=300&crop=1%3A1%2Csmart"
         class="img-juego">

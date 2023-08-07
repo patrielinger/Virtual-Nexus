@@ -48,18 +48,6 @@ const textoHTML = `
  
                 </button>
                 
-<button  class="juego" id="re-home" target="_BLANK"> 
-                
-<a target="_blank" href="https://www.mediafire.com/file/dizcd72avayjwh4/Stardew_Valley_v1.5.6.39_-_TheFenix010.apk/file"> 
-
-                <img src="https://assets-prd.ignimgs.com/2021/12/20/stardewvalley-1640044262769.jpg" class="img-juego">
-                <b>Stradew Valley</b> 
-                <p>358MB</p> 
-                
-</a>
- 
-                </button>
-                
                 
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
@@ -1157,6 +1145,7 @@ const textoHTML = `
                         <p>483MB</p>
 
                     </a>
+
 
                 </button>
 
@@ -2448,7 +2437,7 @@ const textoHTML = `
                 </button>
 
                 <button class="juego" id="re-home">
-                    <a target="_blank" href="https://cuty.io/b1R7H1Lku">
+                    <a target="_blank" href="https://drive.google.com/file/d/1F0LyYH6qDXQ1R_e3JjNG7rY9yJgBoN_k/view?usp=sharing">
                         <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP28Ae0hK2R63zQKvfdRX5iYFnu822bRmPvA&usqp=CAU"
                             class="img-juego">
                         <b>Hollow Knight</b>
