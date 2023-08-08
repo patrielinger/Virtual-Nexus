@@ -1,6 +1,104 @@
 const textoHTML = `
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
+<a target="_blank" href=" https://www.mediafire.com/file/g08jwl3ffp97snn/Angry_Birds_remastered.apk/file?dkey=q461wd74hpa664"> 
+
+                <img src="https://assets-prd.ignimgs.com/2023/04/03/angryreloaded-1680543548062.jpg" class="img-juego">
+                <b>Angry Birds Reloaded</b> 
+                <p>35MB</p> 
+                
+</a>
+ 
+                </button>
+                
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/rvbw86n225mya69/"> 
+
+                <img src="https://m.media-amazon.com/images/M/MV5BMGJmNWE4ODctNzJkNi00NDg2LWFlMDAtNzRhNjNlOTIzMDE0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" class="img-juego">
+                <b>The Joy of Creation</b> 
+                <p>94MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/2nhub68ttd5ddsn/Jetpack+Joyride+v1.74.4+Mod+-+AndroForever.com.apk/file?dkey=oq6lhpize69&r=922"> 
+
+                <img src="https://assets1.ignimgs.com/2019/01/09/jetpack-joyride---button-1546993618462.jpg?width=300&crop=1%3A1%2Csmart" class="img-juego">
+                <b>Jetpack Joyride Hack</b> 
+                <p>153MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://drive.google.com/file/d/13rdvVwrJEE44fgERRUCYoCdQjH1yvGYb/view"> 
+
+                <img src="https://assets1.ignimgs.com/2017/08/04/icey-1501865241049.jpg?width=300&crop=1%3A1%2Csmart" class="img-juego">
+                <b>Icey</b> 
+                <p>1690MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+            <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href=" https://www.mediafire.com/file/l9t114r2i3ta1ps/burrito-bison-mod_3.55-an1.com.apk/file"> 
+
+                <img src="https://assets2.ignimgs.com/2014/12/08/burrito-bison-revenge-buttonjpeg-592c96.jpg" class="img-juego">
+                <b>Burrito Bison Mod </b> 
+                <p>70MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+            <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://mega.nz/folder/5U8QTAya#xI2MN60EjOj4DLZnZamt1w"> 
+
+                <img src="https://play-lh.googleusercontent.com/CaHq5fR-RHQwutR1wr78LywKMUbvFzf1uN7vHeZTrIbinUiq7MNhfsuUW2BfJy68" class="img-juego">
+                <b>Bike Race Pro</b> 
+                <p>29MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/ij32dvyzfb"> 
+
+                <img src="https://media.cdnandroid.com/item_images/909853/imagen-monument-valley-2-0ori.jpg" class="img-juego">
+                <b>Monument Valley 2</b> 
+                <p>215MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+            <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/syqw86aaus"> 
+
+                <img src="https://play-lh.googleusercontent.com/cwEBGBn0sg8uv9bTBXSgXkfkxPHlVYnGHtNScbwdd2g5rHqoWvrYXBomQcFn4YRKX3s" class="img-juego">
+                <b>Goat Simulator MMO</b> 
+                <p>510MB</p> 
+                
+</a>
+ 
+                </button>
+
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
 <a target="_blank" href="https://www.mediafire.com/file/6dmdgj9senzvnt0/Super-Meat-Boy-Forever-v6480-1707-1895-145.apk/file"> 
 
                 <img src="https://www.pngitem.com/pimgs/m/270-2701059_super-meat-boy-forever-font-hd-png-download.png" class="img-juego">
@@ -90,7 +188,7 @@ const textoHTML = `
 
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
-<a target="_blank" href="https://www.mediafire.com/folder/yj73tyckr1igs/lego+m"> 
+<a target="_blank" href="https://sharetext.me/uhmxkfif3m"> 
 
                 <img src="https://assets-prd.ignimgs.com/2022/01/07/lego-marvel-super-heroes-1-button-1641593994986.jpg" class="img-juego">
                 <b>Lego Marvel Super Heroes</b> 
