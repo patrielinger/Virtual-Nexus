@@ -745,7 +745,7 @@ const gmbaja = `
 
 </button><button class="juego" id="re-home" target="_BLANK">
 
-<a target="_blank" href="https://www.mediafire.com/file/f4qmedavg777de0/ICF.rar/file">
+<a target="_blank" href="https://drive.google.com/file/d/1xZhurINEwRK2Iqu_SeMdQX-5RJIUwD7b/view">
 
     <img data-src="https://img.utdstc.com/icon/f45/2db/f452dbb9b284fb3d576d8bbd0e6dd25dbc5853c30fa2c04066fc221f3a11b5a5:200"
         class="img-juego">
@@ -1301,7 +1301,7 @@ const gmbaja = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/llKqpVpsYFX">
+<a target="_blank" href="https://www.mediafire.com/file/7gndjohqoe2rf24/Five.Nights.at.Freddys.2_Keneddy97.rar/file">
     <img data-src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag"
         class="img-juego">
     <b>Five Nights at Freddy´s 2</b>

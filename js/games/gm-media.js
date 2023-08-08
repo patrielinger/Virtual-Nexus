@@ -533,7 +533,7 @@ const gmmedia = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/2ai6s54">
+<a target="_blank" href="https://sharetext.me/xub87sgorl">
     <img data-src="https://storage.qoo-img.com/game/11742/ZoUr34wZ4n4i9XfoVSBec9lk4ZtjGIRq.jpg"
         class="img-juego">
     <b>Cuphead + DLC</b>
@@ -552,7 +552,7 @@ const gmmedia = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/NlDypanbt">
+<a target="_blank" href="https://sharetext.me/he6l7s3e8d">
     <img data-src="https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3249324-untitled-1.jpg"
         class="img-juego">
     <b>Little Nightmares </b>

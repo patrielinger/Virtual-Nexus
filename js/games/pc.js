@@ -208,10 +208,10 @@ const pccc = `
 
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
-<a target="_blank" href="https://www.mediafire.com/file/5pryxfdkp07bg9h/Five.Nights.at.Freddys.Security.Breach.Ruin-RUNE.torrent/file"> 
+<a target="_blank" href="https://sharetext.me/0iz1drwckp"> 
 
                 <img src="https://assets-prd.ignimgs.com/2021/01/15/five-nights-at-freddys-security-breach-button-01-1610676549519.jpg" class="img-juego">
-                <b>Five Nights at Freddy´s Security Breach</b> 
+                <b>Five Nights at Freddy´s Security Breach + DLC</b> 
                 <p>12.000MB</p> 
                 
 </a>
@@ -951,7 +951,7 @@ const pccc = `
 
 </button><button class="juego" id="re-home" target="_BLANK">
 
-<a target="_blank" href="https://www.mediafire.com/file/f4qmedavg777de0/ICF.rar/file">
+<a target="_blank" href="https://drive.google.com/file/d/1xZhurINEwRK2Iqu_SeMdQX-5RJIUwD7b/view">
 
     <img data-src="https://img.utdstc.com/icon/f45/2db/f452dbb9b284fb3d576d8bbd0e6dd25dbc5853c30fa2c04066fc221f3a11b5a5:200"
         class="img-juego">
@@ -1477,7 +1477,7 @@ const pccc = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/llKqpVpsYFX">
+<a target="_blank" href="https://www.mediafire.com/file/7gndjohqoe2rf24/Five.Nights.at.Freddys.2_Keneddy97.rar/file">
     <img data-src="https://play-lh.googleusercontent.com/GYcyLlHWoZumcal0WmDJJo2rCFyl3Y0mwXm0zaD-C9gC0PJGQMhzOKHfDUVlqSDlag"
         class="img-juego">
     <b>Five Nights at Freddy´s 2</b>
@@ -2076,7 +2076,7 @@ const pccc = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/2ai6s54">
+<a target="_blank" href="https://sharetext.me/xub87sgorl">
     <img data-src="https://storage.qoo-img.com/game/11742/ZoUr34wZ4n4i9XfoVSBec9lk4ZtjGIRq.jpg"
         class="img-juego">
     <b>Cuphead + DLC</b>
@@ -2095,7 +2095,7 @@ const pccc = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/NlDypanbt">
+<a target="_blank" href="https://sharetext.me/he6l7s3e8d">
     <img data-src="https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3249324-untitled-1.jpg"
         class="img-juego">
     <b>Little Nightmares </b>

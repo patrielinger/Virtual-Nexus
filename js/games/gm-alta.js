@@ -1,10 +1,10 @@
 const gmalta = `
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
-<a target="_blank" href="https://www.mediafire.com/file/5pryxfdkp07bg9h/Five.Nights.at.Freddys.Security.Breach.Ruin-RUNE.torrent/file"> 
+<a target="_blank" href="https://sharetext.me/0iz1drwckp"> 
 
                 <img src="https://assets-prd.ignimgs.com/2021/01/15/five-nights-at-freddys-security-breach-button-01-1610676549519.jpg" class="img-juego">
-                <b>Five Nights at Freddy´s Security Breach</b> 
+                <b>Five Nights at Freddy´s Security Breach + DLC</b> 
                 <p>12.000MB</p> 
                 
 </a>
