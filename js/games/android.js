@@ -1,6 +1,115 @@
 const textoHTML = `
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
+<a target="_blank" href="https://www.mediafire.com/file/t2zkefmcjbr4icp/iron_marines_invasion_rts_game_v0.15.9_mod.apk/file"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/09/08/iron-marines-invasion-button-crop-1662669005898.jpg" class="img-juego">
+                <b>Iron Marines Invasion</b> 
+                <p>611MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/ayvlkmts9xgb7dl/"> 
+
+                <img src="https://play-lh.googleusercontent.com/Id0sz8G1cC9FhJjPzjvgmLs61WyTRp-vN42S9DU4CDeZNWj99Ur1HgA-mhWSeilSQQ=w240-h480-rw" class="img-juego">
+                <b> the sun origin</b> 
+                <p>484MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/g82xceqd2bprqsd/COROMOD.apk"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/07/21/coromon-button-1658440615288.jpg" class="img-juego">
+                <b>Coromon</b> 
+                <p>136MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/jrdbqdsq4n"> 
+
+                <img src="https://assets-prd.ignimgs.com/2022/01/19/max-payne-1-button-1642625434858.jpg" class="img-juego">
+                <b>Max Payne</b> 
+                <p>1.170MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/c51w5dxhqnlbizm/Car_Parking_Multiplayer_v4.8.8.3.apk/file"> 
+
+                <img src="https://play-lh.googleusercontent.com/BnMBfcfi3vBBhR2L9aM-Mjq9VN9W-R_5Bv-30F37scpzTyd_kNbSO1azqOQ_WmV33a4" class="img-juego">
+                <b>Car Parking Hack</b> 
+                <p>490MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/download/rwz5crq1uvzplv2"> 
+
+                <img src="https://assets-prd.ignimgs.com/2020/12/10/nova-3-button-1607577529171.jpg" class="img-juego">
+                <b>NOVA 3</b> 
+                <p>1.620MB</p> 
+                
+</a>
+ 
+                </button>
+                
+                
+            <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://sharetext.me/rv3h1vc7za"> 
+
+                <img src="https://notadogame.com/uploads/game/cover/150x185/63be4456e3967.jpg" class="img-juego">
+                <b>Ganstar rio</b> 
+                <p>802MB</p> 
+                
+</a>
+ 
+                </button>
+                
+           <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/download/5sokzhukzp1jw2w"> 
+
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Samurai_II_-_Vengeance_logo.png/220px-Samurai_II_-_Vengeance_logo.png" class="img-juego">
+                <b>samurai 2 vengance</b> 
+                <p>44MB</p> 
+                
+</a>
+ 
+                </button>
+                <button  class="juego" id="re-home" target="_BLANK"> 
+                
+<a target="_blank" href="https://www.mediafire.com/file/qwqoxqxys9b1u9i/ExiledKingdoms_1.2.1121v3.apk/file"> 
+
+                <img src="https://play-lh.googleusercontent.com/MIHz1sepeWXCoYxcT4Nde7CxAr-iP9EH5SnKfBhf9Z44N4X7c2U1HLKuoCnVOo2_oiU" class="img-juego">
+                <b>Exiled Kindoms</b> 
+                <p>100MB</p> 
+                
+</a>
+ 
+                </button>
+                
+
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
 <a target="_blank" href=" https://www.mediafire.com/file/g08jwl3ffp97snn/Angry_Birds_remastered.apk/file?dkey=q461wd74hpa664"> 
 
                 <img src="https://assets-prd.ignimgs.com/2023/04/03/angryreloaded-1680543548062.jpg" class="img-juego">

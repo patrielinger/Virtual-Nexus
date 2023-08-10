@@ -2158,8 +2158,8 @@ const pccc = `
 
 <button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/eVDRiUP">
-    <img style="width: 60%;"
-        src="https://img2.freepng.es/20180601/zkr/kisspng-call-of-duty-2-call-of-duty-wwii-call-of-duty-bl-5b11697b98d746.107679771527867771626.jpg"
+    <img
+        src="https://assets-prd.ignimgs.com/2022/01/04/call-of-duty-2-button-edit-1641279747073.jpg"
         class="img-juego">
     <b>Call of Duty 2 </b>
     <p>9549MB</p>
@@ -2168,7 +2168,7 @@ const pccc = `
 
 <button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/PHHm">
-    <img data-src="https://e7.pngegg.com/pngimages/184/635/png-clipart-call-of-duty-advanced-warfare-call-of-duty-modern-warfare-3-playstation-4-playstation-3-call-of-duty-video-game-playstation-4.png"
+    <img data-src="https://assets-prd.ignimgs.com/2021/12/15/call-of-duty-advanced-warfighter-button-fin-1639609784036.jpg"
         class="img-juego">
     <b>Call of Duty: <br> Advanced Warfare</b>
     <p>46023MB</p>
@@ -2177,7 +2177,7 @@ const pccc = `
 
 <button class="juego" id="re-home" target="_BLANK">
 <a target="_blank" href="https://cuty.io/xQuOV">
-    <img style="width: 60%;"
+    <img
         src="https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/call-of-duty-black-ops-file-47151f2f.jpeg"
         class="img-juego">
     <b>Call of Duty: <br> Black Ops </b>
@@ -2187,7 +2187,7 @@ const pccc = `
 
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/9SoxJgwA">
+<a target="_blank" href="https://sharetext.me/kfzoyht0i5">
     <img data-src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022013/untitled-1_11.png?itok=57BJCS8U"
         class="img-juego">
     <b>Call of Duty: <br> Black Ops II</b>
@@ -2574,7 +2574,7 @@ const pccc = `
 </button>
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/4AYEOu5vz">
+<a target="_blank" href="madiashare.com/downloads?d=1layvgjkydk6c9ssj9">
     <img data-src="https://www.callofduty.com/content/dam/atvi/callofduty/legacy/blackops3/landing-digital/bo3-landig-bo3-boxart.jpg"
         class="img-juego">
     <b>Call of Duty: Black Ops III <br> Complete </b>

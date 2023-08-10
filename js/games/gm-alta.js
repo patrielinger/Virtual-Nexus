@@ -296,7 +296,7 @@ const gmalta = `
 </button>
 
 <button class="juego" id="re-home" target="_BLANK">
-<a target="_blank" href="https://cuty.io/4AYEOu5vz">
+<a target="_blank" href="madiashare.com/downloads?d=1layvgjkydk6c9ssj9">
     <img data-src="https://www.callofduty.com/content/dam/atvi/callofduty/legacy/blackops3/landing-digital/bo3-landig-bo3-boxart.jpg"
         class="img-juego">
     <b>Call of Duty: Black Ops III <br> Complete </b>
