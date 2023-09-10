@@ -1,6 +1,18 @@
 const textoHTML = `
 <button  class="juego" id="re-home" target="_BLANK"> 
                 
+<a target="_blank" href="https://www.mediafire.com/file/mggrdp4ah5mrzj1/Bounce_Tales_-_Original_Nokia.apk/file"> 
+
+                <img src="https://play-lh.googleusercontent.com/E0VhBnUb512NTj7RyMHJDodbPD2vcTDf2O8AkkLh2ULyBXeRRxkUtmGg74811enmZLJN=w240-h480-rw" class="img-juego">
+                <b>Bounce Tales</b> 
+                <p>53MB</p> 
+                
+</a>
+ 
+                </button>
+                
+<button  class="juego" id="re-home" target="_BLANK"> 
+                
 <a target="_blank" href="https://www.mediafire.com/file/t2zkefmcjbr4icp/iron_marines_invasion_rts_game_v0.15.9_mod.apk/file"> 
 
                 <img src="https://assets-prd.ignimgs.com/2022/09/08/iron-marines-invasion-button-crop-1662669005898.jpg" class="img-juego">
